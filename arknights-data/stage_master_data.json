@@ -1,0 +1,951 @@
+{
+  "version": "1.0.0",
+  "server": "global",
+  "stages": [
+    {
+      "stageId": "stageId",
+      "id": "ID",
+      "name": {
+        "ja": "jp",
+        "en": "en",
+        "ch": "ch"
+      }
+    },
+    {
+      "stageId": "a001",
+      "id": "GT",
+      "name": {
+        "ja": "騎兵と狩人",
+        "en": "The Knight & The Hunters",
+        "ch": "骑兵与猎人"
+      }
+    },
+    {
+      "stageId": "a003",
+      "id": "OF",
+      "name": {
+        "ja": "青く燃ゆる心",
+        "en": "Heart of Surging Flame",
+        "ch": "火蓝之心"
+      }
+    },
+    {
+      "stageId": "act10d5",
+      "id": "SV",
+      "name": {
+        "ja": "ウルサスの子供たち",
+        "en": "Children of Ursus",
+        "ch": "乌萨斯的孩子们"
+      }
+    },
+    {
+      "stageId": "act10mini",
+      "id": "TB",
+      "name": {
+        "ja": "闇散らす火花",
+        "en": "A Light Spark in Darkness",
+        "ch": "阴云火花"
+      }
+    },
+    {
+      "stageId": "act11d0",
+      "id": "TW",
+      "name": {
+        "ja": "ウォルモンドの薄暮",
+        "en": "Twilight of Wolumonde",
+        "ch": "沃伦姆德的薄暮"
+      }
+    },
+    {
+      "stageId": "act11mini",
+      "id": "TC",
+      "name": {
+        "ja": "未完の断章",
+        "en": "To Be Continued",
+        "ch": "未尽篇章"
+      }
+    },
+    {
+      "stageId": "act12d0",
+      "id": "RI",
+      "name": {
+        "ja": "帰還！密林の長",
+        "en": "The Great Chief Returns",
+        "ch": "密林悍将归来"
+      }
+    },
+    {
+      "stageId": "act12mini",
+      "id": "AW",
+      "name": {
+        "ja": "夕景に影ありて",
+        "en": "An Obscure Wanderer",
+        "ch": "日暮寻路"
+      }
+    },
+    {
+      "stageId": "act12side",
+      "id": "DH",
+      "name": {
+        "ja": "ドッソレスホリデー",
+        "en": "Dossoles Holiday",
+        "ch": "多索雷斯假日"
+      }
+    },
+    {
+      "stageId": "act13d0",
+      "id": "FA",
+      "name": {
+        "ja": "在りし日の風を求めて",
+        "en": "Rewinding Breeze",
+        "ch": "踏寻往昔之风"
+      }
+    },
+    {
+      "stageId": "act13d5",
+      "id": "MN",
+      "name": {
+        "ja": "マリア・ニアール",
+        "en": "Maria Nearl",
+        "ch": "玛莉娅・临光"
+      }
+    },
+    {
+      "stageId": "act13mini",
+      "id": "BW",
+      "name": {
+        "ja": "また会えたね",
+        "en": "It's Been a While",
+        "ch": "好久不见"
+      }
+    },
+    {
+      "stageId": "act13side",
+      "id": "NL",
+      "name": {
+        "ja": "ニアーライト",
+        "en": "Near Light",
+        "ch": "长夜临光"
+      }
+    },
+    {
+      "stageId": "act14mini",
+      "id": "DC",
+      "name": {
+        "ja": "春分",
+        "en": "Chunfen",
+        "ch": "春分"
+      }
+    },
+    {
+      "stageId": "act14side",
+      "id": "BI",
+      "name": {
+        "ja": "風雪一過",
+        "en": "Break The Ice",
+        "ch": "风雪过境"
+      }
+    },
+    {
+      "stageId": "act15d0",
+      "id": "MB",
+      "name": {
+        "ja": "孤島激震",
+        "en": "Mansfield Break",
+        "ch": "孤岛风云"
+      }
+    },
+    {
+      "stageId": "act15d5",
+      "id": "BH",
+      "name": {
+        "ja": "彼方を望む",
+        "en": "Beyond Here",
+        "ch": "此地之外"
+      }
+    },
+    {
+      "stageId": "act15mini",
+      "id": "FD",
+      "name": {
+        "ja": "樹影にて眠る",
+        "en": "The Black Forest Wills a Dream",
+        "ch": "眠于树影之中"
+      }
+    },
+    {
+      "stageId": "act15side",
+      "id": "IW",
+      "name": {
+        "ja": "将進酒",
+        "en": "Invitation to Wine",
+        "ch": "将进酒"
+      }
+    },
+    {
+      "stageId": "act16d5",
+      "id": "WR",
+      "name": {
+        "ja": "画中人",
+        "en": "Who is Real",
+        "ch": "画中人"
+      }
+    },
+    {
+      "stageId": "act16mini",
+      "id": "TG",
+      "name": {
+        "ja": "ニヤニヤ谷へ",
+        "en": "To the Grinning Valley",
+        "ch": "去咧嘴谷"
+      }
+    },
+    {
+      "stageId": "act16side",
+      "id": "GA",
+      "name": {
+        "ja": "吾れ先導者たらん",
+        "en": "Guide Ahead",
+        "ch": "吾导先路"
+      }
+    },
+    {
+      "stageId": "act17d0",
+      "id": "OD",
+      "name": {
+        "ja": "オペレーション オリジニウムダスト",
+        "en": "Operation Originium Dust",
+        "ch": "源石尘行动"
+      }
+    },
+    {
+      "stageId": "act17mini",
+      "id": "KR",
+      "name": {
+        "ja": "溶炉『還魂』譚",
+        "en": "A Kazdelian Rescue",
+        "ch": "熔炉“还魂”记"
+      }
+    },
+    {
+      "stageId": "act17side",
+      "id": "SN",
+      "name": {
+        "ja": "狂人号",
+        "en": "Stultifera Navis",
+        "ch": "愚人号"
+      }
+    },
+    {
+      "stageId": "act18d0",
+      "id": "WD",
+      "name": {
+        "ja": "遺塵の道を",
+        "en": "A Walk in The Dust",
+        "ch": "遗尘漫步"
+      }
+    },
+    {
+      "stageId": "act18d3",
+      "id": "SV",
+      "name": {
+        "ja": "潮汐の下",
+        "en": "Under Tides",
+        "ch": "覆潮之下"
+      }
+    },
+    {
+      "stageId": "act18mini",
+      "id": "SE",
+      "name": {
+        "ja": "ではまた明日",
+        "en": "See You Soon",
+        "ch": "我们明日见"
+      }
+    },
+    {
+      "stageId": "act18side",
+      "id": "LE",
+      "name": {
+        "ja": "塵影に交わる残響",
+        "en": "Lingering Echoes",
+        "ch": "尘影余音"
+      }
+    },
+    {
+      "stageId": "act19mini",
+      "id": "FM",
+      "name": {
+        "ja": "鏡中集",
+        "en": "Fantasy in the Mirage",
+        "ch": "镜中集"
+      }
+    },
+    {
+      "stageId": "act19side",
+      "id": "DV",
+      "name": {
+        "ja": "翠玉の夢",
+        "en": "Dorothy's Vision",
+        "ch": "绿野幻梦"
+      }
+    },
+    {
+      "stageId": "act20side",
+      "id": "IC",
+      "name": {
+        "ja": "理想都市 -エンドレスカーニバル-",
+        "en": "Ideal City: Endless Carnival",
+        "ch": "理想城：长夏狂欢季"
+      }
+    },
+    {
+      "stageId": "act20mini",
+      "id": "CG",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "十字路口"
+      }
+    },
+    {
+      "stageId": "act21side",
+      "id": "IS",
+      "name": {
+        "ja": "シラクザーノ",
+        "en": "IL Siracusano",
+        "ch": "叙拉古人"
+      }
+    },
+    {
+      "stageId": "act22side",
+      "id": "FC",
+      "name": {
+        "ja": "この炎が照らす先",
+        "en": "What The Firelight Casts",
+        "ch": "照我以火"
+      }
+    },
+    {
+      "stageId": "act23side",
+      "id": "WB",
+      "name": {
+        "ja": "登臨意",
+        "en": "Whre Vernal Winds Will Never Blow",
+        "ch": "登临意"
+      }
+    },
+    {
+      "stageId": "act24side",
+      "id": "CF",
+      "name": {
+        "ja": "紅炎遣らう落葉",
+        "en": "A Flurry to the Flame",
+        "ch": "落叶逐火"
+      }
+    },
+    {
+      "stageId": "act25side",
+      "id": "CW",
+      "name": {
+        "ja": "孤星",
+        "en": "Lone Trail",
+        "ch": "孤星"
+      }
+    },
+    {
+      "stageId": "act26side",
+      "id": "HE",
+      "name": {
+        "ja": "空想の花庭",
+        "en": "Hortus de Escapismo",
+        "ch": "空想花庭"
+      }
+    },
+    {
+      "stageId": "act27side",
+      "id": "SL",
+      "name": {
+        "ja": "火山と雲と夢色の旅路",
+        "en": "So Long, Adele: Hoome Away From Home",
+        "ch": "火山旅梦"
+      }
+    },
+    {
+      "stageId": "act28side",
+      "id": "CV",
+      "name": {
+        "ja": "ダーティマネー",
+        "en": "Come Catastrophes or Wakes of Vultures",
+        "ch": "不义之财"
+      }
+    },
+    {
+      "stageId": "act29side",
+      "id": "ZT",
+      "name": {
+        "ja": "ツヴィリングトゥルムの黄金",
+        "en": "Zwillingstürme im Herbst",
+        "ch": "崔林特尔梅之金"
+      }
+    },
+    {
+      "stageId": "act30side",
+      "id": "RS",
+      "name": {
+        "ja": "銀心湖鉄道",
+        "en": "The Rides to Lake Silberneherze",
+        "ch": "银心湖列车"
+      }
+    },
+    {
+      "stageId": "act31side",
+      "id": "HS",
+      "name": {
+        "ja": "懐黍離",
+        "en": "Here A People Sows",
+        "ch": "怀黍离"
+      }
+    },
+    {
+      "stageId": "act32side",
+      "id": "CR",
+      "name": {
+        "ja": "オペレーション ルーセントアローヘッド",
+        "en": "Operation Lucent Arrowhead",
+        "ch": "水晶箭行动"
+      }
+    },
+    {
+      "stageId": "act33side",
+      "id": "BB",
+      "name": {
+        "ja": "バベル",
+        "en": "Babel",
+        "ch": "巴别塔"
+      }
+    },
+    {
+      "stageId": "act34side",
+      "id": "BP",
+      "name": {
+        "ja": "生存航路",
+        "en": "Path of Life",
+        "ch": "生路"
+      }
+    },
+    {
+      "stageId": "act35side",
+      "id": "AS",
+      "name": {
+        "ja": "太陽すらも追い越して",
+        "en": "Adventure That Cannot Wait for the Sun",
+        "ch": "太阳甩在身后"
+      }
+    },
+    {
+      "stageId": "act36side",
+      "id": "DT",
+      "name": {
+        "ja": "テラ飯",
+        "en": "Delicious on Terra",
+        "ch": "泰拉饭"
+      }
+    },
+    {
+      "stageId": "act37side",
+      "id": "GO",
+      "name": {
+        "ja": "落日の向こうへ",
+        "en": "Ending a Grand Overture",
+        "ch": "追迹日落以西"
+      }
+    },
+    {
+      "stageId": "act38side",
+      "id": "PV",
+      "name": {
+        "ja": "幕開く者たち",
+        "en": "I Portatori dei Velluti",
+        "ch": "揭幕者们"
+      }
+    },
+    {
+      "stageId": "act39side",
+      "id": "EP",
+      "name": {
+        "ja": "白き海の彼方へ",
+        "en": "Exodus From The Pale Sea",
+        "ch": "出苍白海"
+      }
+    },
+    {
+      "stageId": "act40side",
+      "id": "OR",
+      "name": {
+        "ja": "相見歓",
+        "en": "Such is the Joy of Our Reunion",
+        "ch": "相见欢"
+      }
+    },
+    {
+      "stageId": "act41side",
+      "id": "EA",
+      "name": {
+        "ja": "挽歌が灰に還る時",
+        "en": "When Elegies Are Ashes",
+        "ch": "挽歌燃烧殆尽"
+      }
+    },
+    {
+      "stageId": "act42side",
+      "id": "MT",
+      "name": {
+        "ja": "命ある者の旅",
+        "en": "The Masses' Travels",
+        "ch": "众生行记"
+      }
+    },
+    {
+      "stageId": "act43side",
+      "id": "AD",
+      "name": {
+        "ja": "緋染めのビロード",
+        "en": "Act or Die",
+        "ch": "红丝绒"
+      }
+    },
+    {
+      "stageId": "act44side",
+      "id": "AT",
+      "name": {
+        "ja": "墟",
+        "en": "Ato",
+        "ch": "墟"
+      }
+    },
+    {
+      "stageId": "act45side",
+      "id": "SS",
+      "name": {
+        "ja": "安らかな譫言",
+        "en": "Somniloquium Serenum",
+        "ch": "无忧梦呓"
+      }
+    },
+    {
+      "stageId": "act46side",
+      "id": "OS",
+      "name": {
+        "ja": "聖山降臨1101",
+        "en": "Retracing Our Steps",
+        "ch": "雪山降临1101"
+      }
+    },
+    {
+      "stageId": "act47side",
+      "id": "UR",
+      "name": {
+        "ja": "約束されざる地",
+        "en": "Unrealized Realities",
+        "ch": "未许之地"
+      }
+    },
+    {
+      "stageId": "act48side",
+      "id": "ME",
+      "name": {
+        "ja": "アテヌス復讐記",
+        "en": "Medjehtiqedti Bound",
+        "ch": "雅赛努斯复仇记"
+      }
+    },
+    {
+      "stageId": "act49side",
+      "id": "TA",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "辞岁行"
+      }
+    },
+    {
+      "stageId": "act51side",
+      "id": "PA",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "人们，我们"
+      }
+    },
+    {
+      "stageId": "act4d0",
+      "id": "SW-EV",
+      "name": {
+        "ja": "戦地の逸話",
+        "en": "Operational Intelligence",
+        "ch": "战地秘闻"
+      }
+    },
+    {
+      "stageId": "act5d0",
+      "id": "CB",
+      "name": {
+        "ja": "喧騒の掟",
+        "en": "Code of Brawl",
+        "ch": "喧闹法则"
+      }
+    },
+    {
+      "stageId": "act6d5",
+      "id": "AF",
+      "name": {
+        "ja": "洪炉示歳",
+        "en": "Ancient Forge",
+        "ch": "洪炉示岁"
+      }
+    },
+    {
+      "stageId": "act7d5",
+      "id": "SA",
+      "name": {
+        "ja": "午後の逸話",
+        "en": "Stories of Afternoon",
+        "ch": "午间逸话"
+      }
+    },
+    {
+      "stageId": "act7mini",
+      "id": "PL",
+      "name": {
+        "ja": "灯火序曲",
+        "en": "Preluding Lights",
+        "ch": "灯火序曲"
+      }
+    },
+    {
+      "stageId": "act8mini",
+      "id": "VI",
+      "name": {
+        "ja": "VIGILO -我が眼に映るまま-",
+        "en": "Vigilo",
+        "ch": "如我所见"
+      }
+    },
+    {
+      "stageId": "act9d0",
+      "id": "DM",
+      "name": {
+        "ja": "闇夜に生きる",
+        "en": "Darknights Memoir",
+        "ch": "生于黑夜"
+      }
+    },
+    {
+      "stageId": "act9mini",
+      "id": "PS",
+      "name": {
+        "ja": "赤松林",
+        "en": "Pinus Sylvestris",
+        "ch": "红松林"
+      }
+    },
+    {
+      "stageId": "main_00",
+      "id": "0",
+      "name": {
+        "ja": "序章",
+        "en": "Prologue",
+        "ch": "序章"
+      }
+    },
+    {
+      "stageId": "main_01",
+      "id": "1",
+      "name": {
+        "ja": "第一章",
+        "en": "Episode 01",
+        "ch": "第一章"
+      }
+    },
+    {
+      "stageId": "main_02",
+      "id": "2",
+      "name": {
+        "ja": "第二章",
+        "en": "Episode 02",
+        "ch": "第二章"
+      }
+    },
+    {
+      "stageId": "main_03",
+      "id": "3",
+      "name": {
+        "ja": "第三章",
+        "en": "Episode 03",
+        "ch": "第三章"
+      }
+    },
+    {
+      "stageId": "main_04",
+      "id": "4",
+      "name": {
+        "ja": "第四章",
+        "en": "Episode 04",
+        "ch": "第四章"
+      }
+    },
+    {
+      "stageId": "main_05",
+      "id": "5",
+      "name": {
+        "ja": "第五章",
+        "en": "Episode 05",
+        "ch": "第五章"
+      }
+    },
+    {
+      "stageId": "main_06",
+      "id": "6",
+      "name": {
+        "ja": "第六章",
+        "en": "Episode 06",
+        "ch": "第六章"
+      }
+    },
+    {
+      "stageId": "main_07",
+      "id": "7",
+      "name": {
+        "ja": "第七章",
+        "en": "Episode 07",
+        "ch": "第七章"
+      }
+    },
+    {
+      "stageId": "main_08",
+      "id": "8",
+      "name": {
+        "ja": "第八章",
+        "en": "Episode 08",
+        "ch": "第八章"
+      }
+    },
+    {
+      "stageId": "main_09",
+      "id": "9",
+      "name": {
+        "ja": "第九章",
+        "en": "Episode 09",
+        "ch": "第九章"
+      }
+    },
+    {
+      "stageId": "main_10",
+      "id": "10",
+      "name": {
+        "ja": "第十章(通常)",
+        "en": "Episode 10 (Standard)",
+        "ch": "第十章 (标准)"
+      }
+    },
+    {
+      "stageId": "main_11",
+      "id": "11",
+      "name": {
+        "ja": "第十一章(通常)",
+        "en": "Episode 11 (Standard)",
+        "ch": "第十一章 (标准)"
+      }
+    },
+    {
+      "stageId": "main_12",
+      "id": "12",
+      "name": {
+        "ja": "第十二章(通常)",
+        "en": "Episode 12 (Standard)",
+        "ch": "第十二章 (标准)"
+      }
+    },
+    {
+      "stageId": "main_13",
+      "id": "13",
+      "name": {
+        "ja": "第十三章(通常)",
+        "en": "Episode 13 (Standard)",
+        "ch": "第十三章 (标准)"
+      }
+    },
+    {
+      "stageId": "main_14",
+      "id": "14",
+      "name": {
+        "ja": "第十四章(通常)",
+        "en": "Episode 14 (Standard)",
+        "ch": "第十四章 (标准)"
+      }
+    },
+    {
+      "stageId": "main_15",
+      "id": "15",
+      "name": {
+        "ja": "第十五章",
+        "en": "Episode 15",
+        "ch": "第十五章"
+      }
+    },
+    {
+      "stageId": "main_16",
+      "id": "16",
+      "name": {
+        "ja": "第十六章",
+        "en": "Episode 16",
+        "ch": "第十六章"
+      }
+    },
+    {
+      "stageId": "main_17",
+      "id": "17",
+      "name": {
+        "ja": "第十七章",
+        "en": "Episode 17",
+        "ch": "第十七章"
+      }
+    },
+    {
+      "stageId": "pro_a",
+      "id": "PR-A",
+      "name": {
+        "ja": "SoC(重装/医療)",
+        "en": "Solid Defense",
+        "ch": "固若金汤"
+      }
+    },
+    {
+      "stageId": "pro_b",
+      "id": "PR-B",
+      "name": {
+        "ja": "SoC(狙撃/術師)",
+        "en": "Fierce Attack",
+        "ch": "摧枯拉朽"
+      }
+    },
+    {
+      "stageId": "pro_c",
+      "id": "PR-C",
+      "name": {
+        "ja": "SoC(先鋒/補助)",
+        "en": "Unstoppable Charge",
+        "ch": "势不可挡"
+      }
+    },
+    {
+      "stageId": "pro_d",
+      "id": "PR-D",
+      "name": {
+        "ja": "SoC(前衛/特殊)",
+        "en": "Fearless Protection",
+        "ch": "身先士卒"
+      }
+    },
+    {
+      "stageId": "tough_10",
+      "id": "H10",
+      "name": {
+        "ja": "第十章(厄難)",
+        "en": "Episode 10 (Tough)",
+        "ch": "第十章 (磨难)"
+      }
+    },
+    {
+      "stageId": "tough_11",
+      "id": "H11",
+      "name": {
+        "ja": "第十一章(厄難)",
+        "en": "Episode 11 (Tough)",
+        "ch": "第十一章 (磨难)"
+      }
+    },
+    {
+      "stageId": "tough_12",
+      "id": "H12",
+      "name": {
+        "ja": "第十二章(厄難)",
+        "en": "Episode 12 (Tough)",
+        "ch": "第十二章 (磨难)"
+      }
+    },
+    {
+      "stageId": "tough_13",
+      "id": "H13",
+      "name": {
+        "ja": "第十三章(厄難)",
+        "en": "Episode 13 (Tough)",
+        "ch": "第十三章 (磨难)"
+      }
+    },
+    {
+      "stageId": "tough_14",
+      "id": "H14",
+      "name": {
+        "ja": "第十四章(厄難)",
+        "en": "Episode 14 (Tough)",
+        "ch": "第十四章 (磨难)"
+      }
+    },
+    {
+      "stageId": "wk_armor",
+      "id": "SK",
+      "name": {
+        "ja": "資源確保",
+        "en": "Resource Search",
+        "ch": "资源保障"
+      }
+    },
+    {
+      "stageId": "wk_fly",
+      "id": "CA",
+      "name": {
+        "ja": "空軍迎撃",
+        "en": "Aerial Threat",
+        "ch": "空中威胁"
+      }
+    },
+    {
+      "stageId": "wk_kc",
+      "id": "LS",
+      "name": {
+        "ja": "戦術演習",
+        "en": "Tactical Drill",
+        "ch": "战术演习"
+      }
+    },
+    {
+      "stageId": "wk_melee",
+      "id": "CE",
+      "name": {
+        "ja": "貨物輸送",
+        "en": "Cargo Escort",
+        "ch": "货物运送"
+      }
+    },
+    {
+      "stageId": "wk_toxic",
+      "id": "AP",
+      "name": {
+        "ja": "防御突破",
+        "en": "Tough Siege",
+        "ch": "粉碎防御"
+      }
+    },
+    {
+      "stageId": "act50side",
+      "id": "",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": ""
+      }
+    }
+  ]
+}
