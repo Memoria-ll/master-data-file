@@ -16,6 +16,8 @@
       "faction": 3,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/07/09",
         "global": "2020/02/26"
@@ -184,6 +186,8 @@
       "faction": 13,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -351,6 +355,8 @@
       "faction": 35,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -516,6 +522,8 @@
       "faction": 35,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -681,6 +689,8 @@
       "faction": 21,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -846,6 +856,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -1013,6 +1025,8 @@
       "faction": 5,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -1180,6 +1194,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -1360,6 +1376,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -1507,6 +1525,8 @@
       "faction": 3,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -1674,6 +1694,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -1839,6 +1861,8 @@
       "faction": 28,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/05/30",
         "global": "2020/02/05"
@@ -2006,6 +2030,8 @@
       "faction": 24,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/08/27",
         "global": "2020/04/29"
@@ -2171,6 +2197,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/09/10",
         "global": "2020/04/15"
@@ -2336,6 +2364,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/10/15",
         "global": "2020/03/25"
@@ -2501,6 +2531,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/11/19",
         "global": "2020/05/27"
@@ -2666,6 +2698,8 @@
       "faction": 36,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/12/24",
         "global": "2020/06/30"
@@ -2833,6 +2867,8 @@
       "faction": 4,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/01/16",
         "global": "2020/07/29"
@@ -2997,6 +3033,8 @@
       "faction": 7,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/01/16",
         "global": "2020/07/29"
@@ -3162,6 +3200,8 @@
       "faction": 30,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/02/25",
         "global": "2020/08/26"
@@ -3327,6 +3367,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/03/17",
         "global": "2020/09/10"
@@ -3492,6 +3534,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/04/21",
         "global": "2020/12/10"
@@ -3674,6 +3718,8 @@
       "faction": 38,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/05/01",
         "global": "2020/12/30"
@@ -3836,6 +3882,8 @@
       "faction": 30,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/05/01",
         "global": "2020/12/30"
@@ -4004,6 +4052,8 @@
       "faction": 1,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/06/18",
         "global": "2020/09/29"
@@ -4169,6 +4219,8 @@
       "faction": 17,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/07/09",
         "global": "2020/10/28"
@@ -4329,6 +4381,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/08/11",
         "global": "2021/01/20"
@@ -4496,6 +4550,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/08/25",
         "global": "2021/02/25"
@@ -4676,6 +4732,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/09/24",
         "global": "2021/03/25"
@@ -4835,6 +4893,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/10/15",
         "global": "2021/04/08"
@@ -5000,6 +5060,8 @@
       "faction": 36,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/11/01",
         "global": "2021/04/30"
@@ -5155,6 +5217,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/11/01",
         "global": "2021/04/30"
@@ -5320,6 +5384,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/12/17",
         "global": "2021/06/22"
@@ -5485,6 +5551,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/01/05",
         "global": "2021/07/06"
@@ -5665,6 +5733,8 @@
       "faction": 7,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/02/05",
         "global": "2021/07/30"
@@ -5845,6 +5915,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/02/05",
         "global": "2021/07/30"
@@ -6010,6 +6082,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/03/09",
         "global": "2021/08/18"
@@ -6170,6 +6244,8 @@
       "faction": 22,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/04/15",
         "global": "2021/09/30"
@@ -6344,6 +6420,8 @@
       "faction": 27,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/05/01",
         "global": "2021/10/21"
@@ -6503,6 +6581,8 @@
       "faction": 30,
       "place": 21,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/05/01",
         "global": "2021/10/21"
@@ -6685,6 +6765,8 @@
       "faction": 28,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/05/01",
         "global": "2021/10/21"
@@ -6850,6 +6932,8 @@
       "faction": 10,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/06/01",
         "global": "2021/12/09"
@@ -7015,6 +7099,8 @@
       "faction": 26,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/07/02",
         "global": "2021/12/29"
@@ -7175,6 +7261,8 @@
       "faction": 30,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/08/03",
         "global": "2022/01/14"
@@ -7340,6 +7428,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/08/03",
         "global": "2022/01/14"
@@ -7520,6 +7610,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/09/17",
         "global": "2022/03/17"
@@ -7685,6 +7777,8 @@
       "faction": 16,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/10/15",
         "global": "2022/04/14"
@@ -7850,6 +7944,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/11/01",
         "global": "2022/04/28"
@@ -8015,6 +8111,8 @@
       "faction": 16,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/11/01",
         "global": "2022/04/28"
@@ -8180,6 +8278,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/12/21",
         "global": "2022/06/30"
@@ -8360,6 +8460,8 @@
       "faction": 7,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/01/25",
         "global": "2022/07/29"
@@ -8505,6 +8607,8 @@
       "faction": 4,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/01/25",
         "global": "2022/07/29"
@@ -8670,6 +8774,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/02/15",
         "global": "2022/08/18"
@@ -8835,6 +8941,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/03/15",
         "global": "2022/09/16"
@@ -9000,6 +9108,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/04/14",
         "global": "2022/10/19"
@@ -9165,6 +9275,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/05/01",
         "global": "2022/11/03"
@@ -9344,6 +9456,8 @@
       "faction": 28,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/05/01",
         "global": "2022/11/03"
@@ -9523,6 +9637,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/05/01",
         "global": "2022/11/03"
@@ -9688,6 +9804,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/06/09",
         "global": "2022/12/27"
@@ -9873,6 +9991,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/07/05",
         "global": "2023/03/14"
@@ -10038,6 +10158,8 @@
       "faction": 30,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/08/11",
         "global": "2023/01/13"
@@ -10203,6 +10325,8 @@
       "faction": 30,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/08/11",
         "global": "2023/01/13"
@@ -10368,6 +10492,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/09/08",
         "global": "2023/03/31"
@@ -10503,6 +10629,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/10/11",
         "global": "2023/04/27"
@@ -10668,6 +10796,8 @@
       "faction": 5,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/11/01",
         "global": "2023/05/23"
@@ -10827,6 +10957,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/11/01",
         "global": "2023/05/23"
@@ -10992,6 +11124,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/11/01",
         "global": "2023/05/23"
@@ -11157,6 +11291,8 @@
       "faction": 40,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/12/15",
         "global": "2023/07/13"
@@ -11297,6 +11433,8 @@
       "faction": 7,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/01/17",
         "global": "2023/07/28"
@@ -11462,6 +11600,8 @@
       "faction": 2,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/01/17",
         "global": "2023/07/28"
@@ -11627,6 +11767,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/02/14",
         "global": "2023/08/22"
@@ -11772,6 +11914,8 @@
       "faction": 34,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/03/07",
         "global": "2023/09/07"
@@ -11931,6 +12075,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/04/06",
         "global": "2023/10/24"
@@ -12071,6 +12217,8 @@
       "faction": 21,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/05/01",
         "global": "2023/11/07"
@@ -12236,6 +12384,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/05/01",
         "global": "2023/11/07"
@@ -12411,6 +12561,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/05/01",
         "global": "2023/11/07"
@@ -12571,6 +12723,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/06/08",
         "global": "2023/12/21"
@@ -12736,6 +12890,8 @@
       "faction": 23,
       "place": 14,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/07/06",
         "global": "2024/02/27"
@@ -12910,6 +13066,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/08/01",
         "global": "2024/01/16"
@@ -13074,6 +13232,8 @@
       "faction": 2,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/08/01",
         "global": "2024/01/16"
@@ -13249,6 +13409,8 @@
       "faction": 20,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/09/05",
         "global": "2024/03/19"
@@ -13411,6 +13573,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/10/08",
         "global": "2024/04/16"
@@ -13571,6 +13735,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/11/01",
         "global": "2024/04/30"
@@ -13736,6 +13902,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/11/01",
         "global": "2024/04/30"
@@ -13901,6 +14069,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/11/01",
         "global": "2024/04/30"
@@ -14066,6 +14236,8 @@
       "faction": 11,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/12/05",
         "global": "2024/06/21"
@@ -14230,6 +14402,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/01/09",
         "global": "2024/07/09"
@@ -14395,6 +14569,8 @@
       "faction": 7,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/02/01",
         "global": "2024/07/31"
@@ -14540,6 +14716,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/02/01",
         "global": "2024/07/31"
@@ -14700,6 +14878,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/03/07",
         "global": "2024/09/05"
@@ -14840,6 +15020,8 @@
       "faction": 37,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/04/11",
         "global": "2024/10/10"
@@ -15005,6 +15187,8 @@
       "faction": 38,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/05/01",
         "global": "2024/10/31"
@@ -15145,6 +15329,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/05/01",
         "global": "2024/10/31"
@@ -15305,6 +15491,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/05/01",
         "global": "2024/10/31"
@@ -15450,6 +15638,8 @@
       "faction": 28,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/06/05",
         "global": "2024/12/03"
@@ -15590,6 +15780,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/07/09",
         "global": "2025/02/07"
@@ -15754,6 +15946,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/08/01",
         "global": "2025/01/16"
@@ -15909,6 +16103,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/08/01",
         "global": "2025/01/16"
@@ -16068,6 +16264,8 @@
       "faction": 30,
       "place": 104,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/09/02",
         "global": "2025/03/10"
@@ -16208,6 +16406,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/10/09",
         "global": "2025/04/08"
@@ -16368,6 +16568,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/11/01",
         "global": "2025/04/24"
@@ -16513,6 +16715,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/11/01",
         "global": "2025/04/24"
@@ -16672,6 +16876,8 @@
       "faction": 30,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/11/01",
         "global": "2025/04/24"
@@ -16836,6 +17042,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/12/05",
         "global": "2025/06/05"
@@ -16976,6 +17184,8 @@
       "faction": 7,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/01/22",
         "global": "2025/07/17"
@@ -17119,6 +17329,8 @@
       "faction": 36,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/01/22",
         "global": "2025/07/17"
@@ -17259,6 +17471,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/02/14",
         "global": "2025/08/07"
@@ -17419,6 +17633,8 @@
       "faction": 40,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/03/07",
         "global": "2025/08/28"
@@ -17559,6 +17775,8 @@
       "faction": 30,
       "place": 21,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/04/07",
         "global": "2025/09/16"
@@ -17699,6 +17917,8 @@
       "faction": 5,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/05/01",
         "global": "2025/10/14"
@@ -17839,6 +18059,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/05/01",
         "global": "2025/10/14"
@@ -17979,6 +18201,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/05/01",
         "global": "2025/10/14"
@@ -18138,6 +18362,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/06/05",
         "global": "2025/11/13"
@@ -18278,6 +18504,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/07/08",
         "global": "2025/12/11"
@@ -18418,6 +18646,8 @@
       "faction": 36,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/07/15",
         "global": "2025/12/18"
@@ -18451,6 +18681,8 @@
       "faction": 3,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/08/02",
         "global": "2026/01/16"
@@ -18591,6 +18823,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/08/02",
         "global": "2026/01/16"
@@ -18731,6 +18965,8 @@
       "faction": 30,
       "place": 105,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/09/04",
         "global": "2026/02/10"
@@ -18871,6 +19107,8 @@
       "faction": 36,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/10/09",
         "global": "2026/03/19"
@@ -19011,6 +19249,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/11/01",
         "global": "2026/04/14"
@@ -19129,6 +19369,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/11/01",
         "global": "2026/04/14"
@@ -19269,6 +19511,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/11/01",
         "global": "2026/04/14"
@@ -19409,6 +19653,8 @@
       "faction": 21,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/12/05",
         "global": "2026/05/21"
@@ -19549,6 +19795,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/01/09",
         "global": "2026/06/22"
@@ -19689,6 +19937,8 @@
       "faction": 7,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/02/10"
       },
@@ -19827,6 +20077,8 @@
       "faction": 6,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/02/10"
       },
@@ -19965,6 +20217,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/03/10"
       },
@@ -20103,6 +20357,8 @@
       "faction": 1,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/04/07"
       },
@@ -20241,6 +20497,8 @@
       "faction": 30,
       "place": 21,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/05/01"
       },
@@ -20358,6 +20616,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/05/01"
       },
@@ -20496,6 +20756,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/05/01"
       },
@@ -20634,6 +20896,8 @@
       "faction": 33,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/06/01"
       },
@@ -20772,6 +21036,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -20898,6 +21164,8 @@
       "faction": 5,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -21026,6 +21294,8 @@
       "faction": 1,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -21152,6 +21422,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -21278,6 +21550,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -21406,6 +21680,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -21532,6 +21808,8 @@
       "faction": 30,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -21670,6 +21948,8 @@
       "faction": 30,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/11/01",
         "global": "2021/04/30"
@@ -21755,6 +22035,8 @@
       "faction": 30,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/05/01",
         "global": "2024/10/31"
@@ -21840,6 +22122,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/05/30",
         "global": "2020/02/05"
@@ -21961,6 +22245,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22087,6 +22373,8 @@
       "faction": 37,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22208,6 +22496,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22334,6 +22624,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22460,6 +22752,8 @@
       "faction": 2,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22586,6 +22880,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22712,6 +23008,8 @@
       "faction": 29,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22838,6 +23136,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -22964,6 +23264,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23090,6 +23392,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23216,6 +23520,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23344,6 +23650,8 @@
       "faction": 1,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23470,6 +23778,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23596,6 +23906,8 @@
       "faction": 5,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23722,6 +24034,8 @@
       "faction": 20,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23848,6 +24162,8 @@
       "faction": 28,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -23976,6 +24292,8 @@
       "faction": 13,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -24102,6 +24420,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -24225,6 +24545,8 @@
       "faction": 35,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -24348,6 +24670,8 @@
       "faction": 20,
       "place": 18,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -24474,6 +24798,8 @@
       "faction": 26,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -24600,6 +24926,8 @@
       "faction": 5,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -24726,6 +25054,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/05/30",
         "global": "2020/02/05"
@@ -24852,6 +25182,8 @@
       "faction": 3,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/07/09",
         "global": "2020/02/26"
@@ -24980,6 +25312,8 @@
       "faction": 29,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/08/27",
         "global": "2020/04/29"
@@ -25106,6 +25440,8 @@
       "faction": 24,
       "place": 15,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/08/27",
         "global": "2020/04/29"
@@ -25232,6 +25568,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/09/10",
         "global": "2020/04/15"
@@ -25358,6 +25696,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/10/15",
         "global": "2020/03/25"
@@ -25479,6 +25819,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/10/15",
         "global": "2020/03/25"
@@ -25607,6 +25949,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/11/01",
         "global": "2020/05/20"
@@ -25733,6 +26077,8 @@
       "faction": 4,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/11/19",
         "global": "2020/05/27"
@@ -25859,6 +26205,8 @@
       "faction": 2,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/11/19",
         "global": "2020/05/27"
@@ -25985,6 +26333,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/12/10",
         "global": "2020/07/15"
@@ -26113,6 +26463,8 @@
       "faction": 18,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/12/10",
         "global": "2020/07/15"
@@ -26239,6 +26591,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/12/24",
         "global": "2020/06/30"
@@ -26365,6 +26719,8 @@
       "faction": 2,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/01/09",
         "global": "2020/07/29"
@@ -26491,6 +26847,8 @@
       "faction": 4,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/01/16",
         "global": "2020/07/29"
@@ -26617,6 +26975,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/02/25",
         "global": "2020/08/26"
@@ -26745,6 +27105,8 @@
       "faction": 23,
       "place": 14,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/03/17",
         "global": "2020/09/10"
@@ -26871,6 +27233,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/03/17",
         "global": "2020/09/10"
@@ -26997,6 +27361,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/04/21",
         "global": "2020/12/10"
@@ -27123,6 +27489,8 @@
       "faction": 26,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/04/21",
         "global": "2020/12/10"
@@ -27249,6 +27617,8 @@
       "faction": 30,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/05/01",
         "global": "2020/12/30"
@@ -27375,6 +27745,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/06/02",
         "global": "2020/11/11"
@@ -27501,6 +27873,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/06/02",
         "global": "2020/11/11"
@@ -27627,6 +28001,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/06/18",
         "global": "2020/09/29"
@@ -27753,6 +28129,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/06/18",
         "global": "2020/09/29"
@@ -27879,6 +28257,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/07/09",
         "global": "2020/10/28"
@@ -28005,6 +28385,8 @@
       "faction": 30,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/07/09",
         "global": "2020/10/28"
@@ -28130,6 +28512,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/07/28",
         "global": "2020/11/26"
@@ -28256,6 +28640,8 @@
       "faction": 18,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/07/28",
         "global": "2020/11/26"
@@ -28382,6 +28768,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/07/28",
         "global": "2021/02/04"
@@ -28508,6 +28896,8 @@
       "faction": 28,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/08/11",
         "global": "2021/01/20"
@@ -28629,6 +29019,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/08/25",
         "global": "2021/02/25"
@@ -28755,6 +29147,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/08/25",
         "global": "2021/02/25"
@@ -28881,6 +29275,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/09/24",
         "global": "2021/03/25"
@@ -29007,6 +29403,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/09/24",
         "global": "2021/03/25"
@@ -29133,6 +29531,8 @@
       "faction": 18,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/10/15",
         "global": "2021/04/08"
@@ -29259,6 +29659,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/10/15",
         "global": "2021/04/08"
@@ -29385,6 +29787,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/11/01",
         "global": "2021/04/30"
@@ -29511,6 +29915,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/12/17",
         "global": "2021/06/22"
@@ -29637,6 +30043,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/12/17",
         "global": "2021/06/22"
@@ -29763,6 +30171,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/01/05",
         "global": "2021/07/06"
@@ -29889,6 +30299,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/01/19",
         "global": "2021/07/13"
@@ -30015,6 +30427,8 @@
       "faction": 30,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/02/05",
         "global": "2021/07/30"
@@ -30141,6 +30555,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/02/05",
         "global": "2021/07/30"
@@ -30267,6 +30683,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/03/09",
         "global": "2021/08/18"
@@ -30388,6 +30806,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/03/09",
         "global": "2021/08/18"
@@ -30509,6 +30929,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/03/09",
         "global": "2021/08/18"
@@ -30630,6 +31052,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/04/15",
         "global": "2021/09/30"
@@ -30756,6 +31180,8 @@
       "faction": 30,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/04/15",
         "global": "2021/09/30"
@@ -30882,6 +31308,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/05/01",
         "global": "2021/10/21"
@@ -31008,6 +31436,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/06/01",
         "global": "2021/12/09"
@@ -31134,6 +31564,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/06/01",
         "global": "2021/12/09"
@@ -31260,6 +31692,8 @@
       "faction": 25,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/08/03",
         "global": "2022/01/14"
@@ -31386,6 +31820,8 @@
       "faction": 25,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/08/03",
         "global": "2022/01/14"
@@ -31512,6 +31948,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/09/17",
         "global": "2022/03/17"
@@ -31638,6 +32076,8 @@
       "faction": 16,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/10/15",
         "global": "2022/04/14"
@@ -31764,6 +32204,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/11/01",
         "global": "2022/04/28"
@@ -31889,6 +32331,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/11/01",
         "global": "2022/04/28"
@@ -32015,6 +32459,8 @@
       "faction": 16,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/11/01",
         "global": "2022/04/28"
@@ -32141,6 +32587,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/12/21",
         "global": "2022/06/30"
@@ -32267,6 +32715,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/12/21",
         "global": "2022/06/30"
@@ -32393,6 +32843,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/01/05",
         "global": "2022/07/14"
@@ -32519,6 +32971,8 @@
       "faction": 6,
       "place": 101,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/01/10",
         "global": "2022/07/14"
@@ -32640,6 +33094,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/01/25",
         "global": "2022/07/29"
@@ -32766,6 +33222,8 @@
       "faction": 30,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/01/25",
         "global": "2022/07/29"
@@ -32891,6 +33349,8 @@
       "faction": 30,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/02/15",
         "global": "2022/08/18"
@@ -33017,6 +33477,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/03/15",
         "global": "2022/09/16"
@@ -33143,6 +33605,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/03/15",
         "global": "2022/09/16"
@@ -33269,6 +33733,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/04/14",
         "global": "2022/10/19"
@@ -33395,6 +33861,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/04/14",
         "global": "2022/10/19"
@@ -33521,6 +33989,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/05/01",
         "global": "2022/11/03"
@@ -33647,6 +34117,8 @@
       "faction": 26,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/05/19",
         "global": "2022/12/08"
@@ -33773,6 +34245,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/06/09",
         "global": "2022/12/27"
@@ -33899,6 +34373,8 @@
       "faction": 30,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/06/09",
         "global": "2022/12/27"
@@ -34025,6 +34501,8 @@
       "faction": 21,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/07/05",
         "global": "2023/03/14"
@@ -34153,6 +34631,8 @@
       "faction": 30,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/07/05",
         "global": "2023/03/14"
@@ -34279,6 +34759,8 @@
       "faction": 30,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/08/11",
         "global": "2023/01/13"
@@ -34405,6 +34887,8 @@
       "faction": 22,
       "place": 22,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/08/11",
         "global": "2023/01/13"
@@ -34531,6 +35015,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/09/08",
         "global": "2023/03/31"
@@ -34657,6 +35143,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/09/27",
         "global": "2023/05/23"
@@ -34778,6 +35266,8 @@
       "faction": 30,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/10/11",
         "global": "2023/04/27"
@@ -34904,6 +35394,8 @@
       "faction": 13,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/10/11",
         "global": "2023/04/27"
@@ -35030,6 +35522,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/11/01",
         "global": "2023/05/23"
@@ -35156,6 +35650,8 @@
       "faction": 23,
       "place": 14,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/11/01",
         "global": "2023/05/23"
@@ -35282,6 +35778,8 @@
       "faction": 40,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/12/15",
         "global": "2023/07/13"
@@ -35408,6 +35906,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/12/15",
         "global": "2023/07/13"
@@ -35534,6 +36034,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/01/17",
         "global": "2023/07/28"
@@ -35660,6 +36162,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/01/17",
         "global": "2023/07/28"
@@ -35786,6 +36290,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/02/14",
         "global": "2023/08/22"
@@ -35912,6 +36418,8 @@
       "faction": 34,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/03/07",
         "global": "2023/09/07"
@@ -36033,6 +36541,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/04/06",
         "global": "2023/10/24"
@@ -36159,6 +36669,8 @@
       "faction": 13,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/04/06",
         "global": "2023/10/24"
@@ -36285,6 +36797,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/05/01",
         "global": "2023/11/07"
@@ -36411,6 +36925,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/06/08",
         "global": "2023/12/21"
@@ -36537,6 +37053,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/06/08",
         "global": "2023/12/21"
@@ -36663,6 +37181,8 @@
       "faction": 23,
       "place": 14,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/07/06",
         "global": "2024/02/27"
@@ -36789,6 +37309,8 @@
       "faction": 23,
       "place": 14,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/07/13",
         "global": "2024/03/05"
@@ -36910,6 +37432,8 @@
       "faction": 24,
       "place": 15,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/08/01",
         "global": "2024/01/16"
@@ -37036,6 +37560,8 @@
       "faction": 24,
       "place": 15,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/08/01",
         "global": "2024/01/16"
@@ -37162,6 +37688,8 @@
       "faction": 20,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/09/05",
         "global": "2024/03/19"
@@ -37288,6 +37816,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/09/05",
         "global": "2024/03/19"
@@ -37414,6 +37944,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/10/08",
         "global": "2024/04/16"
@@ -37540,6 +38072,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/10/08",
         "global": "2024/04/16"
@@ -37661,6 +38195,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/11/01",
         "global": "2024/04/30"
@@ -37787,6 +38323,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/11/01",
         "global": "2024/04/30"
@@ -37913,6 +38451,8 @@
       "faction": 1,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/12/05",
         "global": "2024/06/21"
@@ -38039,6 +38579,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/12/05",
         "global": "2024/06/21"
@@ -38165,6 +38707,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/01/09",
         "global": "2024/07/09"
@@ -38291,6 +38835,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/02/01",
         "global": "2024/07/31"
@@ -38417,6 +38963,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/02/01",
         "global": "2024/07/31"
@@ -38543,6 +39091,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/02/01",
         "global": "2024/08/07"
@@ -38669,6 +39219,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/03/07",
         "global": "2024/09/05"
@@ -38790,6 +39342,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/03/07",
         "global": "2024/09/05"
@@ -38911,6 +39465,8 @@
       "faction": 39,
       "place": 100,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/03/07",
         "global": "2024/09/05"
@@ -39032,6 +39588,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/04/11",
         "global": "2024/10/10"
@@ -39158,6 +39716,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/04/11",
         "global": "2024/10/10"
@@ -39279,6 +39839,8 @@
       "faction": 30,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/05/01",
         "global": "2024/10/31"
@@ -39400,6 +39962,8 @@
       "faction": 27,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/06/05",
         "global": "2024/12/03"
@@ -39521,6 +40085,8 @@
       "faction": 27,
       "place": 19,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/06/05",
         "global": "2024/12/03"
@@ -39647,6 +40213,8 @@
       "faction": 30,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/07/09",
         "global": "2025/02/07"
@@ -39773,6 +40341,8 @@
       "faction": 19,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/07/16",
         "global": "2025/02/14"
@@ -39899,6 +40469,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/08/01",
         "global": "2025/01/16"
@@ -40025,6 +40597,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/08/01",
         "global": "2025/01/16"
@@ -40151,6 +40725,8 @@
       "faction": 30,
       "place": 104,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/09/02",
         "global": "2025/03/10"
@@ -40272,6 +40848,8 @@
       "faction": 30,
       "place": 104,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/09/02",
         "global": "2025/03/10"
@@ -40393,6 +40971,8 @@
       "faction": 30,
       "place": 104,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/09/02",
         "global": "2025/03/10"
@@ -40514,6 +41094,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/10/09",
         "global": "2025/04/08"
@@ -40640,6 +41222,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/10/09",
         "global": "2025/04/08"
@@ -40766,6 +41350,8 @@
       "faction": 17,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/11/01",
         "global": "2025/04/24"
@@ -40887,6 +41473,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/11/01",
         "global": "2025/04/24"
@@ -41012,6 +41600,8 @@
       "faction": 25,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/12/05",
         "global": "2025/06/05"
@@ -41138,6 +41728,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/12/05",
         "global": "2025/06/05"
@@ -41264,6 +41856,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/01/22",
         "global": "2025/07/17"
@@ -41389,6 +41983,8 @@
       "faction": 20,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/01/22",
         "global": "2025/07/17"
@@ -41514,6 +42110,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/02/14",
         "global": "2025/08/07"
@@ -41640,6 +42238,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/03/07",
         "global": "2025/08/28"
@@ -41766,6 +42366,8 @@
       "faction": 40,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/03/07",
         "global": "2025/08/28"
@@ -41891,6 +42493,8 @@
       "faction": 14,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/04/07",
         "global": "2025/09/16"
@@ -42016,6 +42620,8 @@
       "faction": 25,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/05/01",
         "global": "2025/10/14"
@@ -42115,6 +42721,8 @@
       "faction": 12,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/06/05",
         "global": "2025/11/13"
@@ -42236,6 +42844,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/06/05",
         "global": "2025/11/13"
@@ -42340,6 +42950,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/07/08",
         "global": "2025/12/11"
@@ -42461,6 +43073,8 @@
       "faction": 19,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/08/02",
         "global": "2026/01/16"
@@ -42587,6 +43201,8 @@
       "faction": 6,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/08/02",
         "global": "2026/01/16"
@@ -42691,6 +43307,8 @@
       "faction": 30,
       "place": 105,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/09/04",
         "global": "2026/02/10"
@@ -42812,6 +43430,8 @@
       "faction": 30,
       "place": 105,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/09/04",
         "global": "2026/02/10"
@@ -42933,6 +43553,8 @@
       "faction": 30,
       "place": 105,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/09/04",
         "global": "2026/02/10"
@@ -43054,6 +43676,8 @@
       "faction": 30,
       "place": 105,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/09/04",
         "global": "2026/02/10"
@@ -43175,6 +43799,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/10/09",
         "global": "2026/03/19"
@@ -43300,6 +43926,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/11/01",
         "global": "2026/04/14"
@@ -43421,6 +44049,8 @@
       "faction": 22,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/11/01",
         "global": "2026/04/14"
@@ -43524,6 +44154,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/12/05",
         "global": "2026/05/21"
@@ -43644,6 +44276,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/12/05",
         "global": "2026/05/21"
@@ -43743,6 +44377,8 @@
       "faction": 30,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/01/09",
         "global": "2026/06/22"
@@ -43864,6 +44500,8 @@
       "faction": 26,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/01/09",
         "global": "2026/06/22"
@@ -43985,6 +44623,8 @@
       "faction": 6,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/02/10"
       },
@@ -44083,6 +44723,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/02/10"
       },
@@ -44202,6 +44844,8 @@
       "faction": 17,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/03/10"
       },
@@ -44321,6 +44965,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/04/07"
       },
@@ -44440,6 +45086,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/04/07"
       },
@@ -44559,6 +45207,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/05/01"
       },
@@ -44678,6 +45328,8 @@
       "faction": 33,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/06/01"
       },
@@ -44797,6 +45449,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -44922,6 +45576,8 @@
       "faction": 37,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45047,6 +45703,8 @@
       "faction": 19,
       "place": 11,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45172,6 +45830,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45297,6 +45957,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45424,6 +46086,8 @@
       "faction": 30,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45551,6 +46215,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45676,6 +46342,8 @@
       "faction": 23,
       "place": 14,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45801,6 +46469,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -45926,6 +46596,8 @@
       "faction": 2,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46051,6 +46723,8 @@
       "faction": 2,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46176,6 +46850,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46301,6 +46977,8 @@
       "faction": 15,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46426,6 +47104,8 @@
       "faction": 20,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46553,6 +47233,8 @@
       "faction": 27,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46678,6 +47360,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46803,6 +47487,8 @@
       "faction": 30,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -46923,6 +47609,8 @@
       "faction": 22,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -47048,6 +47736,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/05/30",
         "global": "2020/02/05"
@@ -47173,6 +47863,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -47298,6 +47990,8 @@
       "faction": 30,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -47423,6 +48117,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -47547,6 +48243,8 @@
       "faction": 19,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -47672,6 +48370,8 @@
       "faction": 1,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -47797,6 +48497,8 @@
       "faction": 11,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -47922,6 +48624,8 @@
       "faction": 25,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/07/09",
         "global": "2020/02/26"
@@ -48049,6 +48753,8 @@
       "faction": 30,
       "place": 10,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/08/27",
         "global": "2020/04/29"
@@ -48174,6 +48880,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/09/10",
         "global": "2020/04/15"
@@ -48299,6 +49007,8 @@
       "faction": 30,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/10/01",
         "global": "2020/05/20"
@@ -48424,6 +49134,8 @@
       "faction": 17,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/10/15",
         "global": "2020/03/25"
@@ -48549,6 +49261,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/11/01",
         "global": "2020/05/20"
@@ -48674,6 +49388,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/11/19",
         "global": "2020/05/27"
@@ -48799,6 +49515,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/12/24",
         "global": "2020/06/30"
@@ -48924,6 +49642,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/03/02",
         "global": "2021/05/19"
@@ -49049,6 +49769,8 @@
       "faction": 8,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/03/17",
         "global": "2020/09/10"
@@ -49174,6 +49896,8 @@
       "faction": 26,
       "place": 17,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/04/01",
         "global": "2021/04/01"
@@ -49294,6 +50018,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/04/21",
         "global": "2020/12/10"
@@ -49419,6 +50145,8 @@
       "faction": 30,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/06/18",
         "global": "2020/09/29"
@@ -49544,6 +50272,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/07/09",
         "global": "2020/10/28"
@@ -49669,6 +50399,8 @@
       "faction": 2,
       "place": 1,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/08/11",
         "global": "2021/01/20"
@@ -49794,6 +50526,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/08/25",
         "global": "2021/02/25"
@@ -49919,6 +50653,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/09/24",
         "global": "2021/03/25"
@@ -50044,6 +50780,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/10/15",
         "global": "2021/04/08"
@@ -50169,6 +50907,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/11/01",
         "global": "2021/04/30"
@@ -50294,6 +51034,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/12/17",
         "global": "2021/06/22"
@@ -50419,6 +51161,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/01/05",
         "global": "2021/07/06"
@@ -50544,6 +51288,8 @@
       "faction": 29,
       "place": 20,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/06/01",
         "global": "2021/12/09"
@@ -50669,6 +51415,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/09/17",
         "global": "2022/03/17"
@@ -50794,6 +51542,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/11/01",
         "global": "2022/04/28"
@@ -50919,6 +51669,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/04/14",
         "global": "2022/10/19"
@@ -51044,6 +51796,8 @@
       "faction": 6,
       "place": 102,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/09/15",
         "global": "2023/04/07"
@@ -51164,6 +51918,8 @@
       "faction": 22,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/10/11",
         "global": "2023/04/27"
@@ -51289,6 +52045,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2022/11/01",
         "global": "2023/05/23"
@@ -51414,6 +52172,8 @@
       "faction": 30,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/04/06",
         "global": "2023/10/24"
@@ -51539,6 +52299,8 @@
       "faction": 12,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/10/08",
         "global": "2024/04/16"
@@ -51664,6 +52426,8 @@
       "faction": 25,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/11/01",
         "global": "2024/04/30"
@@ -51789,6 +52553,8 @@
       "faction": 25,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/04/11",
         "global": "2024/10/10"
@@ -51914,6 +52680,8 @@
       "faction": 19,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/11/01",
         "global": "2025/04/24"
@@ -52017,6 +52785,8 @@
       "faction": 6,
       "place": 2,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/04/07",
         "global": "2025/09/16"
@@ -52142,6 +52912,8 @@
       "faction": 0,
       "place": 0,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/10/09",
         "global": "2026/03/19"
@@ -52266,6 +53038,8 @@
       "faction": 10,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/11/01",
         "global": "2026/04/14"
@@ -52386,6 +53160,8 @@
       "faction": 31,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52443,6 +53219,8 @@
       "faction": 20,
       "place": 18,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52500,6 +53278,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52557,6 +53337,8 @@
       "faction": 31,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52616,6 +53398,8 @@
       "faction": 32,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52673,6 +53457,8 @@
       "faction": 31,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52732,6 +53518,8 @@
       "faction": 32,
       "place": 6,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52784,6 +53572,8 @@
       "faction": 31,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52843,6 +53633,8 @@
       "faction": 32,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52900,6 +53692,8 @@
       "faction": 33,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -52959,6 +53753,8 @@
       "faction": 32,
       "place": 7,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53016,6 +53812,8 @@
       "faction": 31,
       "place": 16,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53072,6 +53870,8 @@
       "faction": 32,
       "place": 5,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53129,6 +53929,8 @@
       "faction": 33,
       "place": 9,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/05/23",
         "global": "2020/01/22"
@@ -53188,6 +53990,8 @@
       "faction": 33,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/05/30",
         "global": "2020/02/05"
@@ -53245,6 +54049,8 @@
       "faction": 33,
       "place": 8,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/07/09",
         "global": "2020/02/26"
@@ -53302,6 +54108,8 @@
       "faction": 33,
       "place": 13,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/07/09",
         "global": "2020/02/22"
@@ -53359,6 +54167,8 @@
       "faction": 34,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53394,6 +54204,8 @@
       "faction": 34,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53427,6 +54239,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53460,6 +54274,8 @@
       "faction": 34,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53488,6 +54304,8 @@
       "faction": 34,
       "place": 3,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53523,6 +54341,8 @@
       "faction": 30,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53551,6 +54371,8 @@
       "faction": 30,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2019/04/30",
         "global": "2020/01/16"
@@ -53579,6 +54401,8 @@
       "faction": 30,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2020/05/01",
         "global": "2020/12/30"
@@ -53607,6 +54431,8 @@
       "faction": 16,
       "place": 12,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2021/11/01",
         "global": "2022/04/28"
@@ -53635,6 +54461,8 @@
       "faction": 30,
       "place": 103,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/03/07",
         "global": "2023/09/07"
@@ -53663,6 +54491,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/04/01",
         "global": "2024/04/01"
@@ -53691,6 +54521,8 @@
       "faction": 30,
       "place": 21,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2023/04/01",
         "global": "2024/04/01"
@@ -53719,6 +54551,8 @@
       "faction": 30,
       "place": 21,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2024/05/01",
         "global": "2024/10/31"
@@ -53747,6 +54581,8 @@
       "faction": 9,
       "place": 4,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2025/05/01",
         "global": "2025/10/14"
@@ -53775,6 +54611,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/05/01"
       },
@@ -53802,6 +54640,8 @@
       "faction": 30,
       "place": 99,
       "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
       "addDate": {
         "china": "2026/06/01"
       },
