@@ -33,14 +33,6 @@
           "en": "Unknown",
           "ch": "Unknown"
         }
-      },
-      {
-        "id": null,
-        "name": {
-          "ja": "",
-          "en": "",
-          "ch": ""
-        }
       }
     ],
     "class": [
@@ -106,14 +98,6 @@
           "ja": "特殊",
           "en": "Specialist",
           "ch": "Specialist"
-        }
-      },
-      {
-        "id": null,
-        "name": {
-          "ja": "",
-          "en": "",
-          "ch": ""
         }
       }
     ],
@@ -461,14 +445,6 @@
           "en": "Bang Dream",
           "ch": "Bang Dream"
         }
-      },
-      {
-        "id": null,
-        "name": {
-          "ja": "",
-          "en": "",
-          "ch": ""
-        }
       }
     ],
     "faction": [
@@ -799,14 +775,6 @@
           "en": "Tara",
           "ch": "Tara"
         }
-      },
-      {
-        "id": null,
-        "name": {
-          "ja": "",
-          "en": "",
-          "ch": ""
-        }
       }
     ],
     "place": [
@@ -1049,14 +1017,6 @@
           "en": "Bang Dream",
           "ch": "Bang Dream"
         }
-      },
-      {
-        "id": null,
-        "name": {
-          "ja": "",
-          "en": "",
-          "ch": ""
-        }
       }
     ],
     "subClass": {
@@ -1107,14 +1067,6 @@
             "ja": "策士",
             "en": "Strategist",
             "ch": "策士"
-          }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
           }
         }
       ],
@@ -1230,14 +1182,6 @@
             "en": "Mercenaries",
             "ch": "佣兵"
           }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
-          }
         }
       ],
       "defender": [
@@ -1303,14 +1247,6 @@
             "ja": "本源衛士",
             "en": "Primal Protector",
             "ch": "本源铁卫"
-          }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
           }
         }
       ],
@@ -1394,14 +1330,6 @@
             "en": "Skybreaker ",
             "ch": "裂空炮手"
           }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
-          }
         }
       ],
       "caster": [
@@ -1476,14 +1404,6 @@
             "en": "Shaper",
             "ch": "塑灵术师"
           }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
-          }
         }
       ],
       "medic": [
@@ -1542,14 +1462,6 @@
             "en": "Watchman",
             "ch": "守望者"
           }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
-          }
         }
       ],
       "supporter": [
@@ -1607,14 +1519,6 @@
             "ja": "祭儀師",
             "en": "Ritualist",
             "ch": "巫役"
-          }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
           }
         }
       ],
@@ -1697,14 +1601,6 @@
             "ja": "巡空者",
             "en": "Sky Ranger",
             "ch": "巡空者"
-          }
-        },
-        {
-          "id": null,
-          "name": {
-            "ja": "",
-            "en": "",
-            "ch": ""
           }
         }
       ]
