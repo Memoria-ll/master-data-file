@@ -569,6 +569,15 @@
       }
     },
     {
+      "stageId": "act50side",
+      "id": "TD",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "泡影苍霆"
+      }
+    },
+    {
       "stageId": "act51side",
       "id": "PA",
       "name": {
@@ -938,7 +947,7 @@
       }
     },
     {
-      "stageId": "act50side",
+      "stageId": "act21mini",
       "id": "",
       "name": {
         "ja": "",
