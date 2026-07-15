@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "releaseId": "c9015ee2e3a9a007358c45d923ae3f98bcfab5bd7b29a2ca570d7b07063c3b48",
+  "releaseId": "ea6c624ab0110271c72f418d398210d7b8067c73c035109c56ba69c5d6c682b7",
   "files": {
     "operator": {
-      "path": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20260712_2154_263c7be2.json",
-      "sha256": "263c7be217eb1ee265ab0d8d3f28416f51383b720394807a3d3c03ee0933517e",
-      "size": 978760,
+      "path": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20260715_2132_9ce2adb2.json",
+      "sha256": "9ce2adb2b247d586631ee9910df7cbf25ae56cef2388ecc9afe5cdbd914aba9c",
+      "size": 979454,
       "required": true
     },
     "material": {

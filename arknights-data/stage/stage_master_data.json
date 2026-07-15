@@ -659,6 +659,87 @@
       }
     },
     {
+      "stageId": "pro_a",
+      "id": "PR-A",
+      "name": {
+        "ja": "SoC(重装/医療)",
+        "en": "Solid Defense",
+        "ch": "固若金汤"
+      }
+    },
+    {
+      "stageId": "pro_b",
+      "id": "PR-B",
+      "name": {
+        "ja": "SoC(狙撃/術師)",
+        "en": "Fierce Attack",
+        "ch": "摧枯拉朽"
+      }
+    },
+    {
+      "stageId": "pro_c",
+      "id": "PR-C",
+      "name": {
+        "ja": "SoC(先鋒/補助)",
+        "en": "Unstoppable Charge",
+        "ch": "势不可挡"
+      }
+    },
+    {
+      "stageId": "pro_d",
+      "id": "PR-D",
+      "name": {
+        "ja": "SoC(前衛/特殊)",
+        "en": "Fearless Protection",
+        "ch": "身先士卒"
+      }
+    },
+    {
+      "stageId": "wk_armor",
+      "id": "SK",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": ""
+      }
+    },
+    {
+      "stageId": "wk_fly",
+      "id": "CA",
+      "name": {
+        "ja": "空軍迎撃(アーツ学)",
+        "en": "Aerial Threat",
+        "ch": "空中威胁"
+      }
+    },
+    {
+      "stageId": "wk_kc",
+      "id": "LS",
+      "name": {
+        "ja": "戦術演習(作戦記録)",
+        "en": "Tactical Drill",
+        "ch": "战术演习"
+      }
+    },
+    {
+      "stageId": "wk_melee",
+      "id": "CE",
+      "name": {
+        "ja": "貨物輸送(龍門弊)",
+        "en": "Cargo Escort",
+        "ch": "货物运送"
+      }
+    },
+    {
+      "stageId": "wk_toxic",
+      "id": "AP",
+      "name": {
+        "ja": "防御突破",
+        "en": "Tough Siege",
+        "ch": "粉碎防御"
+      }
+    },
+    {
       "stageId": "main_00",
       "id": "0",
       "name": {
@@ -752,45 +833,45 @@
       "stageId": "main_10",
       "id": "10",
       "name": {
-        "ja": "第十章(通常)",
-        "en": "Episode 10 (Standard)",
-        "ch": "第十章 (标准)"
+        "ja": "第十章",
+        "en": "Episode 10",
+        "ch": "第十章"
       }
     },
     {
       "stageId": "main_11",
       "id": "11",
       "name": {
-        "ja": "第十一章(通常)",
-        "en": "Episode 11 (Standard)",
-        "ch": "第十一章 (标准)"
+        "ja": "第十一章",
+        "en": "Episode 11",
+        "ch": "第十一章"
       }
     },
     {
       "stageId": "main_12",
       "id": "12",
       "name": {
-        "ja": "第十二章(通常)",
-        "en": "Episode 12 (Standard)",
-        "ch": "第十二章 (标准)"
+        "ja": "第十二章",
+        "en": "Episode 12",
+        "ch": "第十二章"
       }
     },
     {
       "stageId": "main_13",
       "id": "13",
       "name": {
-        "ja": "第十三章(通常)",
-        "en": "Episode 13 (Standard)",
-        "ch": "第十三章 (标准)"
+        "ja": "第十三章",
+        "en": "Episode 13",
+        "ch": "第十三章"
       }
     },
     {
       "stageId": "main_14",
       "id": "14",
       "name": {
-        "ja": "第十四章(通常)",
-        "en": "Episode 14 (Standard)",
-        "ch": "第十四章 (标准)"
+        "ja": "第十四章",
+        "en": "Episode 14",
+        "ch": "第十四章"
       }
     },
     {
@@ -821,129 +902,48 @@
       }
     },
     {
-      "stageId": "pro_a",
-      "id": "PR-A",
-      "name": {
-        "ja": "SoC(重装/医療)",
-        "en": "Solid Defense",
-        "ch": "固若金汤"
-      }
-    },
-    {
-      "stageId": "pro_b",
-      "id": "PR-B",
-      "name": {
-        "ja": "SoC(狙撃/術師)",
-        "en": "Fierce Attack",
-        "ch": "摧枯拉朽"
-      }
-    },
-    {
-      "stageId": "pro_c",
-      "id": "PR-C",
-      "name": {
-        "ja": "SoC(先鋒/補助)",
-        "en": "Unstoppable Charge",
-        "ch": "势不可挡"
-      }
-    },
-    {
-      "stageId": "pro_d",
-      "id": "PR-D",
-      "name": {
-        "ja": "SoC(前衛/特殊)",
-        "en": "Fearless Protection",
-        "ch": "身先士卒"
-      }
-    },
-    {
       "stageId": "tough_10",
       "id": "H10",
       "name": {
-        "ja": "第十章(厄難)",
-        "en": "Episode 10 (Tough)",
-        "ch": "第十章 (磨难)"
+        "ja": "",
+        "en": "",
+        "ch": ""
       }
     },
     {
       "stageId": "tough_11",
       "id": "H11",
       "name": {
-        "ja": "第十一章(厄難)",
-        "en": "Episode 11 (Tough)",
-        "ch": "第十一章 (磨难)"
+        "ja": "",
+        "en": "",
+        "ch": ""
       }
     },
     {
       "stageId": "tough_12",
       "id": "H12",
       "name": {
-        "ja": "第十二章(厄難)",
-        "en": "Episode 12 (Tough)",
-        "ch": "第十二章 (磨难)"
+        "ja": "",
+        "en": "",
+        "ch": ""
       }
     },
     {
       "stageId": "tough_13",
       "id": "H13",
       "name": {
-        "ja": "第十三章(厄難)",
-        "en": "Episode 13 (Tough)",
-        "ch": "第十三章 (磨难)"
+        "ja": "",
+        "en": "",
+        "ch": ""
       }
     },
     {
       "stageId": "tough_14",
       "id": "H14",
       "name": {
-        "ja": "第十四章(厄難)",
-        "en": "Episode 14 (Tough)",
-        "ch": "第十四章 (磨难)"
-      }
-    },
-    {
-      "stageId": "wk_armor",
-      "id": "SK",
-      "name": {
-        "ja": "資源確保",
-        "en": "Resource Search",
-        "ch": "资源保障"
-      }
-    },
-    {
-      "stageId": "wk_fly",
-      "id": "CA",
-      "name": {
-        "ja": "空軍迎撃",
-        "en": "Aerial Threat",
-        "ch": "空中威胁"
-      }
-    },
-    {
-      "stageId": "wk_kc",
-      "id": "LS",
-      "name": {
-        "ja": "戦術演習",
-        "en": "Tactical Drill",
-        "ch": "战术演习"
-      }
-    },
-    {
-      "stageId": "wk_melee",
-      "id": "CE",
-      "name": {
-        "ja": "貨物輸送",
-        "en": "Cargo Escort",
-        "ch": "货物运送"
-      }
-    },
-    {
-      "stageId": "wk_toxic",
-      "id": "AP",
-      "name": {
-        "ja": "防御突破",
-        "en": "Tough Siege",
-        "ch": "粉碎防御"
+        "ja": "",
+        "en": "",
+        "ch": ""
       }
     },
     {
