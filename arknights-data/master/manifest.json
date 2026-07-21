@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "releaseId": "ea6c624ab0110271c72f418d398210d7b8067c73c035109c56ba69c5d6c682b7",
+  "releaseId": "cb55d73b583bf318306046cf2c9be7eb2535bbda06579960831dacd9bf9958eb",
   "files": {
     "operator": {
-      "path": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20260715_2132_9ce2adb2.json",
-      "sha256": "9ce2adb2b247d586631ee9910df7cbf25ae56cef2388ecc9afe5cdbd914aba9c",
-      "size": 979454,
+      "path": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20260721_2138_59d56980.json",
+      "sha256": "59d569803e08772618cbb8ed00f0b2f1f7b7403134e8e56c4c4da86db350daea",
+      "size": 980502,
       "required": true
     },
     "material": {
@@ -15,8 +15,8 @@
       "required": true
     },
     "gamedata": {
-      "path": "https://data.memoria-ll.link/arknights-data/master/game_data_master_20260712_2154_48113bc7.json",
-      "sha256": "48113bc775dbf7e9c686cfd2eccf119f74a3176f13a0c0fd9e9be59eef0bf151",
+      "path": "https://data.memoria-ll.link/arknights-data/master/game_data_master_20260721_2138_1017afe0.json",
+      "sha256": "1017afe0683d027397b2509431889e5a41515e9d2f83b32581170e09372903be",
       "size": 31249,
       "required": true
     }
