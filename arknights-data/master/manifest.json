@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "releaseId": "008e5e3f5242ac9e395605381f7cfeda51296fefde2302bd05692f25e3d755cb",
+  "releaseId": "48ae6d0378364b2df136267d905d4d0dc69241595fed96f6c8e0e36940eab5d1",
   "files": {
     "operator": {
-      "path": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20260722_0018_41cd2dbf.json",
-      "sha256": "41cd2dbf83cb01cfc9c7f85712d62d0ffef62c05990e467c270c20e285068ce6",
+      "path": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20260722_0056_ffe1fb02.json",
+      "sha256": "ffe1fb0204cd2da43cf31e09203eeab94d58a579f97be0f915c394af95740405",
       "size": 992214,
       "required": true
     },
     "material": {
-      "path": "https://data.memoria-ll.link/arknights-data/master/material_master_data_20260722_0018_64a46f17.json",
-      "sha256": "64a46f17efef5e940b9ee7b06cbd3f2d2dd9c650559076813451e75c6d6814cc",
+      "path": "https://data.memoria-ll.link/arknights-data/master/material_master_data_20260722_0056_31ead0fc.json",
+      "sha256": "31ead0fc1acef5e30855c7d3ef706c77f35279eecd9970b0434c63e03169d068",
       "size": 27143,
       "required": true
     },
