@@ -1,0 +1,1255 @@
+{
+  "version": "1.0.0",
+  "materials": [
+    {
+      "id": "2004",
+      "name": {
+        "ja": "上級作戦記録",
+        "en": "Strategic B.R.",
+        "ch": "高级作战记录"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "2003",
+      "name": {
+        "ja": "中級作戦記録",
+        "en": "Tactical B.R.",
+        "ch": "中级作战记录"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "2002",
+      "name": {
+        "ja": "初級作戦記録",
+        "en": "Frontline B.R.",
+        "ch": "初级作战记录"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "2001",
+      "name": {
+        "ja": "入門作戦記録",
+        "en": "Drill B.R.",
+        "ch": "基础作战记录"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "1000",
+      "name": {
+        "ja": "経験値",
+        "en": "Experience",
+        "ch": "经验值"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "2000",
+      "name": {
+        "ja": "龍門幣",
+        "en": "Lungmen Coin",
+        "ch": "龙门币"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3303",
+      "name": {
+        "ja": "アーツ学3",
+        "en": "Skill Summary 3",
+        "ch": "技巧概要·卷3"
+      },
+      "rarity": 3302,
+      "recipe": null
+    },
+    {
+      "id": "3302",
+      "name": {
+        "ja": "アーツ学2",
+        "en": "Skill Summary 2",
+        "ch": "技巧概要·卷2"
+      },
+      "rarity": 3301,
+      "recipe": null
+    },
+    {
+      "id": "3301",
+      "name": {
+        "ja": "アーツ学1",
+        "en": "Skill Summary 1",
+        "ch": "技巧概要·卷1"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3000",
+      "name": {
+        "ja": "モジュールデータ",
+        "en": "Module Data Block",
+        "ch": "模组数据块"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3001",
+      "name": {
+        "ja": "データ補完マシン",
+        "en": "Data Supple. Instrument",
+        "ch": "数据增补仪"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3002",
+      "name": {
+        "ja": "データ補完チップ",
+        "en": "Data Supple. Stick",
+        "ch": "数据增补条"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30165",
+      "name": {
+        "ja": "重相位鏡像体",
+        "en": "Biphasic Enantiomorphic Medium",
+        "ch": "重相位对映体"
+      },
+      "rarity": 31094,
+      "recipe": [
+        {
+          "materialId": "2",
+          "count": 31084
+        },
+        {
+          "materialId": "1",
+          "count": 31074
+        }
+      ]
+    },
+    {
+      "id": "30155",
+      "name": {
+        "ja": "焼結核凝晶",
+        "en": "Nucleic Crystal Sinter",
+        "ch": "烧结核凝晶"
+      },
+      "rarity": 31064,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31054
+        },
+        {
+          "materialId": "1",
+          "count": 31044
+        }
+      ]
+    },
+    {
+      "id": "30145",
+      "name": {
+        "ja": "結晶制御装置",
+        "en": "Crystal Ele. Units",
+        "ch": "晶体电子单元"
+      },
+      "rarity": 31024,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31014
+        },
+        {
+          "materialId": "2",
+          "count": 31034
+        }
+      ]
+    },
+    {
+      "id": "30135",
+      "name": {
+        "ja": "D32鋼",
+        "en": "D32 Steel",
+        "ch": "D32钢"
+      },
+      "rarity": 30104,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30084
+        },
+        {
+          "materialId": "1",
+          "count": 30094
+        }
+      ]
+    },
+    {
+      "id": "30125",
+      "name": {
+        "ja": "ナノフレーク",
+        "en": "Bipolar Nanoflake",
+        "ch": "双极纳米片"
+      },
+      "rarity": 30064,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30074
+        }
+      ]
+    },
+    {
+      "id": "30115",
+      "name": {
+        "ja": "融合剤",
+        "en": "Polymer. Prep.",
+        "ch": "聚合剂"
+      },
+      "rarity": 30054,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30044
+        },
+        {
+          "materialId": "1",
+          "count": 30014
+        }
+      ]
+    },
+    {
+      "id": "31114",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "聚能动力单元"
+      },
+      "rarity": 30063,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31103
+        },
+        {
+          "materialId": "1",
+          "count": 31113
+        }
+      ]
+    },
+    {
+      "id": "31113",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "电极单元"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31104",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "液化醚吸聚体"
+      },
+      "rarity": 30053,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31093
+        },
+        {
+          "materialId": "1",
+          "count": 31103
+        }
+      ]
+    },
+    {
+      "id": "31103",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "液化高能气体"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31094",
+      "name": {
+        "ja": "カイラル屈光体",
+        "en": "Chiral Refractor",
+        "ch": "手性屈光体"
+      },
+      "rarity": 31093,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31083
+        },
+        {
+          "materialId": "1",
+          "count": 30023
+        }
+      ]
+    },
+    {
+      "id": "31093",
+      "name": {
+        "ja": "凝固核",
+        "en": "Pseudocondensation Nucleus",
+        "ch": "类凝结核"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31084",
+      "name": {
+        "ja": "プレハブ式炭化水素",
+        "en": "Cyclicene Prefab",
+        "ch": "环烃预制体"
+      },
+      "rarity": 31083,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31073
+        },
+        {
+          "materialId": "1",
+          "count": 31063
+        }
+      ]
+    },
+    {
+      "id": "31083",
+      "name": {
+        "ja": "炭化水素ポリマー",
+        "en": "Aggregate Cyclicene",
+        "ch": "环烃聚质"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31074",
+      "name": {
+        "ja": "硬化ファイバー基板",
+        "en": "Solidified Fiber Board",
+        "ch": "固化纤维板"
+      },
+      "rarity": 31073,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30033
+        },
+        {
+          "materialId": "2",
+          "count": 30013
+        }
+      ]
+    },
+    {
+      "id": "31073",
+      "name": {
+        "ja": "褐素繊維",
+        "en": "Fuscous Fiber",
+        "ch": "褐素纤维"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31064",
+      "name": {
+        "ja": "上級転化塩",
+        "en": "Trans. Salt Agglomerate",
+        "ch": "转质盐聚块"
+      },
+      "rarity": 31063,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31043
+        },
+        {
+          "materialId": "1",
+          "count": 30023
+        }
+      ]
+    },
+    {
+      "id": "31063",
+      "name": {
+        "ja": "転化塩",
+        "en": "Trans. Salt",
+        "ch": "转质盐组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31054",
+      "name": {
+        "ja": "上級切削液",
+        "en": "Cut. Stock Solution",
+        "ch": "切削原液"
+      },
+      "rarity": 31053,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31033
+        },
+        {
+          "materialId": "1",
+          "count": 30103
+        }
+      ]
+    },
+    {
+      "id": "31053",
+      "name": {
+        "ja": "切削液",
+        "en": "Comp. Cut. Fluid",
+        "ch": "化合切削剤"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31044",
+      "name": {
+        "ja": "精錬溶剤",
+        "en": "Refined Solvent",
+        "ch": "精炼溶剂"
+      },
+      "rarity": 31043,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31053
+        },
+        {
+          "materialId": "1",
+          "count": 31013
+        }
+      ]
+    },
+    {
+      "id": "31043",
+      "name": {
+        "ja": "半自然溶剤",
+        "en": "Semi-natural Sol.",
+        "ch": "半自然溶剂"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31034",
+      "name": {
+        "ja": "結晶回路",
+        "en": "Crystal Circuits",
+        "ch": "晶体电路"
+      },
+      "rarity": 31023,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31013
+        },
+        {
+          "materialId": "1",
+          "count": 31033
+        }
+      ]
+    },
+    {
+      "id": "31033",
+      "name": {
+        "ja": "素子結晶",
+        "en": "Crystal Compo.",
+        "ch": "晶体元件"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31024",
+      "name": {
+        "ja": "上級熾合金",
+        "en": "Incan. Alloy Block",
+        "ch": "炽合金块"
+      },
+      "rarity": 30063,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30093
+        },
+        {
+          "materialId": "1",
+          "count": 31023
+        }
+      ]
+    },
+    {
+      "id": "31023",
+      "name": {
+        "ja": "熾合金",
+        "en": "Incan. Alloy",
+        "ch": "炽合金"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "31014",
+      "name": {
+        "ja": "融合ゲル",
+        "en": "Polymerized Gel",
+        "ch": "聚合凝胶"
+      },
+      "rarity": 30043,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 31023
+        },
+        {
+          "materialId": "1",
+          "count": 31013
+        }
+      ]
+    },
+    {
+      "id": "31013",
+      "name": {
+        "ja": "人工ゲル",
+        "en": "Coagulating Gel",
+        "ch": "凝胶"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30074",
+      "name": {
+        "ja": "上級合成コール",
+        "en": "White Horse Kohl",
+        "ch": "白马醇"
+      },
+      "rarity": 30023,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30103
+        },
+        {
+          "materialId": "1",
+          "count": 30073
+        }
+      ]
+    },
+    {
+      "id": "30073",
+      "name": {
+        "ja": "合成コール",
+        "en": "Loxic Kohl",
+        "ch": "扭转醇"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30084",
+      "name": {
+        "ja": "上級マンガン",
+        "en": "Mangan. Trihyd.",
+        "ch": "三水锰矿"
+      },
+      "rarity": 30033,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30083
+        },
+        {
+          "materialId": "2",
+          "count": 30073
+        }
+      ]
+    },
+    {
+      "id": "30083",
+      "name": {
+        "ja": "マンガン",
+        "en": "Mangan. Ore",
+        "ch": "轻锰矿"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30094",
+      "name": {
+        "ja": "上級砥石",
+        "en": "Grindstone Penta.",
+        "ch": "五水研磨石"
+      },
+      "rarity": 30043,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30063
+        },
+        {
+          "materialId": "1",
+          "count": 30093
+        }
+      ]
+    },
+    {
+      "id": "30093",
+      "name": {
+        "ja": "砥石",
+        "en": "Grindstone",
+        "ch": "研磨石"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30104",
+      "name": {
+        "ja": "RMA70-24",
+        "en": "RMA70-24",
+        "ch": "RMA70-24"
+      },
+      "rarity": 30053,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30013
+        },
+        {
+          "materialId": "2",
+          "count": 30103
+        }
+      ]
+    },
+    {
+      "id": "30103",
+      "name": {
+        "ja": "RMA70-12",
+        "en": "RMA70-12",
+        "ch": "RMA70-12"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30014",
+      "name": {
+        "ja": "上級源岩",
+        "en": "Orirock Concent.",
+        "ch": "提纯源岩"
+      },
+      "rarity": 30013,
+      "recipe": null
+    },
+    {
+      "id": "30013",
+      "name": {
+        "ja": "中級源岩",
+        "en": "Orirock Cluster",
+        "ch": "固源岩组"
+      },
+      "rarity": 30012,
+      "recipe": null
+    },
+    {
+      "id": "30012",
+      "name": {
+        "ja": "初級源岩",
+        "en": "Orirock Cube",
+        "ch": "固源岩"
+      },
+      "rarity": 30011,
+      "recipe": null
+    },
+    {
+      "id": "30011",
+      "name": {
+        "ja": "源岩鉱",
+        "en": "Orirock",
+        "ch": "源岩"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30064",
+      "name": {
+        "ja": "上級装置",
+        "en": "Optimized Device",
+        "ch": "改量装置"
+      },
+      "rarity": 30063,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30013
+        },
+        {
+          "materialId": "2",
+          "count": 30093
+        }
+      ]
+    },
+    {
+      "id": "30063",
+      "name": {
+        "ja": "中級装置",
+        "en": "Integrated Device",
+        "ch": "全新装置"
+      },
+      "rarity": 30062,
+      "recipe": null
+    },
+    {
+      "id": "30062",
+      "name": {
+        "ja": "初級装置",
+        "en": "Device",
+        "ch": "装置"
+      },
+      "rarity": 30061,
+      "recipe": null
+    },
+    {
+      "id": "30061",
+      "name": {
+        "ja": "破損装置",
+        "en": "Damaged Device",
+        "ch": "破损装置"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30034",
+      "name": {
+        "ja": "上級エステル",
+        "en": "Polyester Lump",
+        "ch": "聚酸酯块"
+      },
+      "rarity": 30053,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30033
+        },
+        {
+          "materialId": "2",
+          "count": 30073
+        }
+      ]
+    },
+    {
+      "id": "30033",
+      "name": {
+        "ja": "中級エステル",
+        "en": "Polyester Pack",
+        "ch": "聚酸酯组"
+      },
+      "rarity": 30032,
+      "recipe": null
+    },
+    {
+      "id": "30032",
+      "name": {
+        "ja": "初級エステル",
+        "en": "Polyester",
+        "ch": "聚酸酯"
+      },
+      "rarity": 30031,
+      "recipe": null
+    },
+    {
+      "id": "30031",
+      "name": {
+        "ja": "エステル原料",
+        "en": "Ester",
+        "ch": "酯原料"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30024",
+      "name": {
+        "ja": "上級糖原",
+        "en": "Sugar Lump",
+        "ch": "糖聚块"
+      },
+      "rarity": 30043,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 30023
+        },
+        {
+          "materialId": "2",
+          "count": 30083
+        }
+      ]
+    },
+    {
+      "id": "30023",
+      "name": {
+        "ja": "中級糖原",
+        "en": "Sugar Pack",
+        "ch": "糖组"
+      },
+      "rarity": 30022,
+      "recipe": null
+    },
+    {
+      "id": "30022",
+      "name": {
+        "ja": "初級糖原",
+        "en": "Sugar",
+        "ch": "糖"
+      },
+      "rarity": 30021,
+      "recipe": null
+    },
+    {
+      "id": "30021",
+      "name": {
+        "ja": "ブドウ糖",
+        "en": "Sugar Substitute",
+        "ch": "代糖"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30044",
+      "name": {
+        "ja": "上級異鉄",
+        "en": "Oriron Block",
+        "ch": "异铁块"
+      },
+      "rarity": 30043,
+      "recipe": [
+        {
+          "materialId": "2",
+          "count": 30033
+        },
+        {
+          "materialId": "1",
+          "count": 30063
+        }
+      ]
+    },
+    {
+      "id": "30043",
+      "name": {
+        "ja": "中級異鉄",
+        "en": "Oriron Cluster",
+        "ch": "异铁组"
+      },
+      "rarity": 30042,
+      "recipe": null
+    },
+    {
+      "id": "30042",
+      "name": {
+        "ja": "初級異鉄",
+        "en": "Oriron",
+        "ch": "异铁"
+      },
+      "rarity": 30041,
+      "recipe": null
+    },
+    {
+      "id": "30041",
+      "name": {
+        "ja": "異鉄の欠片",
+        "en": "Oriron Shard",
+        "ch": "异铁碎片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "30054",
+      "name": {
+        "ja": "上級アケトン",
+        "en": "Keton Colloid",
+        "ch": "酮阵列"
+      },
+      "rarity": 30053,
+      "recipe": [
+        {
+          "materialId": "2",
+          "count": 30023
+        },
+        {
+          "materialId": "1",
+          "count": 30083
+        }
+      ]
+    },
+    {
+      "id": "30053",
+      "name": {
+        "ja": "中級アケトン",
+        "en": "Aketon",
+        "ch": "酮凝集组"
+      },
+      "rarity": 30052,
+      "recipe": null
+    },
+    {
+      "id": "30052",
+      "name": {
+        "ja": "初級アケトン",
+        "en": "Polyketon",
+        "ch": "酮凝集"
+      },
+      "rarity": 30051,
+      "recipe": null
+    },
+    {
+      "id": "30051",
+      "name": {
+        "ja": "アケトン試剤",
+        "en": "Diketon",
+        "ch": "双酮"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "20",
+      "name": {
+        "ja": "購買資格証",
+        "en": "Shop Voucher",
+        "ch": "采购凭证"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "21",
+      "name": {
+        "ja": "SoC強化剤",
+        "en": "Chip Catalyst",
+        "ch": "芯片助剂"
+      },
+      "rarity": 20,
+      "recipe": null
+    },
+    {
+      "id": "3213",
+      "name": {
+        "ja": "上級先鋒SoC",
+        "en": "Vang. Dual Chip",
+        "ch": "先锋双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3212
+        }
+      ]
+    },
+    {
+      "id": "3223",
+      "name": {
+        "ja": "上級前衛SoC",
+        "en": "Guard Dual Chip",
+        "ch": "近卫双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3222
+        }
+      ]
+    },
+    {
+      "id": "3233",
+      "name": {
+        "ja": "上級重装SoC",
+        "en": "Def. Dual Chip",
+        "ch": "重装双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3232
+        }
+      ]
+    },
+    {
+      "id": "3243",
+      "name": {
+        "ja": "上級狙撃SoC",
+        "en": "Sniper Dual Chip",
+        "ch": "狙击双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3242
+        }
+      ]
+    },
+    {
+      "id": "3253",
+      "name": {
+        "ja": "上級術師SoC",
+        "en": "Caster Dual Chip",
+        "ch": "术师双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3252
+        }
+      ]
+    },
+    {
+      "id": "3263",
+      "name": {
+        "ja": "上級医療SoC",
+        "en": "Medic Dual Chip",
+        "ch": "医疗双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3262
+        }
+      ]
+    },
+    {
+      "id": "3273",
+      "name": {
+        "ja": "上級補助SoC",
+        "en": "Sup. Dual Chip",
+        "ch": "辅助双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3272
+        }
+      ]
+    },
+    {
+      "id": "3283",
+      "name": {
+        "ja": "上級特殊SoC",
+        "en": "Spec. Dual Chip",
+        "ch": "特种双芯片"
+      },
+      "rarity": 21,
+      "recipe": [
+        {
+          "materialId": "1",
+          "count": 3282
+        }
+      ]
+    },
+    {
+      "id": "3212",
+      "name": {
+        "ja": "中級先鋒SoC",
+        "en": "Vang. Chip Pack",
+        "ch": "先锋芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3222",
+      "name": {
+        "ja": "中級前衛SoC",
+        "en": "Guard Chip Pack",
+        "ch": "近卫芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3232",
+      "name": {
+        "ja": "中級重装SoC",
+        "en": "Def. Chip Pack",
+        "ch": "重装芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3242",
+      "name": {
+        "ja": "中級狙撃SoC",
+        "en": "Sniper Chip Pack",
+        "ch": "狙击芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3252",
+      "name": {
+        "ja": "中級術師SoC",
+        "en": "Caster Chip Pack",
+        "ch": "术师芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3262",
+      "name": {
+        "ja": "中級医療SoC",
+        "en": "Medic Chip Pack",
+        "ch": "医疗芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3272",
+      "name": {
+        "ja": "中級補助SoC",
+        "en": "Sup. Chip Pack",
+        "ch": "辅助芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3282",
+      "name": {
+        "ja": "中級特殊SoC",
+        "en": "Spec. Chip Pack",
+        "ch": "特种芯片组"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3211",
+      "name": {
+        "ja": "初級先鋒SoC",
+        "en": "Vanguard Chip",
+        "ch": "先锋芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3221",
+      "name": {
+        "ja": "初級前衛SoC",
+        "en": "Guard Chip",
+        "ch": "近卫芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3231",
+      "name": {
+        "ja": "初級重装SoC",
+        "en": "Defender Chip",
+        "ch": "重装芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3241",
+      "name": {
+        "ja": "初級狙撃SoC",
+        "en": "Sniper Chip",
+        "ch": "狙击芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3251",
+      "name": {
+        "ja": "初級術師SoC",
+        "en": "Caster Chip",
+        "ch": "术师芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3261",
+      "name": {
+        "ja": "初級医療SoC",
+        "en": "Medic Chip",
+        "ch": "医疗芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3271",
+      "name": {
+        "ja": "初級補助SoC",
+        "en": "Supporter Chip",
+        "ch": "辅助芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    },
+    {
+      "id": "3281",
+      "name": {
+        "ja": "初級特殊SoC",
+        "en": "Specialist Chip",
+        "ch": "特种芯片"
+      },
+      "rarity": null,
+      "recipe": null
+    }
+  ]
+}
