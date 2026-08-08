@@ -659,7 +659,8 @@
       "rarity": "☆6",
       "modules": {
         "X": true,
-        "Y": true
+        "Y": true,
+        "A": true
       }
     },
     "VC16": {
@@ -746,7 +747,8 @@
       "rarity": "☆6",
       "modules": {
         "X": true,
-        "Y": true
+        "Y": true,
+        "A": true
       }
     },
     "R145": {
@@ -822,7 +824,7 @@
     },
     "DB02": {
       "name": {
-        "ja": "焰影リード",
+        "ja": "焔影リード",
         "en": "Reed F.S.",
         "ch": "焰影苇草"
       },
@@ -1448,7 +1450,7 @@
     },
     "RL12": {
       "name": {
-        "ja": "遡光アステジーニ",
+        "ja": "溯光アステジーニ",
         "en": "Astgenne T.L.",
         "ch": "溯光星源"
       },
@@ -1587,6 +1589,26 @@
         "A": true
       }
     },
+    "R102": {
+      "name": {
+        "ja": "予願アンジェリーナ",
+        "en": "Angelina M.W.",
+        "ch": "予愿安洁莉娜"
+      },
+      "rarity": "☆6",
+      "modules": {}
+    },
+    "RB19": {
+      "name": {
+        "ja": "サンピィ",
+        "en": "Thumpy",
+        "ch": "珊比"
+      },
+      "rarity": "☆6",
+      "modules": {
+        "X": true
+      }
+    },
     "RB01": {
       "name": {
         "ja": "サベージ",
@@ -1666,7 +1688,7 @@
     },
     "R001_2": {
       "name": {
-        "ja": "昇格アーミヤ(前衛)",
+        "ja": "アーミヤ(前衛)",
         "en": "Amiya Alter(Guard)",
         "ch": "阿米娅(近卫)"
       },
@@ -1677,7 +1699,7 @@
     },
     "R001_3": {
       "name": {
-        "ja": "昇格アーミヤ(医療)",
+        "ja": "アーミヤ(医療)",
         "en": "Amiya Alter(Medic)",
         "ch": "阿米娅(医疗)"
       },
@@ -2623,7 +2645,7 @@
     },
     "YD09": {
       "name": {
-        "ja": "クシキロク",
+        "ja": "九色鹿",
         "en": "9-Colored Deer",
         "ch": "九色鹿"
       },
@@ -2711,7 +2733,7 @@
     },
     "CB19": {
       "name": {
-        "ja": "ウィンドフリット",
+        "ja": "ウインドフリット",
         "en": "Windflit",
         "ch": "掠风"
       },
@@ -3614,7 +3636,7 @@
     },
     "RF31": {
       "name": {
-        "ja": "摘英パフューマー",
+        "ja": "萃香パフューマー",
         "en": "Perfumer T.D.",
         "ch": "撷英调香师"
       },
@@ -3717,6 +3739,28 @@
       },
       "rarity": "☆5",
       "modules": {}
+    },
+    "RB20": {
+      "name": {
+        "ja": "ジャシンタ",
+        "en": "Jacinta",
+        "ch": "嘉辛塔"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "X": true
+      }
+    },
+    "RB21": {
+      "name": {
+        "ja": "タイムスロット",
+        "en": "Timeslot",
+        "ch": "时隙"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "X": true
+      }
     },
     "JC04": {
       "name": {
@@ -4367,7 +4411,7 @@
     },
     "US38": {
       "name": {
-        "ja": "スネグラーチカ",
+        "ja": "スネグーラチカ",
         "en": "Snegurochka",
         "ch": "冬时"
       },
@@ -4605,7 +4649,7 @@
     },
     "RCX4": {
       "name": {
-        "ja": "Thermal-EX",
+        "ja": "THRM-EX",
         "en": "Thermal-EX",
         "ch": "Thermal-EX"
       },
@@ -4614,7 +4658,7 @@
     },
     "KZ15": {
       "name": {
-        "ja": "Justice Knight",
+        "ja": "ジャスティスナイト",
         "en": "Justice Knight",
         "ch": "正义骑士号"
       },
