@@ -302,8 +302,8 @@
       "stageId": "act20mini",
       "id": "CG",
       "name": {
-        "ja": "",
-        "en": "",
+        "ja": "十字路",
+        "en": "Crossing",
         "ch": "十字路口"
       }
     },
@@ -563,8 +563,8 @@
       "stageId": "act49side",
       "id": "TA",
       "name": {
-        "ja": "",
-        "en": "",
+        "ja": "辞歳行",
+        "en": "First of A Thousand Autumns",
         "ch": "辞岁行"
       }
     },
@@ -584,6 +584,15 @@
         "ja": "",
         "en": "",
         "ch": "人们，我们"
+      }
+    },
+    {
+      "stageId": "act53side",
+      "id": "TO",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "直到大地变成一颗酸橙"
       }
     },
     {
@@ -656,6 +665,15 @@
         "ja": "赤松林",
         "en": "Pinus Sylvestris",
         "ch": "红松林"
+      }
+    },
+    {
+      "stageId": "act21mini",
+      "id": "BD",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "丛林症结"
       }
     },
     {
@@ -940,24 +958,6 @@
     {
       "stageId": "tough_14",
       "id": "H14",
-      "name": {
-        "ja": "",
-        "en": "",
-        "ch": ""
-      }
-    },
-    {
-      "stageId": "act21mini",
-      "id": "",
-      "name": {
-        "ja": "",
-        "en": "",
-        "ch": ""
-      }
-    },
-    {
-      "stageId": "act53side",
-      "id": "",
       "name": {
         "ja": "",
         "en": "",
