@@ -471,7 +471,7 @@
     "CR01": {
       "name": {
         "ja": "濁心スカジ",
-        "en": "Skadi C.H.",
+        "en": "Skadi the Corrupting Heart",
         "ch": "浊心斯卡蒂"
       },
       "rarity": "☆6",
@@ -532,7 +532,7 @@
     "R112": {
       "name": {
         "ja": "遊龍チェン",
-        "en": "Ch'en H.D.",
+        "en": "Ch'en the Holungday",
         "ch": "假日威龙陈"
       },
       "rarity": "☆6",
@@ -581,7 +581,7 @@
     "KZ01": {
       "name": {
         "ja": "耀騎士ニアール",
-        "en": "Nearl R.K.",
+        "en": "Nearl the Radiant Knight",
         "ch": "耀骑士临光"
       },
       "rarity": "☆6",
@@ -691,7 +691,7 @@
     "CR02": {
       "name": {
         "ja": "帰溟スペクター",
-        "en": "Specter U.C.",
+        "en": "Specter the Unchained",
         "ch": "归溟幽灵鲨"
       },
       "rarity": "☆6",
@@ -741,7 +741,7 @@
     "RF22": {
       "name": {
         "ja": "百錬ガヴィル",
-        "en": "Gavial I.V.",
+        "en": "Gavial the Invincible",
         "ch": "百炼嘉维尔"
       },
       "rarity": "☆6",
@@ -789,7 +789,7 @@
     "PL07": {
       "name": {
         "ja": "血掟テキサス",
-        "en": "Texas T.O.",
+        "en": "Texas the Omertosa",
         "ch": "缄默德克萨斯"
       },
       "rarity": "☆6",
@@ -825,7 +825,7 @@
     "DB02": {
       "name": {
         "ja": "焔影リード",
-        "en": "Reed F.S.",
+        "en": "Reed the Flame Shadow",
         "ch": "焰影苇草"
       },
       "rarity": "☆6",
@@ -861,7 +861,7 @@
     "YD20": {
       "name": {
         "ja": "チューバイ",
-        "en": "Qiu Bai",
+        "en": "Qiubai",
         "ch": "仇白"
       },
       "rarity": "☆6",
@@ -872,7 +872,7 @@
     "MH02": {
       "name": {
         "ja": "キリンRヤトウ",
-        "en": "Yato K.R",
+        "en": "Kirin R Yato",
         "ch": "麒麟R夜刀"
       },
       "rarity": "☆6",
@@ -920,7 +920,7 @@
     "RL10": {
       "name": {
         "ja": "淬羽サイレンス",
-        "en": "Silence T.P.",
+        "en": "Silence the Paradigmatic",
         "ch": "淬羽赫默"
       },
       "rarity": "☆6",
@@ -932,7 +932,7 @@
     "LT40": {
       "name": {
         "ja": "聖約イグゼキュター",
-        "en": "Executor E.F.",
+        "en": "Executor the Ex Foedere",
         "ch": "圣约送葬人"
       },
       "rarity": "☆6",
@@ -957,7 +957,7 @@
     "LN10": {
       "name": {
         "ja": "純燼エイヤフィヤトラ",
-        "en": "Eyjafjalla H.A.",
+        "en": "Eyjafjalla the Hvít Aska",
         "ch": "纯烬艾雅法拉"
       },
       "rarity": "☆6",
@@ -969,7 +969,7 @@
     "LM22": {
       "name": {
         "ja": "琳琅スワイヤー",
-        "en": "Swire E.W.",
+        "en": "Swire the Elegant Wit",
         "ch": "琳琅诗怀雅"
       },
       "rarity": "☆6",
@@ -982,7 +982,7 @@
     "BS30": {
       "name": {
         "ja": "滌火ジェシカ",
-        "en": "Jessica T.L.",
+        "en": "Jessica the Liberated",
         "ch": "涤火杰西卡"
       },
       "rarity": "☆6",
@@ -1216,7 +1216,7 @@
     "SR04": {
       "name": {
         "ja": "荒蕪ラップランド",
-        "en": "Lappland T.D.",
+        "en": "Lappland the Decadenza",
         "ch": "荒芜拉普兰德"
       },
       "rarity": "☆6",
@@ -1239,7 +1239,7 @@
     "R315": {
       "name": {
         "ja": "クラウンスレイヤー",
-        "en": "CrownSlayer",
+        "en": "Crownslayer",
         "ch": "弑君者"
       },
       "rarity": "☆6",
@@ -1251,7 +1251,7 @@
     "II02": {
       "name": {
         "ja": "引星ソーンズ",
-        "en": "Thorns T.L.",
+        "en": "Thorns the Lodestar",
         "ch": "引星棘刺"
       },
       "rarity": "☆6",
@@ -1273,7 +1273,7 @@
     "REX1": {
       "name": {
         "ja": "熾炎ブレイズ",
-        "en": "Blaze I.S.",
+        "en": "Blaze the Igniting Spark",
         "ch": "烛煌"
       },
       "rarity": "☆6",
@@ -1319,7 +1319,7 @@
     "PL08": {
       "name": {
         "ja": "新約エクシア",
-        "en": "Exusiai N.C.",
+        "en": "Exusiai the New Covenant",
         "ch": "新约能天使"
       },
       "rarity": "☆6",
@@ -1364,7 +1364,7 @@
     "YD25": {
       "name": {
         "ja": "司霆レイズ",
-        "en": "Leizi T.T.",
+        "en": "Leizi the Thunderbringer",
         "ch": "司霆惊蛰"
       },
       "rarity": "☆6",
@@ -1387,7 +1387,7 @@
     "LM23": {
       "name": {
         "ja": "斬業ホシグマ",
-        "en": "Hoshiguma T.B.",
+        "en": "Hoshiguma the Breacher",
         "ch": "斩业星熊"
       },
       "rarity": "☆6",
@@ -1431,7 +1431,7 @@
     "KJ01": {
       "name": {
         "ja": "凛御シルバーアッシュ",
-        "en": "SilverAsh T.R.",
+        "en": "SilverAsh the Reignfrost",
         "ch": "凛御银灰"
       },
       "rarity": "☆6",
@@ -1440,7 +1440,7 @@
     "KJ02": {
       "name": {
         "ja": "聖聆プラマニクス",
-        "en": "Pramanix T.P.",
+        "en": "Pramanix the Prerita",
         "ch": "圣聆初雪"
       },
       "rarity": "☆6",
@@ -1451,7 +1451,7 @@
     "RL12": {
       "name": {
         "ja": "溯光アステジーニ",
-        "en": "Astgenne T.L.",
+        "en": "Astgenne the Lightchaser",
         "ch": "溯光星源"
       },
       "rarity": "☆6",
@@ -1495,7 +1495,7 @@
     "YD30": {
       "name": {
         "ja": "赤刃明霄チェン",
-        "en": "Ch'en T.D.",
+        "en": "Ch'en the Dawnstreak",
         "ch": "赤刃明霄陈"
       },
       "rarity": "☆6",
@@ -1517,7 +1517,7 @@
     "USS0": {
       "name": {
         "ja": "怒潮ズィマー",
-        "en": "Zima R.T.",
+        "en": "Zima the Raging Tide",
         "ch": "怒潮凛冬"
       },
       "rarity": "☆6",
@@ -1528,7 +1528,7 @@
     "R002": {
       "name": {
         "ja": "ケルシー・エスペランタ",
-        "en": "Kal'tsit·Esperanta",
+        "en": "Kal'tsit - Esperanta",
         "ch": "凯尔希·思衡托"
       },
       "rarity": "☆6",
@@ -1559,7 +1559,7 @@
     "MH05": {
       "name": {
         "ja": "焔狐竜オーキッド",
-        "en": "Orchid V.M.",
+        "en": "Violet Mizutsune Orchid",
         "ch": "焰狐龙梓兰"
       },
       "rarity": "☆6",
@@ -1592,7 +1592,7 @@
     "R102": {
       "name": {
         "ja": "予願アンジェリーナ",
-        "en": "Angelina M.W.",
+        "en": "Angelina the Mellow Wish",
         "ch": "予愿安洁莉娜"
       },
       "rarity": "☆6",
@@ -2426,7 +2426,7 @@
     "RF01": {
       "name": {
         "ja": "炎獄ラヴァ",
-        "en": "Purgatory",
+        "en": "Lava the Purgatory",
         "ch": "炎狱炎熔"
       },
       "rarity": "☆5",
@@ -2646,7 +2646,7 @@
     "YD09": {
       "name": {
         "ja": "九色鹿",
-        "en": "9-Colored Deer",
+        "en": "Nine-Colored Deer",
         "ch": "九色鹿"
       },
       "rarity": "☆5",
@@ -2668,7 +2668,7 @@
     "RF02": {
       "name": {
         "ja": "寒芒クルース",
-        "en": "Kroos K.G.",
+        "en": "Kroos the Keen Glint",
         "ch": "寒芒克洛丝"
       },
       "rarity": "☆5",
@@ -2767,7 +2767,7 @@
     "RF03": {
       "name": {
         "ja": "濯塵ハイビスカス",
-        "en": "Hibiscus P.F.",
+        "en": "Hibiscus the Purifier",
         "ch": "濯尘芙蓉"
       },
       "rarity": "☆5",
@@ -2789,7 +2789,7 @@
     "RF23": {
       "name": {
         "ja": "承曦グレイ",
-        "en": "Greyy L.B.",
+        "en": "Greyy the Lightningbearer",
         "ch": "承曦格雷伊"
       },
       "rarity": "☆5",
@@ -2943,7 +2943,7 @@
     "MH03": {
       "name": {
         "ja": "レウスSノイルホーン",
-        "en": "Noir Corne R.S",
+        "en": "Rathalos S Noir Corne",
         "ch": "火龙S黑角"
       },
       "rarity": "☆5",
@@ -3240,7 +3240,7 @@
     "RF04": {
       "name": {
         "ja": "歴陣鋭槍フェン",
-        "en": "Fang F.S.",
+        "en": "Fang the Fire-Sharpened",
         "ch": "历阵锐枪芬"
       },
       "rarity": "☆5",
@@ -3597,7 +3597,7 @@
     "KJ07": {
       "name": {
         "ja": "スノーハンター",
-        "en": "SnowHunter",
+        "en": "Snow Hunter",
         "ch": "雪猎"
       },
       "rarity": "☆5",
@@ -3637,7 +3637,7 @@
     "RF31": {
       "name": {
         "ja": "萃香パフューマー",
-        "en": "Perfumer T.D.",
+        "en": "Perfumer the Distilled",
         "ch": "撷英调香师"
       },
       "rarity": "☆5",
@@ -3723,7 +3723,7 @@
     "MH06": {
       "name": {
         "ja": "ジンオウSカタパルト",
-        "en": "Catapult Z.S.",
+        "en": "Zinogre S Catapult",
         "ch": "雷狼龙S空爆"
       },
       "rarity": "☆5",
