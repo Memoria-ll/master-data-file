@@ -866,7 +866,8 @@
       },
       "rarity": "☆6",
       "modules": {
-        "X": true
+        "X": true,
+        "Y": true
       }
     },
     "MH02": {
@@ -1607,6 +1608,17 @@
       "rarity": "☆6",
       "modules": {
         "X": true
+      }
+    },
+    "PS33": {
+      "name": {
+        "ja": "結城理",
+        "en": "Makoto Yuki",
+        "ch": "结城理"
+      },
+      "rarity": "☆6",
+      "modules": {
+        "Y": true
       }
     },
     "RB01": {
@@ -3762,6 +3774,28 @@
         "X": true
       }
     },
+    "PS37": {
+      "name": {
+        "ja": "アイギス",
+        "en": "Aegis",
+        "ch": "埃癸斯"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "X": true
+      }
+    },
+    "PS34": {
+      "name": {
+        "ja": "岳羽ゆかり",
+        "en": "Yukari Takeba",
+        "ch": "岳羽由加莉"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "X": true
+      }
+    },
     "JC04": {
       "name": {
         "ja": "クーリエ",
@@ -4724,6 +4758,15 @@
         "ja": "ロドス隠密隊",
         "en": "Rhodes Island Recon",
         "ch": "罗德岛隐秘队"
+      },
+      "rarity": "☆1",
+      "modules": {}
+    },
+    "PS38": {
+      "name": {
+        "ja": "コロマル",
+        "en": "Koromaru",
+        "ch": "虎狼丸"
       },
       "rarity": "☆1",
       "modules": {}

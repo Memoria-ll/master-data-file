@@ -596,6 +596,15 @@
       }
     },
     {
+      "stageId": "act54side",
+      "id": "SR",
+      "name": {
+        "ja": "",
+        "en": "",
+        "ch": "月行水上"
+      }
+    },
+    {
       "stageId": "act4d0",
       "id": "SW-EV",
       "name": {
