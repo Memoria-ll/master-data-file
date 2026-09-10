@@ -8,6 +8,7 @@
         "en": "Ch'en",
         "ch": "陈"
       },
+      "charId": "char_010_chen",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -180,6 +181,7 @@
         "en": "Siege",
         "ch": "推进之王"
       },
+      "charId": "char_112_siege",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -351,6 +353,7 @@
         "en": "Shining",
         "ch": "闪灵"
       },
+      "charId": "char_147_shining",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -520,6 +523,7 @@
         "en": "Nightingale",
         "ch": "夜莺"
       },
+      "charId": "char_179_cgbird",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -689,6 +693,7 @@
         "en": "Ifrit",
         "ch": "伊芙利特"
       },
+      "charId": "char_134_ifrit",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -858,6 +863,7 @@
         "en": "Eyjafjalla",
         "ch": "艾雅法拉"
       },
+      "charId": "char_180_amgoat",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -1029,6 +1035,7 @@
         "en": "Exusiai",
         "ch": "能天使"
       },
+      "charId": "char_103_angel",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -1201,6 +1208,7 @@
         "en": "Angelina",
         "ch": "安洁莉娜"
       },
+      "charId": "char_291_aglina",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -1387,6 +1395,7 @@
         "en": "SilverAsh",
         "ch": "银灰"
       },
+      "charId": "char_172_svrash",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -1538,6 +1547,7 @@
         "en": "Hoshiguma",
         "ch": "星熊"
       },
+      "charId": "char_136_hsguma",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -1710,6 +1720,7 @@
         "en": "Saria",
         "ch": "塞雷娅"
       },
+      "charId": "char_202_demkni",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -1879,6 +1890,7 @@
         "en": "Skadi",
         "ch": "斯卡蒂"
       },
+      "charId": "char_263_skadi",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -1932,7 +1944,7 @@
           "3301": 5
         },
         {
-          "3301": 5,
+          "3301": 4,
           "30031": 4,
           "30061": 4
         },
@@ -2050,6 +2062,7 @@
         "en": "Schwarz",
         "ch": "黑"
       },
+      "charId": "char_340_shwaz",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -2219,6 +2232,7 @@
         "en": "Hellagur",
         "ch": "赫拉格"
       },
+      "charId": "char_188_helage",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -2388,6 +2402,7 @@
         "en": "Magallan",
         "ch": "麦哲伦"
       },
+      "charId": "char_248_mgllan",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -2557,6 +2572,7 @@
         "en": "Mostima",
         "ch": "莫斯提马"
       },
+      "charId": "char_213_mostma",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -2727,6 +2743,7 @@
         "en": "Blaze",
         "ch": "煌"
       },
+      "charId": "char_017_huang",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -2900,6 +2917,7 @@
         "en": "Aak",
         "ch": "阿"
       },
+      "charId": "char_225_haak",
       "rarity": "☆6",
       "sex": 0,
       "class": 7,
@@ -2928,7 +2946,8 @@
           "global": "2023/12/21"
         },
         "Y": {
-          "china": "2026/03/10"
+          "china": "2026/03/10",
+          "global": "2026/08/13"
         }
       },
       "alternates": null,
@@ -3068,6 +3087,7 @@
         "en": "Nian",
         "ch": "年"
       },
+      "charId": "char_2014_nian",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -3237,6 +3257,7 @@
         "en": "Ceobe",
         "ch": "刻俄柏"
       },
+      "charId": "char_2013_cerber",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -3407,6 +3428,7 @@
         "en": "Bagpipe",
         "ch": "风笛"
       },
+      "charId": "char_222_bpipe",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -3576,6 +3598,7 @@
         "en": "Phantom",
         "ch": "傀影"
       },
+      "charId": "char_250_phatom",
       "rarity": "☆6",
       "sex": 0,
       "class": 7,
@@ -3762,6 +3785,7 @@
         "en": "W",
         "ch": "W"
       },
+      "charId": "char_113_cqbw",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -3929,6 +3953,7 @@
         "en": "Weedy",
         "ch": "温蒂"
       },
+      "charId": "char_400_weedy",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -4102,6 +4127,7 @@
         "en": "Rosa",
         "ch": "早露"
       },
+      "charId": "char_197_poca",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -4271,6 +4297,7 @@
         "en": "Suzuran",
         "ch": "铃兰"
       },
+      "charId": "char_358_lisa",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -4435,6 +4462,7 @@
         "en": "Thorns",
         "ch": "棘刺"
       },
+      "charId": "char_293_thorns",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -4606,6 +4634,7 @@
         "en": "Eunectes",
         "ch": "森蚺"
       },
+      "charId": "char_416_zumama",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -4790,6 +4819,7 @@
         "en": "Surtr",
         "ch": "史尔特尔"
       },
+      "charId": "char_350_surtr",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -4953,6 +4983,7 @@
         "en": "Blemishine",
         "ch": "瑕光"
       },
+      "charId": "char_423_blemsh",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -5122,6 +5153,7 @@
         "en": "Rosmontis",
         "ch": "迷迭香"
       },
+      "charId": "char_391_rosmon",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -5282,6 +5314,7 @@
         "en": "Mudrock",
         "ch": "泥岩"
       },
+      "charId": "char_311_mudrok",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -5451,6 +5484,7 @@
         "en": "Mountain",
         "ch": "山"
       },
+      "charId": "char_264_f12yin",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -5620,6 +5654,7 @@
         "en": "Archetto",
         "ch": "空弦"
       },
+      "charId": "char_332_archet",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -5804,6 +5839,7 @@
         "en": "Dusk",
         "ch": "夕"
       },
+      "charId": "char_2015_dusk",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -5988,6 +6024,7 @@
         "en": "Saga",
         "ch": "嵯峨"
       },
+      "charId": "char_362_saga",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -6157,6 +6194,7 @@
         "en": "Ash",
         "ch": "灰烬"
       },
+      "charId": "char_456_ash",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -6321,6 +6359,7 @@
         "en": "Passenger",
         "ch": "异客"
       },
+      "charId": "char_472_pasngr",
       "rarity": "☆6",
       "sex": 0,
       "class": 4,
@@ -6497,9 +6536,10 @@
       "code": "CR01",
       "name": {
         "ja": "濁心スカジ",
-        "en": "Skadi C.H.",
+        "en": "Skadi the Corrupting Heart",
         "ch": "浊心斯卡蒂"
       },
+      "charId": "char_1012_skadi2",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -6663,6 +6703,7 @@
         "en": "kal'tsit",
         "ch": "凯尔希"
       },
+      "charId": "char_003_kalts",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -6849,6 +6890,7 @@
         "en": "Gladiia",
         "ch": "歌蕾蒂娅"
       },
+      "charId": "char_474_glady",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -7018,6 +7060,7 @@
         "en": "Carnelian",
         "ch": "卡涅利安"
       },
+      "charId": "char_426_billro",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -7188,6 +7231,7 @@
         "en": "Pallas",
         "ch": "帕拉斯"
       },
+      "charId": "char_485_pallas",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -7349,9 +7393,10 @@
       "code": "R112",
       "name": {
         "ja": "遊龍チェン",
-        "en": "Ch'en H.D.",
+        "en": "Ch'en the Holungday",
         "ch": "假日威龙陈"
       },
+      "charId": "char_1013_chen2",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -7522,6 +7567,7 @@
         "en": "Mizuki",
         "ch": "水月"
       },
+      "charId": "char_437_mizuki",
       "rarity": "☆6",
       "sex": 0,
       "class": 7,
@@ -7707,6 +7753,7 @@
         "en": "Saileach",
         "ch": "琴柳"
       },
+      "charId": "char_479_sleach",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -7876,6 +7923,7 @@
         "en": "Fartooth",
         "ch": "远牙"
       },
+      "charId": "char_430_fartth",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -8042,9 +8090,10 @@
       "code": "KZ01",
       "name": {
         "ja": "耀騎士ニアール",
-        "en": "Nearl R.K.",
+        "en": "Nearl the Radiant Knight",
         "ch": "耀骑士临光"
       },
+      "charId": "char_1014_nearl2",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -8215,6 +8264,7 @@
         "en": "Flametail",
         "ch": "焰尾"
       },
+      "charId": "char_420_flamtl",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -8384,6 +8434,7 @@
         "en": "Gnosis",
         "ch": "灵知"
       },
+      "charId": "char_206_gnosis",
       "rarity": "☆6",
       "sex": 0,
       "class": 6,
@@ -8568,6 +8619,7 @@
         "en": "Ling",
         "ch": "令"
       },
+      "charId": "char_2023_ling",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -8717,6 +8769,7 @@
         "en": "Lee",
         "ch": "老鲤"
       },
+      "charId": "char_322_lmlee",
       "rarity": "☆6",
       "sex": 0,
       "class": 7,
@@ -8886,6 +8939,7 @@
         "en": "Goldenglow",
         "ch": "澄闪"
       },
+      "charId": "char_377_gdglow",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -9055,6 +9109,7 @@
         "en": "Fiammetta",
         "ch": "菲亚梅塔"
       },
+      "charId": "char_300_phenxi",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -9238,6 +9293,7 @@
         "en": "Horn",
         "ch": "号角"
       },
+      "charId": "char_4039_horn",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -9407,6 +9463,7 @@
         "en": "Irene",
         "ch": "艾丽妮"
       },
+      "charId": "char_4009_irene",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -9588,9 +9645,10 @@
       "code": "CR02",
       "name": {
         "ja": "帰溟スペクター",
-        "en": "Specter U.C.",
+        "en": "Specter the Unchained",
         "ch": "归溟幽灵鲨"
       },
+      "charId": "char_1023_ghost2",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -9774,6 +9832,7 @@
         "en": "Lumen",
         "ch": "流明"
       },
+      "charId": "char_4042_lumen",
       "rarity": "☆6",
       "sex": 0,
       "class": 5,
@@ -9943,6 +10002,7 @@
         "en": "Ebenholz",
         "ch": "黑键"
       },
+      "charId": "char_4046_ebnhlz",
       "rarity": "☆6",
       "sex": 0,
       "class": 4,
@@ -10132,6 +10192,7 @@
         "en": "Dorothy",
         "ch": "多萝西"
       },
+      "charId": "char_4048_doroth",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -10170,7 +10231,7 @@
         {
           "3281": 5,
           "30012": 7,
-          "30061": 5
+          "30062": 5
         },
         {
           "3283": 4,
@@ -10298,9 +10359,10 @@
       "code": "RF22",
       "name": {
         "ja": "百錬ガヴィル",
-        "en": "Gavial I.V.",
+        "en": "Gavial the Invincible",
         "ch": "百炼嘉维尔"
       },
+      "charId": "char_1026_gvial2",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -10485,6 +10547,7 @@
         "en": "Pozemka",
         "ch": "鸿雪"
       },
+      "charId": "char_4055_bgsnow",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -10655,6 +10718,7 @@
         "en": "Mlynar",
         "ch": "玛恩纳"
       },
+      "charId": "char_4064_mlynar",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -10799,6 +10863,7 @@
         "en": "Stainless",
         "ch": "白铁"
       },
+      "charId": "char_4072_ironmn",
       "rarity": "☆6",
       "sex": 0,
       "class": 6,
@@ -10865,7 +10930,7 @@
         },
         {
           "3302": 8,
-          "31044": 5
+          "31043": 5
         },
         {
           "3303": 8,
@@ -10965,9 +11030,10 @@
       "code": "PL07",
       "name": {
         "ja": "血掟テキサス",
-        "en": "Texas T.O.",
+        "en": "Texas the Omertosa",
         "ch": "缄默德克萨斯"
       },
+      "charId": "char_1028_texas2",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -11132,6 +11198,7 @@
         "en": "Penance",
         "ch": "斥罪"
       },
+      "charId": "char_4065_judge",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -11237,7 +11304,7 @@
           },
           {
             "3303": 15,
-            "30115": 6,
+            "30145": 6,
             "31064": 4
           }
         ],
@@ -11301,6 +11368,7 @@
         "en": "Vigil",
         "ch": "伺夜"
       },
+      "charId": "char_427_vigil",
       "rarity": "☆6",
       "sex": 0,
       "class": 0,
@@ -11467,9 +11535,10 @@
       "code": "DB02",
       "name": {
         "ja": "焔影リード",
-        "en": "Reed F.S.",
+        "en": "Reed the Flame Shadow",
         "ch": "焰影苇草"
       },
+      "charId": "char_1020_reed2",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -11633,6 +11702,7 @@
         "en": "Chongyue",
         "ch": "重岳"
       },
+      "charId": "char_2024_chyue",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -11802,6 +11872,7 @@
         "en": "Lin",
         "ch": "林"
       },
+      "charId": "char_4080_lin",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -11968,9 +12039,10 @@
       "code": "YD20",
       "name": {
         "ja": "チューバイ",
-        "en": "Qiu Bai",
+        "en": "Qiubai",
         "ch": "仇白"
       },
+      "charId": "char_4082_qiubai",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -11997,6 +12069,9 @@
         "X": {
           "china": "2024/05/01",
           "global": "2024/10/31"
+        },
+        "Y": {
+          "china": "2026/09/04"
         }
       },
       "alternates": null,
@@ -12110,6 +12185,22 @@
             "3001": 20,
             "30155": 4
           }
+        ],
+        "Y": [
+          {
+            "3000": 4,
+            "30155": 2
+          },
+          {
+            "3000": 4,
+            "3002": 60,
+            "30145": 3
+          },
+          {
+            "3000": 4,
+            "3001": 20,
+            "30165": 4
+          }
         ]
       }
     },
@@ -12117,9 +12208,10 @@
       "code": "MH02",
       "name": {
         "ja": "キリンRヤトウ",
-        "en": "Yato K.R",
+        "en": "Kirin R Yato",
         "ch": "麒麟R夜刀"
       },
+      "charId": "char_1029_yato2",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -12284,6 +12376,7 @@
         "en": "Ines",
         "ch": "伊内丝"
       },
+      "charId": "char_4087_ines",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -12428,6 +12521,7 @@
         "en": "Muelsyse",
         "ch": "缪尔赛思"
       },
+      "charId": "char_249_mlyss",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -12597,6 +12691,7 @@
         "en": "Ho’olheyak",
         "ch": "霍尔海雅"
       },
+      "charId": "char_4027_heyak",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -12773,9 +12868,10 @@
       "code": "RL10",
       "name": {
         "ja": "淬羽サイレンス",
-        "en": "Silence T.P.",
+        "en": "Silence the Paradigmatic",
         "ch": "淬羽赫默"
       },
+      "charId": "char_1031_slent2",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -12937,9 +13033,10 @@
       "code": "LT40",
       "name": {
         "ja": "聖約イグゼキュター",
-        "en": "Executor E.F.",
+        "en": "Executor the Ex Foedere",
         "ch": "圣约送葬人"
       },
+      "charId": "char_1032_excu2",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -13109,6 +13206,7 @@
         "en": "Typhon",
         "ch": "提丰"
       },
+      "charId": "char_2012_typhon",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -13284,9 +13382,10 @@
       "code": "LN10",
       "name": {
         "ja": "純燼エイヤフィヤトラ",
-        "en": "Eyjafjalla H.A.",
+        "en": "Eyjafjalla the Hvít Aska",
         "ch": "纯烬艾雅法拉"
       },
+      "charId": "char_1016_agoat2",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -13315,7 +13414,8 @@
           "global": "2025/01/16"
         },
         "Y": {
-          "china": "2026/03/10"
+          "china": "2026/03/10",
+          "global": "2026/08/13"
         }
       },
       "alternates": null,
@@ -13452,9 +13552,10 @@
       "code": "LM22",
       "name": {
         "ja": "琳琅スワイヤー",
-        "en": "Swire E.W.",
+        "en": "Swire the Elegant Wit",
         "ch": "琳琅诗怀雅"
       },
+      "charId": "char_1033_swire2",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -13601,7 +13702,7 @@
         "Y": [
           {
             "3000": 4,
-            "30115": 2
+            "30155": 2
           },
           {
             "3000": 4,
@@ -13611,7 +13712,7 @@
           {
             "3000": 4,
             "3001": 20,
-            "30155": 4
+            "30115": 4
           }
         ],
         "A": [
@@ -13631,9 +13732,10 @@
       "code": "BS30",
       "name": {
         "ja": "滌火ジェシカ",
-        "en": "Jessica T.L.",
+        "en": "Jessica the Liberated",
         "ch": "涤火杰西卡"
       },
+      "charId": "char_1034_jesca2",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -13663,7 +13765,8 @@
           "global": "2024/09/05"
         },
         "Y": {
-          "china": "2026/03/10"
+          "china": "2026/03/10",
+          "global": "2026/08/13"
         }
       },
       "alternates": null,
@@ -13803,6 +13906,7 @@
         "en": "Hoederer",
         "ch": "赫德雷"
       },
+      "charId": "char_4088_hodrer",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -13967,6 +14071,7 @@
         "en": "Virtuosa",
         "ch": "塑心"
       },
+      "charId": "char_245_cello",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -14136,6 +14241,7 @@
         "en": "Viviana",
         "ch": "薇薇安娜"
       },
+      "charId": "char_4098_vvana",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -14306,6 +14412,7 @@
         "en": "Lessing",
         "ch": "止颂"
       },
+      "charId": "char_4011_lessng",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -14475,6 +14582,7 @@
         "en": "Degenbrecher",
         "ch": "锏"
       },
+      "charId": "char_4116_blkkgt",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -14570,7 +14678,7 @@
         "2": [
           {
             "3303": 8,
-            "30033": 3,
+            "30053": 3,
             "31074": 5
           },
           {
@@ -14644,6 +14752,7 @@
         "en": "Ray",
         "ch": "莱伊"
       },
+      "charId": "char_4117_ray",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -14813,6 +14922,7 @@
         "en": "Shu",
         "ch": "黍"
       },
+      "charId": "char_2025_shu",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -14962,6 +15072,7 @@
         "en": "Zuo Le",
         "ch": "左乐"
       },
+      "charId": "char_4121_zuole",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -15126,6 +15237,7 @@
         "en": "Ela",
         "ch": "艾拉"
       },
+      "charId": "char_4123_ela",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -15218,7 +15330,7 @@
           {
             "3303": 12,
             "31024": 8,
-            "31083": 4
+            "31084": 4
           },
           {
             "3303": 15,
@@ -15270,6 +15382,7 @@
         "en": "Ascalon",
         "ch": "阿斯卡纶"
       },
+      "charId": "char_4132_ascln",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -15439,6 +15552,7 @@
         "en": "Wiš’adel",
         "ch": "维什戴尔"
       },
+      "charId": "char_1035_wisdel",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -15584,6 +15698,7 @@
         "en": "Logos",
         "ch": "逻各斯"
       },
+      "charId": "char_4133_logos",
       "rarity": "☆6",
       "sex": 0,
       "class": 4,
@@ -15748,6 +15863,7 @@
         "en": "Civilight Eterna",
         "ch": "魔王"
       },
+      "charId": "char_4134_cetsyr",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -15897,6 +16013,7 @@
         "en": "Ulpianus",
         "ch": "乌尔比安"
       },
+      "charId": "char_4145_ulpia",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -16041,6 +16158,7 @@
         "en": "Nymph",
         "ch": "妮芙"
       },
+      "charId": "char_4146_nymph",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -16209,6 +16327,7 @@
         "en": "Pepe",
         "ch": "佩佩"
       },
+      "charId": "char_4058_pepe",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -16368,6 +16487,7 @@
         "en": "Narantuya",
         "ch": "娜仁图亚"
       },
+      "charId": "char_4138_narant",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -16531,6 +16651,7 @@
         "en": "Marcile",
         "ch": "玛露西尔"
       },
+      "charId": "char_4141_marcil",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -16675,6 +16796,7 @@
         "en": "Vina Victoria",
         "ch": "维娜・维多利亚"
       },
+      "charId": "char_1019_siege2",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -16837,9 +16959,10 @@
       "code": "SR04",
       "name": {
         "ja": "荒蕪ラップランド",
-        "en": "Lappland T.D.",
+        "en": "Lappland the Decadenza",
         "ch": "荒芜拉普兰德"
       },
+      "charId": "char_1038_whitw2",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -16989,6 +17112,7 @@
         "en": "Vulpisfoglia",
         "ch": "忍冬"
       },
+      "charId": "char_4026_vulpis",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -17149,9 +17273,10 @@
       "code": "R315",
       "name": {
         "ja": "クラウンスレイヤー",
-        "en": "CrownSlayer",
+        "en": "Crownslayer",
         "ch": "弑君者"
       },
+      "charId": "char_1502_crosly",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -17318,9 +17443,10 @@
       "code": "II02",
       "name": {
         "ja": "引星ソーンズ",
-        "en": "Thorns T.L.",
+        "en": "Thorns the Lodestar",
         "ch": "引星棘刺"
       },
+      "charId": "char_1039_thorn2",
       "rarity": "☆6",
       "sex": 0,
       "class": 7,
@@ -17465,6 +17591,7 @@
         "en": "Yu",
         "ch": "余"
       },
+      "charId": "char_2026_yu",
       "rarity": "☆6",
       "sex": 0,
       "class": 2,
@@ -17611,9 +17738,10 @@
       "code": "REX1",
       "name": {
         "ja": "熾炎ブレイズ",
-        "en": "Blaze I.S.",
+        "en": "Blaze the Igniting Spark",
         "ch": "烛煌"
       },
+      "charId": "char_1040_blaze2",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -17779,6 +17907,7 @@
         "en": "Entelechia",
         "ch": "隐德来希"
       },
+      "charId": "char_4010_etlchi",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -17943,6 +18072,7 @@
         "en": "Necrass",
         "ch": "死芒"
       },
+      "charId": "char_450_necras",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -18087,6 +18217,7 @@
         "en": "Mon3tr",
         "ch": "Mon3tr"
       },
+      "charId": "char_4179_monstr",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -18228,9 +18359,10 @@
       "code": "PL08",
       "name": {
         "ja": "新約エクシア",
-        "en": "Exusiai N.C.",
+        "en": "Exusiai the New Covenant",
         "ch": "新约能天使"
       },
+      "charId": "char_1041_angel2",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -18376,6 +18508,7 @@
         "en": "Lemuen",
         "ch": "蕾缪安"
       },
+      "charId": "char_4193_lemuen",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -18520,6 +18653,7 @@
         "en": "Sankta Miksaparato",
         "ch": "信仰搅拌机"
       },
+      "charId": "char_4194_rmixer",
       "rarity": "☆6",
       "sex": 0,
       "class": 2,
@@ -18683,6 +18817,7 @@
         "en": "Tragodia",
         "ch": "酒神"
       },
+      "charId": "char_1042_phatm2",
       "rarity": "☆6",
       "sex": 0,
       "class": 6,
@@ -18824,9 +18959,10 @@
       "code": "YD25",
       "name": {
         "ja": "司霆レイズ",
-        "en": "Leizi T.T.",
+        "en": "Leizi the Thunderbringer",
         "ch": "司霆惊蛰"
       },
+      "charId": "char_1043_leizi2",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -18971,6 +19107,7 @@
         "en": "Raidian",
         "ch": "电弧"
       },
+      "charId": "char_4195_radian",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -19046,9 +19183,10 @@
       "code": "LM23",
       "name": {
         "ja": "斬業ホシグマ",
-        "en": "Hoshiguma T.B.",
+        "en": "Hoshiguma the Breacher",
         "ch": "斩业星熊"
       },
+      "charId": "char_1044_hsgma2",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -19193,6 +19331,7 @@
         "en": "Haruka",
         "ch": "遥"
       },
+      "charId": "char_4202_haruka",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -19337,6 +19476,7 @@
         "en": "Sakiko Togawa",
         "ch": "丰川祥子"
       },
+      "charId": "char_4182_oblvns",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -19481,6 +19621,7 @@
         "en": "Mantra",
         "ch": "真言"
       },
+      "charId": "char_4204_mantra",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -19622,9 +19763,10 @@
       "code": "KJ01",
       "name": {
         "ja": "凛御シルバーアッシュ",
-        "en": "SilverAsh T.R.",
+        "en": "SilverAsh the Reignfrost",
         "ch": "凛御银灰"
       },
+      "charId": "char_1045_svash2",
       "rarity": "☆6",
       "sex": 0,
       "class": 0,
@@ -19744,9 +19886,10 @@
       "code": "KJ02",
       "name": {
         "ja": "聖聆プラマニクス",
-        "en": "Pramanix T.P.",
+        "en": "Pramanix the Prerita",
         "ch": "圣聆初雪"
       },
+      "charId": "char_1046_sbell2",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -19888,9 +20031,10 @@
       "code": "RL12",
       "name": {
         "ja": "溯光アステジーニ",
-        "en": "Astgenne T.L.",
+        "en": "Astgenne the Lightchaser",
         "ch": "溯光星源"
       },
+      "charId": "char_1047_halo2",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -20035,6 +20179,7 @@
         "en": "Nasti",
         "ch": "娜斯提"
       },
+      "charId": "char_4212_nasti",
       "rarity": "☆6",
       "sex": 1,
       "class": 6,
@@ -20179,6 +20324,7 @@
         "en": "Titi",
         "ch": "缇缇"
       },
+      "charId": "char_4056_titi",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -20324,6 +20470,7 @@
         "en": "Wang",
         "ch": "望"
       },
+      "charId": "char_2027_wang",
       "rarity": "☆6",
       "sex": 0,
       "class": 7,
@@ -20465,9 +20612,10 @@
       "code": "YD30",
       "name": {
         "ja": "赤刃明霄チェン",
-        "en": "Ch'en T.D.",
+        "en": "Ch'en the Dawnstreak",
         "ch": "赤刃明霄陈"
       },
+      "charId": "char_1050_chen3",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -20612,6 +20760,7 @@
         "en": "Bellone",
         "ch": "贝洛内"
       },
+      "charId": "char_4037_demetr",
       "rarity": "☆6",
       "sex": 0,
       "class": 1,
@@ -20625,12 +20774,14 @@
       "welfare": false,
       "limited": false,
       "addDate": {
-        "china": "2026/03/10"
+        "china": "2026/03/10",
+        "global": "2026/08/13"
       },
       "paradox": null,
       "moduleAddDates": {
         "Y": {
-          "china": "2026/03/10"
+          "china": "2026/03/10",
+          "global": "2026/08/13"
         }
       },
       "alternates": null,
@@ -20751,9 +20902,10 @@
       "code": "USS0",
       "name": {
         "ja": "怒潮ズィマー",
-        "en": "Zima R.T.",
+        "en": "Zima the Raging Tide",
         "ch": "怒潮凛冬"
       },
+      "charId": "char_1051_headb2",
       "rarity": "☆6",
       "sex": 1,
       "class": 1,
@@ -20893,9 +21045,10 @@
       "code": "R002",
       "name": {
         "ja": "ケルシー・エスペランタ",
-        "en": "Kal'tsit·Esperanta",
+        "en": "Kal'tsit - Esperanta",
         "ch": "凯尔希·思衡托"
       },
+      "charId": "char_1052_kalts2",
       "rarity": "☆6",
       "sex": 1,
       "class": 5,
@@ -21017,6 +21170,7 @@
         "en": "Closure",
         "ch": "可露希尔"
       },
+      "charId": "char_4228_closur",
       "rarity": "☆6",
       "sex": 1,
       "class": 0,
@@ -21159,6 +21313,7 @@
         "en": "Вий",
         "ch": "维伊"
       },
+      "charId": "char_4226_veen",
       "rarity": "☆6",
       "sex": 0,
       "class": 4,
@@ -21298,9 +21453,10 @@
       "code": "MH05",
       "name": {
         "ja": "焔狐竜オーキッド",
-        "en": "Orchid V.M.",
+        "en": "Violet Mizutsune Orchid",
         "ch": "焰狐龙梓兰"
       },
+      "charId": "char_1048_orchd2",
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
@@ -21444,6 +21600,7 @@
         "en": "Aphrissa",
         "ch": "谬因"
       },
+      "charId": "char_4229_aphris",
       "rarity": "☆6",
       "sex": 1,
       "class": 4,
@@ -21586,6 +21743,7 @@
         "en": "Mechanist",
         "ch": "机械师"
       },
+      "charId": "char_4230_mcnist",
       "rarity": "☆6",
       "sex": 0,
       "class": 2,
@@ -21608,7 +21766,7 @@
         }
       },
       "alternates": null,
-      "page": null,
+      "page": 8680,
       "elite": [
         {},
         {}
@@ -21650,9 +21808,10 @@
       "code": "R102",
       "name": {
         "ja": "予願アンジェリーナ",
-        "en": "Angelina M.W.",
+        "en": "Angelina the Mellow Wish",
         "ch": "予愿安洁莉娜"
       },
+      "charId": "char_1015_aglna2",
       "rarity": "☆6",
       "sex": 1,
       "class": 7,
@@ -21677,7 +21836,7 @@
         {
           "3281": 5,
           "30022": 8,
-          "30052": 5
+          "30032": 5
         },
         {
           "3283": 4,
@@ -21775,6 +21934,7 @@
         "en": "Thumpy",
         "ch": "珊比"
       },
+      "charId": "char_4235_thumpy",
       "rarity": "☆6",
       "sex": 1,
       "class": 2,
@@ -21886,7 +22046,7 @@
           },
           {
             "3303": 15,
-            "30115": 6,
+            "30145": 6,
             "31084": 1
           }
         ]
@@ -21911,12 +22071,156 @@
       }
     },
     {
+      "code": "PS33",
+      "name": {
+        "ja": "結城理",
+        "en": "Makoto Yuki",
+        "ch": "结城理"
+      },
+      "charId": null,
+      "rarity": "☆6",
+      "sex": 0,
+      "class": 7,
+      "subClass": 5,
+      "race": 106,
+      "faction": [
+        9
+      ],
+      "place": 106,
+      "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
+      "addDate": {
+        "china": "2026/09/04"
+      },
+      "paradox": null,
+      "moduleAddDates": {
+        "Y": {
+          "china": "2026/09/04"
+        }
+      },
+      "alternates": null,
+      "page": 8709,
+      "elite": [
+        {
+          "3281": 5,
+          "30032": 8,
+          "30042": 4
+        },
+        {
+          "3283": 4,
+          "30165": 4,
+          "31114": 2
+        }
+      ],
+      "skill": [
+        {
+          "3301": 5
+        },
+        {
+          "3301": 5,
+          "30011": 4,
+          "30051": 6
+        },
+        {
+          "3302": 8,
+          "30062": 3
+        },
+        {
+          "3302": 8,
+          "30012": 5,
+          "30062": 3
+        },
+        {
+          "3302": 8,
+          "31103": 5
+        },
+        {
+          "3303": 8,
+          "30013": 5,
+          "31033": 5
+        }
+      ],
+      "skillMastery": {
+        "1": [
+          {
+            "3303": 8,
+            "30014": 4,
+            "31033": 9
+          },
+          {
+            "3303": 12,
+            "30044": 7,
+            "31024": 4
+          },
+          {
+            "3303": 15,
+            "30145": 6,
+            "31114": 1
+          }
+        ],
+        "2": [
+          {
+            "3303": 8,
+            "30053": 3,
+            "31034": 4
+          },
+          {
+            "3303": 12,
+            "30054": 4,
+            "31104": 8
+          },
+          {
+            "3303": 15,
+            "30165": 6,
+            "31024": 1
+          }
+        ],
+        "3": [
+          {
+            "3303": 8,
+            "31013": 7,
+            "31064": 4
+          },
+          {
+            "3303": 12,
+            "31074": 8,
+            "31084": 4
+          },
+          {
+            "3303": 15,
+            "30054": 5,
+            "30115": 6
+          }
+        ]
+      },
+      "modules": {
+        "Y": [
+          {
+            "3000": 4,
+            "30145": 2
+          },
+          {
+            "3000": 4,
+            "3002": 60,
+            "30165": 3
+          },
+          {
+            "3000": 4,
+            "3001": 20,
+            "30115": 4
+          }
+        ]
+      }
+    },
+    {
       "code": "RB01",
       "name": {
         "ja": "サベージ",
         "en": "Savage",
         "ch": "暴行"
       },
+      "charId": "char_230_savage",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -22047,6 +22351,7 @@
         "en": "Texas",
         "ch": "德克萨斯"
       },
+      "charId": "char_102_texas",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -22180,6 +22485,7 @@
         "en": "Zima",
         "ch": "凛冬"
       },
+      "charId": "char_115_headbr",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -22310,6 +22616,7 @@
         "en": "Ptilopsis",
         "ch": "白面鸮"
       },
+      "charId": "char_128_plosis",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -22441,6 +22748,7 @@
         "en": "Silence",
         "ch": "赫默"
       },
+      "charId": "char_108_silent",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -22573,6 +22881,7 @@
         "en": "Warfarin",
         "ch": "华法琳"
       },
+      "charId": "char_171_bldsk",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -22703,6 +23012,7 @@
         "en": "Amiya",
         "ch": "阿米娅"
       },
+      "charId": "char_002_amiya",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -22846,6 +23156,7 @@
         "en": "Amiya Alter(Guard)",
         "ch": "阿米娅(近卫)"
       },
+      "charId": "char_1001_amiya2",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -22936,6 +23247,7 @@
         "en": "Amiya Alter(Medic)",
         "ch": "阿米娅(医疗)"
       },
+      "charId": "char_1037_amiya3",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -22985,8 +23297,8 @@
         "2": [
           {
             "3303": 5,
-            "30033": 4,
-            "30074": 4
+            "30033": 6,
+            "30074": 3
           },
           {
             "3303": 6,
@@ -23026,6 +23338,7 @@
         "en": "Nightmare",
         "ch": "夜魔"
       },
+      "charId": "char_164_nightm",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -23151,6 +23464,7 @@
         "en": "Skyfire",
         "ch": "天火"
       },
+      "charId": "char_166_skfire",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -23281,6 +23595,7 @@
         "en": "Projekt Red",
         "ch": "红"
       },
+      "charId": "char_144_red",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -23407,6 +23722,7 @@
         "en": "Manticore",
         "ch": "狮蝎"
       },
+      "charId": "char_215_mantic",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -23537,6 +23853,7 @@
         "en": "Cliffheart",
         "ch": "崖心"
       },
+      "charId": "char_173_slchan",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -23668,6 +23985,7 @@
         "en": "FEater",
         "ch": "食铁兽"
       },
+      "charId": "char_241_panda",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -23798,6 +24116,7 @@
         "en": "Provence",
         "ch": "普罗旺斯"
       },
+      "charId": "char_145_prove",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -23928,6 +24247,7 @@
         "en": "Blue Poison",
         "ch": "蓝毒"
       },
+      "charId": "char_129_bluep",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -24058,6 +24378,7 @@
         "en": "Firewatch",
         "ch": "守林人"
       },
+      "charId": "char_158_milu",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -24188,6 +24509,7 @@
         "en": "Meteorite",
         "ch": "陨星"
       },
+      "charId": "char_219_meteo",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -24318,6 +24640,7 @@
         "en": "Platinum",
         "ch": "白金"
       },
+      "charId": "char_204_platnm",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -24448,6 +24771,7 @@
         "en": "Pramanix",
         "ch": "初雪"
       },
+      "charId": "char_174_slbell",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -24581,6 +24905,7 @@
         "en": "Istina",
         "ch": "真理"
       },
+      "charId": "char_195_glassb",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -24711,6 +25036,7 @@
         "en": "Mayer",
         "ch": "梅尔"
       },
+      "charId": "char_242_otter",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -24841,6 +25167,7 @@
         "en": "Sora",
         "ch": "空"
       },
+      "charId": "char_101_sora",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -24971,6 +25298,7 @@
         "en": "Franka",
         "ch": "芙兰卡"
       },
+      "charId": "char_106_franka",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -25101,6 +25429,7 @@
         "en": "Specter",
         "ch": "幽灵鲨"
       },
+      "charId": "char_143_ghost",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -25233,6 +25562,7 @@
         "en": "Indra",
         "ch": "因陀罗"
       },
+      "charId": "char_155_tiger",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -25305,7 +25635,7 @@
         "1": [
           {
             "3303": 5,
-            "30083": 4,
+            "30083": 2,
             "30104": 3
           },
           {
@@ -25363,6 +25693,7 @@
         "en": "Lappland",
         "ch": "拉普兰德"
       },
+      "charId": "char_140_whitew",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -25490,6 +25821,7 @@
         "en": "Nearl",
         "ch": "临光"
       },
+      "charId": "char_148_nearl",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -25618,6 +25950,7 @@
         "en": "Liskarm",
         "ch": "雷蛇"
       },
+      "charId": "char_107_liskam",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -25748,6 +26081,7 @@
         "en": "Vulcan",
         "ch": "火神"
       },
+      "charId": "char_163_hpsts",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -25878,6 +26212,7 @@
         "en": "Croissant",
         "ch": "可颂"
       },
+      "charId": "char_201_moeshd",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -26008,6 +26343,7 @@
         "en": "Grani",
         "ch": "格拉尼"
       },
+      "charId": "char_220_grani",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -26072,7 +26408,7 @@
         },
         {
           "3303": 6,
-          "30053": 3,
+          "30053": 2,
           "30073": 4
         }
       ],
@@ -26138,6 +26474,7 @@
         "en": "Swire",
         "ch": "诗怀雅"
       },
+      "charId": "char_308_swire",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -26204,7 +26541,7 @@
         },
         {
           "3303": 6,
-          "30054": 3,
+          "30053": 3,
           "30073": 3
         }
       ],
@@ -26270,6 +26607,7 @@
         "en": "Glaucus",
         "ch": "格劳克斯"
       },
+      "charId": "char_326_glacus",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -26400,6 +26738,7 @@
         "en": "Ceylon",
         "ch": "锡兰"
       },
+      "charId": "char_348_ceylon",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -26530,6 +26869,7 @@
         "en": "Astesia",
         "ch": "星极"
       },
+      "charId": "char_274_astesi",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -26660,6 +27000,7 @@
         "en": "Flamebringer",
         "ch": "炎客"
       },
+      "charId": "char_131_flameb",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -26785,6 +27126,7 @@
         "en": "Executor",
         "ch": "送葬人"
       },
+      "charId": "char_279_excu",
       "rarity": "☆5",
       "sex": 0,
       "class": 3,
@@ -26917,6 +27259,7 @@
         "en": "Breeze",
         "ch": "微风"
       },
+      "charId": "char_275_breeze",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -27047,6 +27390,7 @@
         "en": "Waai Fu",
         "ch": "槐琥"
       },
+      "charId": "char_243_waaifu",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -27177,6 +27521,7 @@
         "en": "Bison",
         "ch": "拜松"
       },
+      "charId": "char_325_bison",
       "rarity": "☆5",
       "sex": 0,
       "class": 2,
@@ -27307,6 +27652,7 @@
         "en": "Reed",
         "ch": "苇草"
       },
+      "charId": null,
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -27337,7 +27683,7 @@
         }
       },
       "alternates": [
-        "#N/A"
+        "DB02"
       ],
       "page": 225,
       "elite": [
@@ -27440,6 +27786,7 @@
         "en": "Broca",
         "ch": "布洛卡"
       },
+      "charId": "char_356_broca",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -27570,6 +27917,7 @@
         "en": "GreyThroat",
         "ch": "灰喉"
       },
+      "charId": "char_367_swllow",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -27700,6 +28048,7 @@
         "en": "Snowsant",
         "ch": "雪雉"
       },
+      "charId": "char_383_snsant",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -27830,6 +28179,7 @@
         "en": "Hung",
         "ch": "吽"
       },
+      "charId": "char_226_hmau",
       "rarity": "☆5",
       "sex": 0,
       "class": 2,
@@ -27960,6 +28310,7 @@
         "en": "Leizi",
         "ch": "惊蛰"
       },
+      "charId": "char_306_leizi",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -28092,6 +28443,7 @@
         "en": "Bibeak",
         "ch": "柏喙"
       },
+      "charId": "char_252_bibeak",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -28222,6 +28574,7 @@
         "en": "Sesa",
         "ch": "慑砂"
       },
+      "charId": "char_379_sesa",
       "rarity": "☆5",
       "sex": 0,
       "class": 3,
@@ -28352,6 +28705,7 @@
         "en": "Shamare",
         "ch": "巫恋"
       },
+      "charId": "char_254_vodfox",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -28482,6 +28836,7 @@
         "en": "Sideroca",
         "ch": "铸铁"
       },
+      "charId": "char_333_sidero",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -28612,6 +28967,7 @@
         "en": "Elysium",
         "ch": "极境"
       },
+      "charId": "char_401_elysm",
       "rarity": "☆5",
       "sex": 0,
       "class": 0,
@@ -28743,6 +29099,7 @@
         "en": "Asbestos",
         "ch": "石棉"
       },
+      "charId": "char_378_asbest",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -28873,6 +29230,7 @@
         "en": "Tsukinogi",
         "ch": "月禾"
       },
+      "charId": "char_343_tknogi",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -29003,6 +29361,7 @@
         "en": "Absinthe",
         "ch": "苦艾"
       },
+      "charId": "char_405_absin",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -29133,6 +29492,7 @@
         "en": "Leonhardt",
         "ch": "莱恩哈特"
       },
+      "charId": "char_373_lionhd",
       "rarity": "☆5",
       "sex": 0,
       "class": 4,
@@ -29263,6 +29623,7 @@
         "en": "Ayerscarpe",
         "ch": "断崖"
       },
+      "charId": "char_294_ayer",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -29393,6 +29754,7 @@
         "en": "Folinic",
         "ch": "亚叶"
       },
+      "charId": "char_345_folnic",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -29523,6 +29885,7 @@
         "en": "Beeswax",
         "ch": "蜜蜡"
       },
+      "charId": "char_344_beewax",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -29653,6 +30016,7 @@
         "en": "Chiave",
         "ch": "贾维"
       },
+      "charId": "char_349_chiave",
       "rarity": "☆5",
       "sex": 0,
       "class": 0,
@@ -29783,6 +30147,7 @@
         "en": "Scene",
         "ch": "稀音"
       },
+      "charId": "char_336_folivo",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -29913,6 +30278,7 @@
         "en": "Andreana",
         "ch": "安哲拉"
       },
+      "charId": "char_218_cuttle",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -30038,6 +30404,7 @@
         "en": "Tomimi",
         "ch": "特米米"
       },
+      "charId": "char_411_tomimi",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -30168,6 +30535,7 @@
         "en": "Flint",
         "ch": "燧石"
       },
+      "charId": "char_415_flint",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -30298,6 +30666,7 @@
         "en": "Mint",
         "ch": "薄绿"
       },
+      "charId": "char_388_mint",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -30428,6 +30797,7 @@
         "en": "April",
         "ch": "四月"
       },
+      "charId": "char_365_aprl",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -30558,6 +30928,7 @@
         "en": "Aosta",
         "ch": "奥斯塔"
       },
+      "charId": "char_346_aosta",
       "rarity": "☆5",
       "sex": 0,
       "class": 3,
@@ -30688,6 +31059,7 @@
         "en": "Whislash",
         "ch": "鞭刃"
       },
+      "charId": "char_265_sophia",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -30818,6 +31190,7 @@
         "en": "Whisperain",
         "ch": "絮雨"
       },
+      "charId": "char_436_whispr",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -30948,6 +31321,7 @@
         "en": "Kafka",
         "ch": "卡夫卡"
       },
+      "charId": "char_214_kafka",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -31078,6 +31452,7 @@
         "en": "Robin",
         "ch": "罗宾"
       },
+      "charId": "char_451_robin",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -31208,6 +31583,7 @@
         "en": "Iris",
         "ch": "爱丽丝"
       },
+      "charId": "char_338_iris",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -31338,6 +31714,7 @@
         "en": "Tuye",
         "ch": "图耶"
       },
+      "charId": "char_402_tuye",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -31465,9 +31842,10 @@
       "code": "RF01",
       "name": {
         "ja": "炎獄ラヴァ",
-        "en": "Purgatory",
+        "en": "Lava the Purgatory",
         "ch": "炎狱炎熔"
       },
+      "charId": "char_1011_lava2",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -31599,6 +31977,7 @@
         "en": "Mr.Nothing",
         "ch": "乌有"
       },
+      "charId": "char_455_nothin",
       "rarity": "☆5",
       "sex": 0,
       "class": 7,
@@ -31729,6 +32108,7 @@
         "en": "Frost",
         "ch": "霜华"
       },
+      "charId": "char_458_rfrost",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -31854,6 +32234,7 @@
         "en": "Blitz",
         "ch": "闪击"
       },
+      "charId": "char_457_blitz",
       "rarity": "☆5",
       "sex": 0,
       "class": 2,
@@ -31979,6 +32360,7 @@
         "en": "Tachanka",
         "ch": "战车"
       },
+      "charId": "char_459_tachak",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -32104,6 +32486,7 @@
         "en": "Toddifons",
         "ch": "熔泉"
       },
+      "charId": "char_363_toddi",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -32234,6 +32617,7 @@
         "en": "Heavyrain",
         "ch": "暴雨"
       },
+      "charId": "char_304_zebra",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -32365,6 +32749,7 @@
         "en": "Akafuyu",
         "ch": "赤冬"
       },
+      "charId": "char_475_akafyu",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -32495,6 +32880,7 @@
         "en": "Kirara",
         "ch": "绮良"
       },
+      "charId": "char_478_kirara",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -32625,6 +33011,7 @@
         "en": "Bena",
         "ch": "贝娜"
       },
+      "charId": "char_369_bena",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -32755,6 +33142,7 @@
         "en": "La Pluma",
         "ch": "羽毛笔"
       },
+      "charId": "char_421_crow",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -32885,6 +33273,7 @@
         "en": "Tequila",
         "ch": "龙舌兰"
       },
+      "charId": "char_486_takila",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -33015,6 +33404,7 @@
         "en": "Mulberry",
         "ch": "桑葚"
       },
+      "charId": "char_473_mberry",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -33145,6 +33535,7 @@
         "en": "Ashlock",
         "ch": "灰毫"
       },
+      "charId": "char_431_ashlok",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -33275,6 +33666,7 @@
         "en": "Corroserum",
         "ch": "蚀清"
       },
+      "charId": "char_489_serum",
       "rarity": "☆5",
       "sex": 0,
       "class": 4,
@@ -33404,6 +33796,7 @@
         "en": "Honeyberry",
         "ch": "蜜莓"
       },
+      "charId": "char_449_glider",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -33534,6 +33927,7 @@
         "en": "Wild Mane",
         "ch": "野鬃"
       },
+      "charId": "char_496_wildmn",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -33664,6 +34058,7 @@
         "en": "Aurora",
         "ch": "极光"
       },
+      "charId": "char_422_aurora",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -33795,6 +34190,7 @@
         "en": "Kjera",
         "ch": "耶拉"
       },
+      "charId": "char_4013_kjera",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -33926,6 +34322,7 @@
         "en": "Shalem",
         "ch": "暮落"
       },
+      "charId": "char_4025_aprot2",
       "rarity": "☆5",
       "sex": 0,
       "class": 2,
@@ -34053,9 +34450,10 @@
       "code": "YD09",
       "name": {
         "ja": "九色鹿",
-        "en": "9-Colored Deer",
+        "en": "Nine-Colored Deer",
         "ch": "九色鹿"
       },
+      "charId": "char_4019_ncdeer",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -34181,6 +34579,7 @@
         "en": "Blacknight",
         "ch": "夜半"
       },
+      "charId": "char_476_blkngt",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -34308,9 +34707,10 @@
       "code": "RF02",
       "name": {
         "ja": "寒芒クルース",
-        "en": "Kroos K.G.",
+        "en": "Kroos the Keen Glint",
         "ch": "寒芒克洛丝"
       },
+      "charId": "char_1021_kroos2",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -34441,6 +34841,7 @@
         "en": "Quercus",
         "ch": "夏栎"
       },
+      "charId": "char_492_quercu",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -34572,6 +34973,7 @@
         "en": "Enforcer",
         "ch": "见行者"
       },
+      "charId": "char_4036_forcer",
       "rarity": "☆5",
       "sex": 0,
       "class": 7,
@@ -34702,6 +35104,7 @@
         "en": "Kazemaru",
         "ch": "风丸"
       },
+      "charId": "char_4016_kazema",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -34832,6 +35235,7 @@
         "en": "Rockrock",
         "ch": "洛洛"
       },
+      "charId": "char_4040_rockr",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -34962,6 +35366,7 @@
         "en": "Heidi",
         "ch": "海蒂"
       },
+      "charId": "char_4045_heidi",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -35092,6 +35497,7 @@
         "en": "Windflit",
         "ch": "掠风"
       },
+      "charId": "char_433_windft",
       "rarity": "☆5",
       "sex": 0,
       "class": 6,
@@ -35222,6 +35628,7 @@
         "en": "Erato",
         "ch": "埃拉托"
       },
+      "charId": "char_4043_erato",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -35352,6 +35759,7 @@
         "en": "Czerny",
         "ch": "车尔尼"
       },
+      "charId": "char_4047_pianst",
       "rarity": "☆5",
       "sex": 0,
       "class": 2,
@@ -35479,9 +35887,10 @@
       "code": "RF03",
       "name": {
         "ja": "濯塵ハイビスカス",
-        "en": "Hibiscus P.F.",
+        "en": "Hibiscus the Purifier",
         "ch": "濯尘芙蓉"
       },
+      "charId": "char_1024_hbisc2",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -35613,6 +36022,7 @@
         "en": "Astgenne",
         "ch": "星源"
       },
+      "charId": "char_135_halo",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -35642,7 +36052,7 @@
         }
       },
       "alternates": [
-        "#N/A"
+        "RL12"
       ],
       "page": 923,
       "elite": [
@@ -35742,9 +36152,10 @@
       "code": "RF23",
       "name": {
         "ja": "承曦グレイ",
-        "en": "Greyy L.B.",
+        "en": "Greyy the Lightningbearer",
         "ch": "承曦格雷伊"
       },
+      "charId": "char_1027_greyy2",
       "rarity": "☆5",
       "sex": 0,
       "class": 3,
@@ -35876,6 +36287,7 @@
         "en": "Cantabile",
         "ch": "晓歌"
       },
+      "charId": "char_497_ctable",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -36007,6 +36419,7 @@
         "en": "Minimalist",
         "ch": "至简"
       },
+      "charId": "char_4054_malist",
       "rarity": "☆5",
       "sex": 0,
       "class": 4,
@@ -36137,6 +36550,7 @@
         "en": "Proviso",
         "ch": "但书"
       },
+      "charId": "char_4032_provs",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -36267,6 +36681,7 @@
         "en": "Highmore",
         "ch": "海沫"
       },
+      "charId": "char_4066_highmo",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -36392,6 +36807,7 @@
         "en": "Paprika",
         "ch": "明椒"
       },
+      "charId": "char_4071_peper",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -36523,6 +36939,7 @@
         "en": "Dagda",
         "ch": "达格达"
       },
+      "charId": "char_157_dagda",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -36571,7 +36988,7 @@
         },
         {
           "3301": 4,
-          "30052": 5
+          "30051": 5
         },
         {
           "3302": 6,
@@ -36653,6 +37070,7 @@
         "en": "Lunacub",
         "ch": "子月"
       },
+      "charId": "char_4014_lunacu",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -36783,6 +37201,7 @@
         "en": "Qanipalaat",
         "ch": "雪绒"
       },
+      "charId": "char_466_qanik",
       "rarity": "☆5",
       "sex": 0,
       "class": 4,
@@ -36878,7 +37297,7 @@
           {
             "3303": 6,
             "30054": 3,
-            "31053": 5
+            "31054": 5
           },
           {
             "3303": 10,
@@ -36913,6 +37332,7 @@
         "en": "Harmonie",
         "ch": "和弦"
       },
+      "charId": "char_297_hamoni",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -37043,6 +37463,7 @@
         "en": "Pazzle",
         "ch": "谜图"
       },
+      "charId": "char_4017_puzzle",
       "rarity": "☆5",
       "sex": 0,
       "class": 0,
@@ -37173,6 +37594,7 @@
         "en": "Firewhistle",
         "ch": "火哨"
       },
+      "charId": "char_493_firwhl",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -37303,6 +37725,7 @@
         "en": "Jieyun",
         "ch": "截云"
       },
+      "charId": "char_4078_bdhkgt",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -37433,6 +37856,7 @@
         "en": "Wind Chimes",
         "ch": "铎铃"
       },
+      "charId": "char_4083_chimes",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -37560,9 +37984,10 @@
       "code": "MH03",
       "name": {
         "ja": "レウスSノイルホーン",
-        "en": "Noir Corne R.S",
+        "en": "Rathalos S Noir Corne",
         "ch": "火龙S黑角"
       },
+      "charId": "char_1030_noirc2",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -37689,6 +38114,7 @@
         "en": "Cement",
         "ch": "洋灰"
       },
+      "charId": "char_464_cement",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -37819,6 +38245,7 @@
         "en": "Morgan",
         "ch": "摩根"
       },
+      "charId": "char_154_morgan",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -37949,6 +38376,7 @@
         "en": "Melanite",
         "ch": "玫拉"
       },
+      "charId": "char_4006_melnte",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -38079,6 +38507,7 @@
         "en": "Spuria",
         "ch": "空构"
       },
+      "charId": "char_4015_spuria",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -38209,6 +38638,7 @@
         "en": "Insider",
         "ch": "隐现"
       },
+      "charId": "char_498_inside",
       "rarity": "☆5",
       "sex": 0,
       "class": 3,
@@ -38339,6 +38769,7 @@
         "en": "Santalla",
         "ch": "寒檀"
       },
+      "charId": "char_341_sntlla",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -38469,6 +38900,7 @@
         "en": "Valarqvin",
         "ch": "凛视"
       },
+      "charId": "char_4102_threye",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -38594,6 +39026,7 @@
         "en": "Poncirus",
         "ch": "青枳"
       },
+      "charId": "char_488_buildr",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -38724,6 +39157,7 @@
         "en": "Bryophyta",
         "ch": "苍苔"
       },
+      "charId": "char_4106_bryota",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -38854,6 +39288,7 @@
         "en": "Almond",
         "ch": "杏仁"
       },
+      "charId": "char_4105_almond",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -38984,6 +39419,7 @@
         "en": "Coldshot",
         "ch": "冰酿"
       },
+      "charId": "char_4104_coldst",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -39108,12 +39544,13 @@
       }
     },
     {
-      "code": "VC23",
+      "code": "VC24",
       "name": {
         "ja": "ヴァンデラ",
         "en": "Vendela",
         "ch": "刺玫"
       },
+      "charId": "char_494_vendla",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -39238,12 +39675,13 @@
       }
     },
     {
-      "code": "VC24",
+      "code": "VC23",
       "name": {
         "ja": "デルフィーン",
         "en": "Delphine",
         "ch": "戴菲恩"
       },
+      "charId": "char_4110_delphn",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -39369,6 +39807,7 @@
         "en": "Diamante",
         "ch": "折光"
       },
+      "charId": "char_499_kaitou",
       "rarity": "☆5",
       "sex": 0,
       "class": 4,
@@ -39499,6 +39938,7 @@
         "en": "Bassline",
         "ch": "深律"
       },
+      "charId": "char_4109_baslin",
       "rarity": "☆5",
       "sex": 0,
       "class": 2,
@@ -39629,6 +40069,7 @@
         "en": "Лето",
         "ch": "烈夏"
       },
+      "charId": "char_194_leto",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -39759,6 +40200,7 @@
         "en": "Harold",
         "ch": "哈洛德"
       },
+      "charId": "char_4114_harold",
       "rarity": "☆5",
       "sex": 0,
       "class": 5,
@@ -39889,6 +40331,7 @@
         "en": "Warmy",
         "ch": "温米"
       },
+      "charId": "char_4081_warmy",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -40019,6 +40462,7 @@
         "en": "Wanqing",
         "ch": "万顷"
       },
+      "charId": "char_4119_wanqin",
       "rarity": "☆5",
       "sex": 0,
       "class": 0,
@@ -40149,6 +40593,7 @@
         "en": "Grainbuds",
         "ch": "小满"
       },
+      "charId": "char_4122_grabds",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -40279,6 +40724,7 @@
         "en": "Kestrel",
         "ch": "红隼"
       },
+      "charId": "char_4023_rfalcn",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -40409,6 +40855,7 @@
         "en": "Doc",
         "ch": "医生"
       },
+      "charId": "char_4125_rdoc",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -40477,12 +40924,12 @@
           {
             "3303": 5,
             "30053": 3,
-            "31083": 3
+            "31084": 3
           },
           {
             "3303": 6,
             "31064": 3,
-            "31083": 5
+            "31084": 5
           },
           {
             "3303": 10,
@@ -40534,6 +40981,7 @@
         "en": "Iana",
         "ch": "双月"
       },
+      "charId": "char_4124_iana",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -40624,7 +41072,7 @@
           {
             "3303": 6,
             "31054": 6,
-            "31083": 3
+            "31084": 3
           },
           {
             "3303": 10,
@@ -40659,6 +41107,7 @@
         "en": "Fuze",
         "ch": "导火索"
       },
+      "charId": "char_4126_fuze",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -40784,6 +41233,7 @@
         "en": "Aroma",
         "ch": "阿罗玛"
       },
+      "charId": "char_446_aroma",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -40915,6 +41365,7 @@
         "en": "Odda",
         "ch": "奥达"
       },
+      "charId": "char_4131_odda",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -41037,9 +41488,10 @@
       "code": "RF04",
       "name": {
         "ja": "歴陣鋭槍フェン",
-        "en": "Fang F.S.",
+        "en": "Fang the Fire-Sharpened",
         "ch": "历阵锐枪芬"
       },
+      "charId": "char_1036_fang2",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -41166,6 +41618,7 @@
         "en": "Underflow",
         "ch": "深巡"
       },
+      "charId": "char_4137_udflow",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -41291,6 +41744,7 @@
         "en": "Lucilla",
         "ch": "海霓"
       },
+      "charId": "char_4079_haini",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -41421,6 +41875,7 @@
         "en": "Mitm",
         "ch": "渡桥"
       },
+      "charId": "char_4147_mitm",
       "rarity": "☆5",
       "sex": 0,
       "class": 0,
@@ -41551,6 +42006,7 @@
         "en": "Tin Man",
         "ch": "锡人"
       },
+      "charId": "char_4151_tinman",
       "rarity": "☆5",
       "sex": 0,
       "class": 7,
@@ -41681,6 +42137,7 @@
         "en": "Sandreckoner",
         "ch": "衡沙"
       },
+      "charId": "char_4140_lasher",
       "rarity": "☆5",
       "sex": 0,
       "class": 6,
@@ -41811,6 +42268,7 @@
         "en": "Papyrus",
         "ch": "莎草"
       },
+      "charId": "char_4139_papyrs",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -41941,6 +42399,7 @@
         "en": "Laios",
         "ch": "莱欧斯"
       },
+      "charId": "char_4142_laios",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -42066,6 +42525,7 @@
         "en": "Chilchuck",
         "ch": "齐尔查克"
       },
+      "charId": "char_4144_chilc",
       "rarity": "☆5",
       "sex": 0,
       "class": 0,
@@ -42191,6 +42651,7 @@
         "en": "Senshi",
         "ch": "森西"
       },
+      "charId": "char_4143_sensi",
       "rarity": "☆5",
       "sex": 0,
       "class": 2,
@@ -42316,6 +42777,7 @@
         "en": "Catherine",
         "ch": "凯瑟琳"
       },
+      "charId": "char_4162_cathy",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -42446,6 +42908,7 @@
         "en": "Bobbing",
         "ch": "波卜"
       },
+      "charId": "char_487_bobb",
       "rarity": "☆5",
       "sex": 0,
       "class": 6,
@@ -42576,6 +43039,7 @@
         "en": "Figurino",
         "ch": "裁度"
       },
+      "charId": "char_4155_talr",
       "rarity": "☆5",
       "sex": 0,
       "class": 7,
@@ -42701,6 +43165,7 @@
         "en": "Philae",
         "ch": "菲莱"
       },
+      "charId": "char_4148_philae",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -42831,6 +43296,7 @@
         "en": "Tecno",
         "ch": "特克诺"
       },
+      "charId": "char_4164_tecno",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -42961,6 +43427,7 @@
         "en": "Rose Salt",
         "ch": "瑰盐"
       },
+      "charId": "char_4163_rosesa",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -43091,6 +43558,7 @@
         "en": "Xingzhu",
         "ch": "行箸"
       },
+      "charId": "char_4172_xingzh",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -43220,6 +43688,7 @@
         "en": "Surfer",
         "ch": "寻澜"
       },
+      "charId": "char_4052_surfer",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -43349,6 +43818,7 @@
         "en": "Nowell",
         "ch": "诺威尔"
       },
+      "charId": "char_4173_nowell",
       "rarity": "☆5",
       "sex": 0,
       "class": 5,
@@ -43479,6 +43949,7 @@
         "en": "Wulfenite",
         "ch": "钼铅"
       },
+      "charId": "char_4171_wulfen",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -43610,6 +44081,7 @@
         "en": "Brigid",
         "ch": "水灯心"
       },
+      "charId": "char_4177_brigid",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -43628,7 +44100,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/03/10"
+          "china": "2026/03/10",
+          "global": "2026/08/13"
         }
       },
       "moduleAddDates": {
@@ -43699,7 +44172,7 @@
           {
             "3303": 5,
             "30053": 2,
-            "31083": 3
+            "31084": 3
           },
           {
             "3303": 6,
@@ -43739,6 +44212,7 @@
         "en": "Alanna",
         "ch": "阿兰娜"
       },
+      "charId": "char_4178_alanna",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -43868,6 +44342,7 @@
         "en": "Gracebearer",
         "ch": "聆音"
       },
+      "charId": "char_4187_graceb",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -43885,7 +44360,11 @@
         "china": "2025/05/01",
         "global": "2025/10/14"
       },
-      "paradox": null,
+      "paradox": {
+        "1": {
+          "china": "2026/09/04"
+        }
+      },
       "moduleAddDates": null,
       "alternates": null,
       "page": 7342,
@@ -43972,6 +44451,7 @@
         "en": "Miss.Christine",
         "ch": "Miss.Christine"
       },
+      "charId": "char_4198_christ",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -44101,6 +44581,7 @@
         "en": "Tippi",
         "ch": "蒂比"
       },
+      "charId": "char_4191_tippi",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -44209,6 +44690,7 @@
         "en": "Record Keeper",
         "ch": "录武官"
       },
+      "charId": "char_4196_reckpr",
       "rarity": "☆5",
       "sex": 0,
       "class": 5,
@@ -44338,6 +44820,7 @@
         "en": "Kichisei",
         "ch": "吉星"
       },
+      "charId": "char_4203_kichi",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -44468,6 +44951,7 @@
         "en": "Matsukiri",
         "ch": "松桐"
       },
+      "charId": "char_4199_makiri",
       "rarity": "☆5",
       "sex": 0,
       "class": 0,
@@ -44576,6 +45060,7 @@
         "en": "Umiri Yahata",
         "ch": "八幡海铃"
       },
+      "charId": "char_4186_tmoris",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -44701,6 +45186,7 @@
         "en": "Uika Misumi",
         "ch": "三角初华"
       },
+      "charId": "char_4184_dolris",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -44826,6 +45312,7 @@
         "en": "Nyamu Yutenji",
         "ch": "祐天寺若麦"
       },
+      "charId": "char_4185_amoris",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -44951,6 +45438,7 @@
         "en": "Mutsumi Wakaba",
         "ch": "若叶睦"
       },
+      "charId": "char_4183_mortis",
       "rarity": "☆5",
       "sex": 1,
       "class": 7,
@@ -45076,6 +45564,7 @@
         "en": "Vyetochki",
         "ch": "折桠"
       },
+      "charId": "char_4207_branch",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -45202,9 +45691,10 @@
       "code": "KJ07",
       "name": {
         "ja": "スノーハンター",
-        "en": "SnowHunter",
+        "en": "Snow Hunter",
         "ch": "雪猎"
       },
+      "charId": "char_4211_snhunt",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -45330,6 +45820,7 @@
         "en": "Hadiya",
         "ch": "哈蒂娅"
       },
+      "charId": "char_394_hadiya",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -45437,6 +45928,7 @@
         "en": "Cairn",
         "ch": "响石"
       },
+      "charId": "char_4214_cairn",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -45562,6 +46054,7 @@
         "en": "Skybox",
         "ch": "天空盒"
       },
+      "charId": "char_4213_skybx",
       "rarity": "☆5",
       "sex": 0,
       "class": 3,
@@ -45666,9 +46159,10 @@
       "code": "RF31",
       "name": {
         "ja": "萃香パフューマー",
-        "en": "Perfumer T.D.",
+        "en": "Perfumer the Distilled",
         "ch": "撷英调香师"
       },
+      "charId": "char_1022_flwr2",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -45795,6 +46289,7 @@
         "en": "Varkáris",
         "ch": "摆渡人"
       },
+      "charId": "char_4166_varkis",
       "rarity": "☆5",
       "sex": 0,
       "class": 1,
@@ -45920,6 +46415,7 @@
         "en": "Taraxacum",
         "ch": "风絮"
       },
+      "charId": "char_4222_taraxa",
       "rarity": "☆5",
       "sex": 0,
       "class": 5,
@@ -46023,6 +46519,7 @@
         "en": "Ju",
         "ch": "矩"
       },
+      "charId": "char_4221_ju",
       "rarity": "☆5",
       "sex": 0,
       "class": 3,
@@ -46148,6 +46645,7 @@
         "en": "Ripresa",
         "ch": "复奏"
       },
+      "charId": "char_4031_liesel",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -46161,12 +46659,14 @@
       "welfare": false,
       "limited": false,
       "addDate": {
-        "china": "2026/03/10"
+        "china": "2026/03/10",
+        "global": "2026/08/13"
       },
       "paradox": null,
       "moduleAddDates": {
         "Y": {
-          "china": "2026/03/10"
+          "china": "2026/03/10",
+          "global": "2026/08/13"
         }
       },
       "alternates": null,
@@ -46271,6 +46771,7 @@
         "en": "Укусик",
         "ch": "乌啾"
       },
+      "charId": "char_4224_turdus",
       "rarity": "☆5",
       "sex": 1,
       "class": 5,
@@ -46398,6 +46899,7 @@
         "en": "Ботани",
         "ch": "伯塔尼"
       },
+      "charId": "char_4223_botany",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -46521,6 +47023,7 @@
         "en": "Crackborne",
         "ch": "裂响"
       },
+      "charId": "char_4225_tanya",
       "rarity": "☆5",
       "sex": 1,
       "class": 2,
@@ -46562,7 +47065,7 @@
         },
         {
           "3301": 4,
-          "30051": 7
+          "30031": 7
         },
         {
           "3302": 6,
@@ -46609,7 +47112,7 @@
           {
             "3303": 6,
             "31044": 3,
-            "31084": 6
+            "31094": 6
           },
           {
             "3303": 10,
@@ -46641,9 +47144,10 @@
       "code": "MH06",
       "name": {
         "ja": "ジンオウSカタパルト",
-        "en": "Catapult Z.S.",
+        "en": "Zinogre S Catapult",
         "ch": "雷狼龙S空爆"
       },
+      "charId": "char_1049_catap2",
       "rarity": "☆5",
       "sex": 1,
       "class": 1,
@@ -46768,6 +47272,7 @@
         "en": "Pedro",
         "ch": "佩德洛"
       },
+      "charId": "char_4234_pedro",
       "rarity": "☆5",
       "sex": 0,
       "class": 6,
@@ -46870,6 +47375,7 @@
         "en": "Jacinta",
         "ch": "嘉辛塔"
       },
+      "charId": "char_4237_jcinta",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -46993,6 +47499,7 @@
         "en": "Timeslot",
         "ch": "时隙"
       },
+      "charId": "char_4236_tmslot",
       "rarity": "☆5",
       "sex": 1,
       "class": 4,
@@ -47110,12 +47617,261 @@
       }
     },
     {
+      "code": "PS37",
+      "name": {
+        "ja": "アイギス",
+        "en": "Aegis",
+        "ch": "埃癸斯"
+      },
+      "charId": null,
+      "rarity": "☆5",
+      "sex": 1,
+      "class": 3,
+      "subClass": 9,
+      "race": 106,
+      "faction": [
+        9
+      ],
+      "place": 106,
+      "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
+      "addDate": {
+        "china": "2026/09/04"
+      },
+      "paradox": null,
+      "moduleAddDates": {
+        "X": {
+          "china": "2026/09/04"
+        }
+      },
+      "alternates": null,
+      "page": 8710,
+      "elite": [
+        {
+          "3241": 4,
+          "30022": 2,
+          "30052": 4
+        },
+        {
+          "3243": 3,
+          "31083": 8,
+          "31104": 9
+        }
+      ],
+      "skill": [
+        {
+          "3301": 4
+        },
+        {
+          "3301": 4,
+          "30011": 10
+        },
+        {
+          "3302": 6,
+          "30022": 3
+        },
+        {
+          "3302": 6,
+          "30032": 5
+        },
+        {
+          "3302": 6,
+          "31093": 4
+        },
+        {
+          "3303": 6,
+          "30013": 3,
+          "31043": 3
+        }
+      ],
+      "skillMastery": {
+        "1": [
+          {
+            "3303": 5,
+            "30063": 3,
+            "31014": 3
+          },
+          {
+            "3303": 6,
+            "31044": 3,
+            "31094": 6
+          },
+          {
+            "3303": 10,
+            "30155": 4,
+            "31064": 1
+          }
+        ],
+        "2": [
+          {
+            "3303": 5,
+            "30073": 3,
+            "31114": 3
+          },
+          {
+            "3303": 6,
+            "30014": 7,
+            "31054": 3
+          },
+          {
+            "3303": 10,
+            "30044": 1,
+            "30145": 4
+          }
+        ]
+      },
+      "modules": {
+        "X": [
+          {
+            "3000": 2,
+            "30054": 3
+          },
+          {
+            "3000": 2,
+            "3002": 20,
+            "31064": 4
+          },
+          {
+            "3000": 2,
+            "3001": 8,
+            "31084": 5
+          }
+        ]
+      }
+    },
+    {
+      "code": "PS34",
+      "name": {
+        "ja": "岳羽ゆかり",
+        "en": "Yukari Takeba",
+        "ch": "岳羽由加莉"
+      },
+      "charId": null,
+      "rarity": "☆5",
+      "sex": 1,
+      "class": 6,
+      "subClass": 7,
+      "race": 106,
+      "faction": [
+        9
+      ],
+      "place": 106,
+      "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
+      "addDate": {
+        "china": "2026/09/04"
+      },
+      "paradox": null,
+      "moduleAddDates": {
+        "X": {
+          "china": "2026/09/04"
+        }
+      },
+      "alternates": null,
+      "page": 8711,
+      "elite": [
+        {
+          "3271": 4,
+          "30032": 3,
+          "30062": 3
+        },
+        {
+          "3273": 3,
+          "30083": 14,
+          "31054": 8
+        }
+      ],
+      "skill": [
+        {
+          "3301": 4
+        },
+        {
+          "3301": 4,
+          "30021": 7
+        },
+        {
+          "3302": 6,
+          "30032": 3
+        },
+        {
+          "3302": 6,
+          "30042": 4
+        },
+        {
+          "3302": 6,
+          "31113": 4
+        },
+        {
+          "3303": 6,
+          "30023": 3,
+          "30093": 3
+        }
+      ],
+      "skillMastery": {
+        "1": [
+          {
+            "3303": 5,
+            "31024": 3,
+            "31083": 3
+          },
+          {
+            "3303": 6,
+            "31014": 3,
+            "31034": 5
+          },
+          {
+            "3303": 10,
+            "30165": 4,
+            "31104": 1
+          }
+        ],
+        "2": [
+          {
+            "3303": 5,
+            "30054": 3,
+            "30083": 2
+          },
+          {
+            "3303": 6,
+            "31064": 6,
+            "31114": 3
+          },
+          {
+            "3303": 10,
+            "30115": 4,
+            "31074": 4
+          }
+        ]
+      },
+      "modules": {
+        "X": [
+          {
+            "3000": 2,
+            "30044": 3
+          },
+          {
+            "3000": 2,
+            "3002": 20,
+            "31044": 4
+          },
+          {
+            "3000": 2,
+            "3001": 8,
+            "31104": 5
+          }
+        ]
+      }
+    },
+    {
       "code": "JC04",
       "name": {
         "ja": "クーリエ",
         "en": "Courier",
         "ch": "讯使"
       },
+      "charId": "char_198_blackd",
       "rarity": "☆4",
       "sex": 0,
       "class": 0,
@@ -47245,6 +48001,7 @@
         "en": "Scavenger",
         "ch": "清道夫"
       },
+      "charId": "char_149_scave",
       "rarity": "☆4",
       "sex": 1,
       "class": 0,
@@ -47374,6 +48131,7 @@
         "en": "Vigna",
         "ch": "红豆"
       },
+      "charId": "char_290_vigna",
       "rarity": "☆4",
       "sex": 1,
       "class": 0,
@@ -47503,6 +48261,7 @@
         "en": "Myrrh",
         "ch": "末药"
       },
+      "charId": "char_117_myrrh",
       "rarity": "☆4",
       "sex": 1,
       "class": 5,
@@ -47632,6 +48391,7 @@
         "en": "Gavial",
         "ch": "嘉维尔"
       },
+      "charId": "char_187_ccheal",
       "rarity": "☆4",
       "sex": 1,
       "class": 5,
@@ -47764,6 +48524,7 @@
         "en": "Perfumer",
         "ch": "调香师"
       },
+      "charId": "char_181_flower",
       "rarity": "☆4",
       "sex": 1,
       "class": 5,
@@ -47794,7 +48555,7 @@
         }
       },
       "alternates": [
-        "#N/A"
+        "RF31"
       ],
       "page": 120,
       "elite": [
@@ -47896,6 +48657,7 @@
         "en": "Haze",
         "ch": "夜烟"
       },
+      "charId": "char_141_nights",
       "rarity": "☆4",
       "sex": 1,
       "class": 4,
@@ -48025,6 +48787,7 @@
         "en": "Gitano",
         "ch": "远山"
       },
+      "charId": "char_109_fmout",
       "rarity": "☆4",
       "sex": 1,
       "class": 4,
@@ -48154,6 +48917,7 @@
         "en": "Gravel",
         "ch": "砾"
       },
+      "charId": "char_237_gravel",
       "rarity": "☆4",
       "sex": 1,
       "class": 7,
@@ -48283,6 +49047,7 @@
         "en": "Rope",
         "ch": "暗索"
       },
+      "charId": "char_236_rope",
       "rarity": "☆4",
       "sex": 1,
       "class": 7,
@@ -48413,6 +49178,7 @@
         "en": "Shaw",
         "ch": "阿消"
       },
+      "charId": "char_277_sqrrel",
       "rarity": "☆4",
       "sex": 1,
       "class": 7,
@@ -48542,6 +49308,7 @@
         "en": "ShiraYuki",
         "ch": "白雪"
       },
+      "charId": "char_118_yuki",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -48671,6 +49438,7 @@
         "en": "Meteor",
         "ch": "流星"
       },
+      "charId": "char_126_shotst",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -48800,6 +49568,7 @@
         "en": "Jessica",
         "ch": "杰西卡"
       },
+      "charId": "char_235_jesica",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -48932,6 +49701,7 @@
         "en": "Deepcolor",
         "ch": "深海色"
       },
+      "charId": "char_110_deepcl",
       "rarity": "☆4",
       "sex": 1,
       "class": 6,
@@ -49061,6 +49831,7 @@
         "en": "Earthspirit",
         "ch": "地灵"
       },
+      "charId": "char_183_skgoat",
       "rarity": "☆4",
       "sex": 1,
       "class": 6,
@@ -49190,6 +49961,7 @@
         "en": "Dobermann",
         "ch": "杜宾"
       },
+      "charId": "char_130_doberm",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -49319,6 +50091,7 @@
         "en": "Estelle",
         "ch": "艾丝黛尔"
       },
+      "charId": "char_127_estell",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -49448,6 +50221,7 @@
         "en": "Beehunter",
         "ch": "猎蜂"
       },
+      "charId": "char_137_brownb",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -49577,6 +50351,7 @@
         "en": "Mousse",
         "ch": "慕斯"
       },
+      "charId": "char_185_frncat",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -49641,7 +50416,7 @@
         },
         {
           "3303": 4,
-          "30054": 3
+          "30053": 3
         }
       ],
       "skillMastery": {
@@ -49665,7 +50440,7 @@
         "2": [
           {
             "3303": 2,
-            "30054": 4,
+            "30053": 4,
             "30074": 1
           },
           {
@@ -49706,6 +50481,7 @@
         "en": "Frostleaf",
         "ch": "霜叶"
       },
+      "charId": "char_193_frostl",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -49836,6 +50612,7 @@
         "en": "Matoimaru",
         "ch": "缠丸"
       },
+      "charId": "char_289_gyuki",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -49854,7 +50631,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/03/10"
+          "china": "2026/03/10",
+          "global": "2026/08/13"
         }
       },
       "moduleAddDates": {
@@ -49964,6 +50742,7 @@
         "en": "Cuora",
         "ch": "蛇屠箱"
       },
+      "charId": "char_150_snakek",
       "rarity": "☆4",
       "sex": 1,
       "class": 2,
@@ -50093,6 +50872,7 @@
         "en": "Gummy",
         "ch": "古米"
       },
+      "charId": "char_196_sunbr",
       "rarity": "☆4",
       "sex": 1,
       "class": 2,
@@ -50222,6 +51002,7 @@
         "en": "Matterhorn",
         "ch": "角峰"
       },
+      "charId": "char_199_yak",
       "rarity": "☆4",
       "sex": 0,
       "class": 2,
@@ -50351,6 +51132,7 @@
         "en": "Greyy",
         "ch": "格雷伊"
       },
+      "charId": "char_253_greyy",
       "rarity": "☆4",
       "sex": 0,
       "class": 4,
@@ -50482,6 +51264,7 @@
         "en": "Sussurro",
         "ch": "苏苏洛"
       },
+      "charId": "char_298_susuro",
       "rarity": "☆4",
       "sex": 1,
       "class": 5,
@@ -50612,6 +51395,7 @@
         "en": "Myrtle",
         "ch": "桃金娘"
       },
+      "charId": "char_151_myrtle",
       "rarity": "☆4",
       "sex": 1,
       "class": 0,
@@ -50741,6 +51525,7 @@
         "en": "Dur-nar",
         "ch": "坚雷"
       },
+      "charId": "char_260_durnar",
       "rarity": "☆4",
       "sex": 1,
       "class": 2,
@@ -50871,6 +51656,7 @@
         "en": "Vermeil",
         "ch": "红云"
       },
+      "charId": "char_190_clour",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -51000,6 +51786,7 @@
         "en": "Ethan",
         "ch": "伊桑"
       },
+      "charId": "char_355_ethan",
       "rarity": "☆4",
       "sex": 0,
       "class": 7,
@@ -51129,6 +51916,7 @@
         "en": "May",
         "ch": "梅"
       },
+      "charId": "char_133_mm",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -51258,6 +52046,7 @@
         "en": "Ambriel",
         "ch": "安比尔"
       },
+      "charId": "char_302_glaze",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -51387,6 +52176,7 @@
         "en": "Purestream",
         "ch": "清流"
       },
+      "charId": "char_385_finlpp",
       "rarity": "☆4",
       "sex": 1,
       "class": 5,
@@ -51516,6 +52306,7 @@
         "en": "Utage",
         "ch": "宴"
       },
+      "charId": "char_337_utage",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -51645,6 +52436,7 @@
         "en": "Conviction",
         "ch": "断罪者"
       },
+      "charId": "char_159_peacok",
       "rarity": "☆4",
       "sex": 2,
       "class": 1,
@@ -51769,6 +52561,7 @@
         "en": "Cutter",
         "ch": "刻刀"
       },
+      "charId": "char_301_cutter",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -51898,6 +52691,7 @@
         "en": "Podenco",
         "ch": "波登可"
       },
+      "charId": "char_258_podego",
       "rarity": "☆4",
       "sex": 1,
       "class": 6,
@@ -52028,6 +52822,7 @@
         "en": "Click",
         "ch": "卡达"
       },
+      "charId": "char_328_cammou",
       "rarity": "☆4",
       "sex": 1,
       "class": 4,
@@ -52157,6 +52952,7 @@
         "en": "Jaye",
         "ch": "孑"
       },
+      "charId": "char_272_strong",
       "rarity": "☆4",
       "sex": 0,
       "class": 7,
@@ -52286,6 +53082,7 @@
         "en": "Aciddrop",
         "ch": "酸糖"
       },
+      "charId": "char_366_acdrop",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -52415,6 +53212,7 @@
         "en": "Arene",
         "ch": "芳汀"
       },
+      "charId": "char_271_spikes",
       "rarity": "☆4",
       "sex": 0,
       "class": 1,
@@ -52544,6 +53342,7 @@
         "en": "Bubble",
         "ch": "泡泡"
       },
+      "charId": "char_381_bubble",
       "rarity": "☆4",
       "sex": 1,
       "class": 2,
@@ -52673,6 +53472,7 @@
         "en": "Jackie",
         "ch": "杰克"
       },
+      "charId": "char_347_jaksel",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -52802,6 +53602,7 @@
         "en": "Pinecone",
         "ch": "松果"
       },
+      "charId": "char_440_pinecn",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -52931,6 +53732,7 @@
         "en": "Beanstalk",
         "ch": "豆苗"
       },
+      "charId": "char_452_bstalk",
       "rarity": "☆4",
       "sex": 1,
       "class": 0,
@@ -53060,6 +53862,7 @@
         "en": "Indigo",
         "ch": "深靛"
       },
+      "charId": "char_469_indigo",
       "rarity": "☆4",
       "sex": 1,
       "class": 4,
@@ -53189,6 +53992,7 @@
         "en": "Roberta",
         "ch": "罗比菈塔"
       },
+      "charId": "char_484_robrta",
       "rarity": "☆4",
       "sex": 1,
       "class": 6,
@@ -53318,6 +54122,7 @@
         "en": "Pudding",
         "ch": "布丁"
       },
+      "charId": "char_4004_pudd",
       "rarity": "☆4",
       "sex": 1,
       "class": 4,
@@ -53447,6 +54252,7 @@
         "en": "Chestnut",
         "ch": "褐果"
       },
+      "charId": "char_4041_chnut",
       "rarity": "☆4",
       "sex": 0,
       "class": 5,
@@ -53576,6 +54382,7 @@
         "en": "Luo Xiaiohei",
         "ch": "罗小黑"
       },
+      "charId": "char_4067_lolxh",
       "rarity": "☆4",
       "sex": 0,
       "class": 1,
@@ -53700,6 +54507,7 @@
         "en": "Totter",
         "ch": "铅踝"
       },
+      "charId": "char_4062_totter",
       "rarity": "☆4",
       "sex": 0,
       "class": 3,
@@ -53829,6 +54637,7 @@
         "en": "Quartz",
         "ch": "石英"
       },
+      "charId": "char_4063_quartz",
       "rarity": "☆4",
       "sex": 1,
       "class": 1,
@@ -53958,6 +54767,7 @@
         "en": "Humus",
         "ch": "休谟斯"
       },
+      "charId": "char_491_humus",
       "rarity": "☆4",
       "sex": 0,
       "class": 1,
@@ -54088,6 +54898,7 @@
         "en": "Verdant",
         "ch": "维荻"
       },
+      "charId": "char_4107_vrdant",
       "rarity": "☆4",
       "sex": 0,
       "class": 7,
@@ -54217,6 +55028,7 @@
         "en": "Caper",
         "ch": "跃跃"
       },
+      "charId": "char_4100_caper",
       "rarity": "☆4",
       "sex": 1,
       "class": 3,
@@ -54346,6 +55158,7 @@
         "en": "Lutonada",
         "ch": "露托"
       },
+      "charId": "char_4130_luton",
       "rarity": "☆4",
       "sex": 1,
       "class": 2,
@@ -54475,6 +55288,7 @@
         "en": "Contrail",
         "ch": "云迹"
       },
+      "charId": "char_4165_ctrail",
       "rarity": "☆4",
       "sex": 1,
       "class": 7,
@@ -54582,6 +55396,7 @@
         "en": "Windscoot",
         "ch": "骋风"
       },
+      "charId": "char_445_wscoot",
       "rarity": "☆4",
       "sex": 0,
       "class": 1,
@@ -54615,7 +55430,7 @@
       "elite": [
         {
           "3221": 3,
-          "30033": 1,
+          "30032": 1,
           "30052": 1
         },
         {
@@ -54711,6 +55526,7 @@
         "en": "Snegurochka",
         "ch": "冬时"
       },
+      "charId": "char_4208_wintim",
       "rarity": "☆4",
       "sex": 1,
       "class": 0,
@@ -54839,6 +55655,7 @@
         "en": "Akkord",
         "ch": "协律"
       },
+      "charId": "char_4051_akkord",
       "rarity": "☆4",
       "sex": 1,
       "class": 4,
@@ -54963,6 +55780,7 @@
         "en": "Fang",
         "ch": "芬"
       },
+      "charId": "char_123_fang",
       "rarity": "☆3",
       "sex": 1,
       "class": 0,
@@ -55027,6 +55845,7 @@
         "en": "Vanilla",
         "ch": "香草"
       },
+      "charId": "char_240_wyvern",
       "rarity": "☆3",
       "sex": 1,
       "class": 0,
@@ -55090,6 +55909,7 @@
         "en": "Plume",
         "ch": "翎羽"
       },
+      "charId": "char_192_falco",
       "rarity": "☆3",
       "sex": 1,
       "class": 0,
@@ -55153,6 +55973,7 @@
         "en": "Hibiscus",
         "ch": "芙蓉"
       },
+      "charId": "char_120_hibisc",
       "rarity": "☆3",
       "sex": 1,
       "class": 5,
@@ -55219,6 +56040,7 @@
         "en": "Ansel",
         "ch": "安赛尔"
       },
+      "charId": "char_212_ansel",
       "rarity": "☆3",
       "sex": 0,
       "class": 5,
@@ -55283,6 +56105,7 @@
         "en": "Lava",
         "ch": "炎熔"
       },
+      "charId": "char_121_lava",
       "rarity": "☆3",
       "sex": 1,
       "class": 4,
@@ -55349,6 +56172,7 @@
         "en": "Steward",
         "ch": "史都华德"
       },
+      "charId": "char_210_stward",
       "rarity": "☆3",
       "sex": 0,
       "class": 4,
@@ -55407,6 +56231,7 @@
         "en": "Kroos",
         "ch": "克洛丝"
       },
+      "charId": "char_124_kroos",
       "rarity": "☆3",
       "sex": 1,
       "class": 3,
@@ -55473,6 +56298,7 @@
         "en": "Adnachiel",
         "ch": "安德切尔"
       },
+      "charId": "char_211_adnach",
       "rarity": "☆3",
       "sex": 0,
       "class": 3,
@@ -55537,6 +56363,7 @@
         "en": "Orchid",
         "ch": "梓兰"
       },
+      "charId": "char_278_orchid",
       "rarity": "☆3",
       "sex": 1,
       "class": 6,
@@ -55603,6 +56430,7 @@
         "en": "Melantha",
         "ch": "玫兰莎"
       },
+      "charId": "char_208_melan",
       "rarity": "☆3",
       "sex": 1,
       "class": 1,
@@ -55667,6 +56495,7 @@
         "en": "Beagle",
         "ch": "米格鲁"
       },
+      "charId": "char_122_beagle",
       "rarity": "☆3",
       "sex": 1,
       "class": 2,
@@ -55730,6 +56559,7 @@
         "en": "Cardigan",
         "ch": "卡缇"
       },
+      "charId": "char_209_ardign",
       "rarity": "☆3",
       "sex": 1,
       "class": 2,
@@ -55794,6 +56624,7 @@
         "en": "Catapult",
         "ch": "空爆"
       },
+      "charId": "char_282_catap",
       "rarity": "☆3",
       "sex": 1,
       "class": 3,
@@ -55860,6 +56691,7 @@
         "en": "Midnight",
         "ch": "月见夜"
       },
+      "charId": "char_283_midn",
       "rarity": "☆3",
       "sex": 0,
       "class": 1,
@@ -55924,6 +56756,7 @@
         "en": "Popukar",
         "ch": "泡普卡"
       },
+      "charId": "char_281_popka",
       "rarity": "☆3",
       "sex": 1,
       "class": 1,
@@ -55988,6 +56821,7 @@
         "en": "Spot",
         "ch": "斑点"
       },
+      "charId": "char_284_spot",
       "rarity": "☆3",
       "sex": 0,
       "class": 2,
@@ -56052,6 +56886,7 @@
         "en": "Yato",
         "ch": "夜刀"
       },
+      "charId": "char_502_nblade",
       "rarity": "☆2",
       "sex": 1,
       "class": 0,
@@ -56092,6 +56927,7 @@
         "en": "Durin",
         "ch": "杜林"
       },
+      "charId": "char_501_durin",
       "rarity": "☆2",
       "sex": 1,
       "class": 4,
@@ -56129,6 +56965,7 @@
         "en": "12F",
         "ch": "12F"
       },
+      "charId": "char_009_12fce",
       "rarity": "☆2",
       "sex": 0,
       "class": 4,
@@ -56166,6 +57003,7 @@
         "en": "Rangers",
         "ch": "巡林者"
       },
+      "charId": "char_503_rang",
       "rarity": "☆2",
       "sex": 0,
       "class": 3,
@@ -56198,6 +57036,7 @@
         "en": "Noir Corne",
         "ch": "黑角"
       },
+      "charId": "char_500_noirc",
       "rarity": "☆2",
       "sex": 0,
       "class": 2,
@@ -56238,6 +57077,7 @@
         "en": "Lancet-2",
         "ch": "Lancet-2"
       },
+      "charId": "char_285_medic2",
       "rarity": "☆1",
       "sex": 1,
       "class": 5,
@@ -56270,6 +57110,7 @@
         "en": "Castle-3",
         "ch": "Castle-3"
       },
+      "charId": "char_286_cast3",
       "rarity": "☆1",
       "sex": 0,
       "class": 1,
@@ -56302,6 +57143,7 @@
         "en": "Thermal-EX",
         "ch": "Thermal-EX"
       },
+      "charId": "char_376_therex",
       "rarity": "☆1",
       "sex": 0,
       "class": 7,
@@ -56334,6 +57176,7 @@
         "en": "Justice Knight",
         "ch": "正义骑士号"
       },
+      "charId": "char_4000_jnight",
       "rarity": "☆1",
       "sex": 1,
       "class": 3,
@@ -56366,6 +57209,7 @@
         "en": "Terra Research Commission",
         "ch": "泰拉大陆调查团"
       },
+      "charId": "char_4077_palico",
       "rarity": "☆1",
       "sex": 3,
       "class": 3,
@@ -56398,6 +57242,7 @@
         "en": "U-Official",
         "ch": "U-Official"
       },
+      "charId": "char_4091_ulika",
       "rarity": "☆1",
       "sex": 1,
       "class": 6,
@@ -56430,6 +57275,7 @@
         "en": "Friston-3",
         "ch": "Friston-3"
       },
+      "charId": "char_4093_frston",
       "rarity": "☆1",
       "sex": 0,
       "class": 2,
@@ -56462,6 +57308,7 @@
         "en": "PhonoR-0",
         "ch": "PhonoR-0"
       },
+      "charId": "char_4136_phonor",
       "rarity": "☆1",
       "sex": 1,
       "class": 6,
@@ -56494,6 +57341,7 @@
         "en": "CONFESS-47",
         "ch": "CONFESS-47"
       },
+      "charId": "char_4188_confes",
       "rarity": "☆1",
       "sex": 3,
       "class": 0,
@@ -56526,6 +57374,7 @@
         "en": "GALLUS²",
         "ch": "GALLUS²"
       },
+      "charId": "char_4227_gallus",
       "rarity": "☆1",
       "sex": 3,
       "class": 4,
@@ -56557,6 +57406,7 @@
         "en": "Rhodes Island Recon",
         "ch": "罗德岛隐秘队"
       },
+      "charId": "char_4215_buddy",
       "rarity": "☆1",
       "sex": 3,
       "class": 0,
@@ -56576,6 +57426,38 @@
       "moduleAddDates": null,
       "alternates": null,
       "page": 8639,
+      "elite": [],
+      "skill": [],
+      "skillMastery": {},
+      "modules": {}
+    },
+    {
+      "code": "PS38",
+      "name": {
+        "ja": "コロマル",
+        "en": "Koromaru",
+        "ch": "虎狼丸"
+      },
+      "charId": null,
+      "rarity": "☆1",
+      "sex": 3,
+      "class": 1,
+      "subClass": 1,
+      "race": 106,
+      "faction": [
+        9
+      ],
+      "place": 106,
+      "freeGrowth": false,
+      "welfare": true,
+      "limited": false,
+      "addDate": {
+        "china": "2026/09/04"
+      },
+      "paradox": null,
+      "moduleAddDates": null,
+      "alternates": null,
+      "page": null,
       "elite": [],
       "skill": [],
       "skillMastery": {},
