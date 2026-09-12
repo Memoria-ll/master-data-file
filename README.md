@@ -20,6 +20,8 @@
 
 `arknights-data/master/` 配下のデータは、各種Wiki等で公開されている情報を参照し、Memoria-ll が手動で整理・作成しています。
 
+Memoria-ll が行った整理・編集・構成については、[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) の条件に従い、非商用での利用・改変・再配布が可能です。
+
 ゲーム内の名称・数値・その他の原著作物に関する権利は、それぞれの権利者に帰属します。
 
 ### stage
@@ -36,16 +38,28 @@ Penguin Statistics の公開APIドキュメントでは、データ利用につ�
 
 ## 利用について
 
-このリポジトリ内のデータを、第三者のアプリケーション・サービス・データセット等の取得元として利用することは推奨していません。
+### master
 
-特に `stage` および `statistics` のデータを利用したい場合は、このリポジトリを経由せず、それぞれの取得元から直接取得してください。
+`arknights-data/master/` 配下のデータは、非商用であれば利用・改変・再配布できます。
+
+利用時は、このリポジトリまたは Memoria-ll を出典として表示してください。また、第三者の著作物やゲーム内情報に関する権利まで本リポジトリが許諾するものではありません。
+
+### stage / statistics
+
+`arknights-data/stage/` および `arknights-data/statistics/` 配下のデータについては、このリポジトリを第三者のアプリケーション・サービス・データセット等の取得元として利用することは推奨していません。
+
+これらのデータを利用したい場合は、このリポジトリを経由せず、それぞれの取得元から直接取得してください。
 
 - `stage`: [Penguin Statistics](https://penguin-stats.io/)
 - `statistics`: [明日方舟一图流](https://ark.yituliu.cn/)
 
 各取得元のデータを利用する場合は、それぞれが定めるライセンス・利用条件に従ってください。このリポジトリの公開によって、取得元または権利者の利用条件を変更したり、追加の権利を付与したりするものではありません。
 
-`master` 配下についても、ゲーム内情報や各種公開情報を参照して作成しているため、用途に応じて原典・権利者の情報を確認してください。
+## License
+
+`arknights-data/master/` 配下の、Memoria-ll が行った整理・編集・構成に関する部分は、[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) のもとで提供します。
+
+`arknights-data/stage/` および `arknights-data/statistics/` 配下のデータについては、本リポジトリ独自のライセンスを設定せず、それぞれの取得元が定めるライセンス・利用条件に従います。
 
 ## Attribution / Credits
 
