@@ -14,6 +14,12 @@
 
 更新時刻は目安であり、取得元の状態や更新処理の都合により前後する場合があります。
 
+## Browser App 用の4ファイル release (#608)
+
+`node browser-release.mjs` は `master/manifest.json` の3必須 master の byte size と SHA-256 をローカル実体と照合し、`stage/stage_master_data.json` を immutable な `browser/releases/<releaseId>/stage.json` にコピーして `browser/manifest.json` を生成する。既存の3 master は hash 付き URL をそのまま参照する。`node --test browser-release.check.mjs` が再実行の決定性、旧 release の維持、破損時の pointer 維持を確認する。
+
+公開先 `https://data.memoria-ll.link/arknights-data/` へ同期するときは、manifest が指す4 blob の公開と HEAD/byte hash 検証を終えてから `browser/manifest.json` を最後に公開する。manifest と blob は `Access-Control-Allow-Origin: *` を返す。manifest は再検証、hash 固定 blob は長期 cache にする。公開 URL から manifest・4 blob・CORS・hash を再確認するまで Browser の remote 更新完了とは扱わない。この repository には現行 data.memoria-ll.link へのデプロイ workflow が無いため、配信側の既存同期処理にこの公開順と新しい `browser/` パスを追加する必要がある。
+
 ## データソース
 
 ### master
