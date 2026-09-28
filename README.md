@@ -14,6 +14,14 @@
 
 更新時刻は目安であり、取得元の状態や更新処理の都合により前後する場合があります。
 
+## Browser App 用の4ファイル release (#608)
+
+定期更新の正本は [Memoria-ll/GAS](https://github.com/Memoria-ll/GAS) の `publishRelease()`。既存の master / stage 更新と同じコミットで、stage の不変コピー `browser/releases/<releaseId>/stage.json` と `browser/manifest.json` も更新する。既存の3 master は hash 付き URL をそのまま参照する。
+
+`node browser-release.mjs` は初期 release の生成とローカル照合用。`master/manifest.json` の3必須 master の byte size と SHA-256 をローカル実体と照合し、同じ Browser release を生成する。`node --test browser-release.check.mjs` が再実行の決定性、旧 release の維持、破損時の pointer 維持を確認する。
+
+公開先 `https://data.memoria-ll.link/arknights-data/` へ反映するときは、manifest が指す4 blob の公開と HEAD/byte hash 検証を終えてから `browser/manifest.json` を有効にする。manifest と blob は `Access-Control-Allow-Origin: *` を返す。manifest は再検証、hash 固定 blob は長期 cache にする。公開 URL から manifest・4 blob・CORS・hash を再確認するまで Browser の remote 更新完了とは扱わない。この repository に配信 workflow は無いため、公開先の既存同期設定が新しい `browser/` パスを含むことを確認する。
+
 ## データソース
 
 ### master
