@@ -1,10 +1,10 @@
 {
-  "releaseId": "d83ec90d928f37d84f0c00236e41289741b008f327b04240441ba3954ac4bf3f",
+  "releaseId": "093326cf8c37466cbfd00d19f308d044765c81d8f6748cb315ece9b2eda50a36",
   "files": {
     "operator": {
-      "url": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20260917_0129_a9b7c4b6.json",
-      "sha256": "a9b7c4b631e1ee403e5e8646c25d00cf8c085bdd46ed29b23a84f289a8b970c4",
-      "size": 1034652
+      "url": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20261008_2126_bcfe3b7f.json",
+      "sha256": "bcfe3b7f4c6b927f8bb88087776e1c0d0c1ee9acb930103836129cfdc4d15c31",
+      "size": 1035186
     },
     "material": {
       "url": "https://data.memoria-ll.link/arknights-data/master/material_master_data_20260730_2349_31ead0fc.json",
@@ -17,7 +17,7 @@
       "size": 33311
     },
     "stage": {
-      "url": "https://data.memoria-ll.link/arknights-data/browser/releases/d83ec90d928f37d84f0c00236e41289741b008f327b04240441ba3954ac4bf3f/stage.json",
+      "url": "https://data.memoria-ll.link/arknights-data/browser/releases/093326cf8c37466cbfd00d19f308d044765c81d8f6748cb315ece9b2eda50a36/stage.json",
       "sha256": "796fd479ea0ecaf32eb0a6e8526c46e02102f8a6f7b5270dfadcc50e984390cb",
       "size": 19339
     }
