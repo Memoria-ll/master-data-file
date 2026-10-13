@@ -1621,6 +1621,15 @@
         "Y": true
       }
     },
+    "AE01": {
+      "name": {
+        "ja": "クレメンティア",
+        "en": "Clementia",
+        "ch": "克莱门莎"
+      },
+      "rarity": "☆6",
+      "modules": {}
+    },
     "RB01": {
       "name": {
         "ja": "サベージ",
@@ -3790,6 +3799,28 @@
         "ja": "岳羽ゆかり",
         "en": "Takeba Yukari",
         "ch": "岳羽由加莉"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "X": true
+      }
+    },
+    "II13": {
+      "name": {
+        "ja": "デ・トレド",
+        "en": "de Toledo",
+        "ch": "德·托莱多"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "Y": true
+      }
+    },
+    "II12": {
+      "name": {
+        "ja": "ホームバウンド",
+        "en": "Homebound",
+        "ch": "旅骨"
       },
       "rarity": "☆5",
       "modules": {

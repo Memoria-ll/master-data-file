@@ -4843,7 +4843,8 @@
           "global": "2025/06/05"
         },
         "Y": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "alternates": null,
@@ -6563,7 +6564,8 @@
           "global": "2025/04/08"
         },
         "Y": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "alternates": null,
@@ -6700,7 +6702,7 @@
       "code": "B003",
       "name": {
         "ja": "ケルシー",
-        "en": "kal'tsit",
+        "en": "Kal'tsit",
         "ch": "凯尔希"
       },
       "charId": "char_003_kalts",
@@ -9681,7 +9683,8 @@
           "global": "2023/01/13"
         },
         "A": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "alternates": null,
@@ -10551,7 +10554,7 @@
       "rarity": "☆6",
       "sex": 1,
       "class": 3,
-      "subClass": 2,
+      "subClass": 6,
       "race": 28,
       "faction": [
         30,
@@ -11054,7 +11057,8 @@
       "paradox": null,
       "moduleAddDates": {
         "X": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         },
         "Y": {
           "china": "2022/11/01",
@@ -11535,7 +11539,7 @@
       "code": "DB02",
       "name": {
         "ja": "焔影リード",
-        "en": "Reed the Flame Shadow",
+        "en": "Reed The Flame Shadow",
         "ch": "焰影苇草"
       },
       "charId": "char_1020_reed2",
@@ -13234,7 +13238,8 @@
           "global": "2025/12/11"
         },
         "A": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "alternates": null,
@@ -14612,7 +14617,8 @@
           "global": "2024/06/21"
         },
         "Y": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "alternates": null,
@@ -15061,6 +15067,22 @@
             "3000": 4,
             "3001": 20,
             "30115": 4
+          }
+        ],
+        "Y": [
+          {
+            "3000": 4,
+            "30115": 2
+          },
+          {
+            "3000": 4,
+            "3002": 60,
+            "30155": 3
+          },
+          {
+            "3000": 4,
+            "3001": 20,
+            "30145": 4
           }
         ]
       }
@@ -16148,6 +16170,22 @@
             "3001": 20,
             "30155": 4
           }
+        ],
+        "Y": [
+          {
+            "3000": 4,
+            "30165": 2
+          },
+          {
+            "3000": 4,
+            "3002": 60,
+            "30115": 3
+          },
+          {
+            "3000": 4,
+            "3001": 20,
+            "30155": 4
+          }
         ]
       }
     },
@@ -16187,7 +16225,8 @@
           "global": "2026/01/16"
         },
         "Y": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "alternates": null,
@@ -16648,7 +16687,7 @@
       "code": "DD02",
       "name": {
         "ja": "マルシル",
-        "en": "Marcile",
+        "en": "Marcille",
         "ch": "玛露西尔"
       },
       "charId": "char_4141_marcil",
@@ -17296,7 +17335,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "moduleAddDates": {
@@ -18677,7 +18717,8 @@
           "global": "2025/10/14"
         },
         "Y": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "alternates": null,
@@ -19473,7 +19514,7 @@
       "code": "AM01",
       "name": {
         "ja": "豊川祥子",
-        "en": "Sakiko Togawa",
+        "en": "Togawa Sakiko",
         "ch": "丰川祥子"
       },
       "charId": "char_4182_oblvns",
@@ -19638,7 +19679,11 @@
         "china": "2025/10/09",
         "global": "2026/03/19"
       },
-      "paradox": null,
+      "paradox": {
+        "1": {
+          "china": "2026/10/09"
+        }
+      },
       "moduleAddDates": {
         "X": {
           "china": "2025/10/09",
@@ -20777,7 +20822,11 @@
         "china": "2026/03/10",
         "global": "2026/08/13"
       },
-      "paradox": null,
+      "paradox": {
+        "1": {
+          "china": "2026/10/09"
+        }
+      },
       "moduleAddDates": {
         "Y": {
           "china": "2026/03/10",
@@ -20919,12 +20968,14 @@
       "welfare": false,
       "limited": false,
       "addDate": {
-        "china": "2026/04/07"
+        "china": "2026/04/07",
+        "global": "2026/09/16"
       },
       "paradox": null,
       "moduleAddDates": {
         "X": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "alternates": null,
@@ -21062,7 +21113,8 @@
       "welfare": false,
       "limited": true,
       "addDate": {
-        "china": "2026/05/01"
+        "china": "2026/05/01",
+        "global": "2026/10/14"
       },
       "paradox": null,
       "moduleAddDates": null,
@@ -21184,12 +21236,14 @@
       "welfare": false,
       "limited": false,
       "addDate": {
-        "china": "2026/05/01"
+        "china": "2026/05/01",
+        "global": "2026/10/14"
       },
       "paradox": null,
       "moduleAddDates": {
         "X": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "alternates": null,
@@ -21310,7 +21364,7 @@
       "code": "US53",
       "name": {
         "ja": "ヴィイ",
-        "en": "Вий",
+        "en": "Vii",
         "ch": "维伊"
       },
       "charId": "char_4226_veen",
@@ -21327,12 +21381,14 @@
       "welfare": true,
       "limited": false,
       "addDate": {
-        "china": "2026/05/01"
+        "china": "2026/05/01",
+        "global": "2026/10/14"
       },
       "paradox": null,
       "moduleAddDates": {
         "Y": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "alternates": null,
@@ -22074,10 +22130,10 @@
       "code": "PS33",
       "name": {
         "ja": "結城理",
-        "en": "Makoto Yuki",
+        "en": "Yuki Makoto",
         "ch": "结城理"
       },
-      "charId": null,
+      "charId": "char_4217_makoto",
       "rarity": "☆6",
       "sex": 0,
       "class": 7,
@@ -22212,6 +22268,128 @@
           }
         ]
       }
+    },
+    {
+      "code": "AE01",
+      "name": {
+        "ja": "クレメンティア",
+        "en": "Clementia",
+        "ch": "克莱门莎"
+      },
+      "charId": null,
+      "rarity": "☆6",
+      "sex": 1,
+      "class": 1,
+      "subClass": 12,
+      "race": 8,
+      "faction": [
+        27
+      ],
+      "place": 19,
+      "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
+      "addDate": {
+        "china": "2026/10/09"
+      },
+      "paradox": null,
+      "moduleAddDates": null,
+      "alternates": null,
+      "page": 8726,
+      "elite": [
+        {
+          "3221": 5,
+          "30042": 8,
+          "30052": 3
+        },
+        {
+          "3223": 4,
+          "30014": 9,
+          "30115": 4
+        }
+      ],
+      "skill": [
+        {
+          "3301": 5
+        },
+        {
+          "3301": 5,
+          "30031": 4,
+          "30061": 4
+        },
+        {
+          "3302": 8,
+          "30012": 7
+        },
+        {
+          "3302": 8,
+          "30022": 4,
+          "30052": 4
+        },
+        {
+          "3302": 8,
+          "31033": 6
+        },
+        {
+          "3303": 8,
+          "30053": 5,
+          "30093": 3
+        }
+      ],
+      "skillMastery": {
+        "1": [
+          {
+            "3303": 8,
+            "30044": 4,
+            "31093": 3
+          },
+          {
+            "3303": 12,
+            "31044": 4,
+            "31094": 9
+          },
+          {
+            "3303": 15,
+            "30155": 6,
+            "31084": 2
+          }
+        ],
+        "2": [
+          {
+            "3303": 8,
+            "31104": 4,
+            "31113": 6
+          },
+          {
+            "3303": 12,
+            "30014": 10,
+            "31054": 4
+          },
+          {
+            "3303": 15,
+            "30145": 6,
+            "31044": 1
+          }
+        ],
+        "3": [
+          {
+            "3303": 8,
+            "31053": 5,
+            "31074": 4
+          },
+          {
+            "3303": 12,
+            "31014": 4,
+            "31034": 7
+          },
+          {
+            "3303": 15,
+            "30165": 6,
+            "31054": 1
+          }
+        ]
+      },
+      "modules": {}
     },
     {
       "code": "RB01",
@@ -27652,7 +27830,7 @@
         "en": "Reed",
         "ch": "苇草"
       },
-      "charId": null,
+      "charId": "char_261_sddrag",
       "rarity": "☆5",
       "sex": 1,
       "class": 0,
@@ -29774,7 +29952,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "moduleAddDates": {
@@ -37460,7 +37639,7 @@
       "code": "VC21",
       "name": {
         "ja": "パズル",
-        "en": "Pazzle",
+        "en": "Puzzle",
         "ch": "谜图"
       },
       "charId": "char_4017_puzzle",
@@ -40066,7 +40245,7 @@
       "code": "USS5",
       "name": {
         "ja": "リェータ",
-        "en": "Лето",
+        "en": "Leto",
         "ch": "烈夏"
       },
       "charId": "char_194_leto",
@@ -40590,7 +40769,7 @@
       "code": "YD14",
       "name": {
         "ja": "グレインバッズ",
-        "en": "Grainbuds",
+        "en": "Grain Buds",
         "ch": "小满"
       },
       "charId": "char_4122_grabds",
@@ -41635,7 +41814,11 @@
         "china": "2024/06/05",
         "global": "2024/12/03"
       },
-      "paradox": null,
+      "paradox": {
+        "1": {
+          "china": "2026/10/09"
+        }
+      },
       "moduleAddDates": {
         "X": {
           "china": "2024/06/05",
@@ -42134,7 +42317,7 @@
       "code": "SG23",
       "name": {
         "ja": "サンドレコナー",
-        "en": "Sandreckoner",
+        "en": "Sand Reckoner",
         "ch": "衡沙"
       },
       "charId": "char_4140_lasher",
@@ -44231,7 +44414,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "moduleAddDates": {
@@ -45057,7 +45241,7 @@
       "code": "AM02",
       "name": {
         "ja": "八幡海鈴",
-        "en": "Umiri Yahata",
+        "en": "Yahata Umiri",
         "ch": "八幡海铃"
       },
       "charId": "char_4186_tmoris",
@@ -45183,7 +45367,7 @@
       "code": "AM03",
       "name": {
         "ja": "三角初華",
-        "en": "Uika Misumi",
+        "en": "Misumi Uika",
         "ch": "三角初华"
       },
       "charId": "char_4184_dolris",
@@ -45309,7 +45493,7 @@
       "code": "AM04",
       "name": {
         "ja": "祐天寺にゃむ",
-        "en": "Nyamu Yutenji",
+        "en": "Yutenji Nyamu",
         "ch": "祐天寺若麦"
       },
       "charId": "char_4185_amoris",
@@ -45435,7 +45619,7 @@
       "code": "AM05",
       "name": {
         "ja": "若葉睦",
-        "en": "Mutsumi Wakaba",
+        "en": "Wakaba Mutsumi",
         "ch": "若叶睦"
       },
       "charId": "char_4183_mortis",
@@ -45583,7 +45767,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "moduleAddDates": {
@@ -45839,7 +46024,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "moduleAddDates": null,
@@ -46662,7 +46848,11 @@
         "china": "2026/03/10",
         "global": "2026/08/13"
       },
-      "paradox": null,
+      "paradox": {
+        "1": {
+          "china": "2026/10/09"
+        }
+      },
       "moduleAddDates": {
         "Y": {
           "china": "2026/03/10",
@@ -46785,7 +46975,8 @@
       "welfare": false,
       "limited": false,
       "addDate": {
-        "china": "2026/04/07"
+        "china": "2026/04/07",
+        "global": "2026/09/16"
       },
       "paradox": {
         "1": {
@@ -46794,7 +46985,8 @@
       },
       "moduleAddDates": {
         "X": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "alternates": null,
@@ -46913,12 +47105,14 @@
       "welfare": true,
       "limited": false,
       "addDate": {
-        "china": "2026/04/07"
+        "china": "2026/04/07",
+        "global": "2026/09/16"
       },
       "paradox": null,
       "moduleAddDates": {
         "X": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "alternates": null,
@@ -47037,12 +47231,14 @@
       "welfare": false,
       "limited": false,
       "addDate": {
-        "china": "2026/05/01"
+        "china": "2026/05/01",
+        "global": "2026/10/14"
       },
       "paradox": null,
       "moduleAddDates": {
         "X": {
-          "china": "2026/05/01"
+          "china": "2026/05/01",
+          "global": "2026/10/14"
         }
       },
       "alternates": null,
@@ -47623,7 +47819,7 @@
         "en": "Aegis",
         "ch": "埃癸斯"
       },
-      "charId": null,
+      "charId": "char_4218_aigis",
       "rarity": "☆5",
       "sex": 1,
       "class": 3,
@@ -47744,10 +47940,10 @@
       "code": "PS34",
       "name": {
         "ja": "岳羽ゆかり",
-        "en": "Yukari Takeba",
+        "en": "Takeba Yukari",
         "ch": "岳羽由加莉"
       },
-      "charId": null,
+      "charId": "char_4219_yukari",
       "rarity": "☆5",
       "sex": 1,
       "class": 6,
@@ -47860,6 +48056,254 @@
             "3000": 2,
             "3001": 8,
             "31104": 5
+          }
+        ]
+      }
+    },
+    {
+      "code": "II13",
+      "name": {
+        "ja": "デ・トレド",
+        "en": "de Toledo",
+        "ch": "德·托莱多"
+      },
+      "charId": null,
+      "rarity": "☆5",
+      "sex": 1,
+      "class": 6,
+      "subClass": 2,
+      "race": 26,
+      "faction": [
+        29
+      ],
+      "place": 20,
+      "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
+      "addDate": {
+        "china": "2026/10/09"
+      },
+      "paradox": null,
+      "moduleAddDates": {
+        "Y": {
+          "china": "2026/10/09"
+        }
+      },
+      "alternates": null,
+      "page": 8727,
+      "elite": [
+        {
+          "3271": 4,
+          "30012": 3,
+          "30022": 5
+        },
+        {
+          "3273": 3,
+          "30043": 13,
+          "31014": 9
+        }
+      ],
+      "skill": [
+        {
+          "3301": 4
+        },
+        {
+          "3301": 4,
+          "30041": 5
+        },
+        {
+          "3302": 6,
+          "30052": 3
+        },
+        {
+          "3302": 6,
+          "30062": 3
+        },
+        {
+          "3302": 6,
+          "30063": 3
+        },
+        {
+          "3303": 6,
+          "30033": 3,
+          "31033": 3
+        }
+      ],
+      "skillMastery": {
+        "1": [
+          {
+            "3303": 5,
+            "30013": 5,
+            "31054": 3
+          },
+          {
+            "3303": 6,
+            "31074": 5,
+            "31084": 3
+          },
+          {
+            "3303": 10,
+            "30165": 4,
+            "31034": 1
+          }
+        ],
+        "2": [
+          {
+            "3303": 5,
+            "30093": 4,
+            "31014": 3
+          },
+          {
+            "3303": 6,
+            "31044": 3,
+            "31094": 6
+          },
+          {
+            "3303": 10,
+            "30115": 4,
+            "31064": 4
+          }
+        ]
+      },
+      "modules": {
+        "Y": [
+          {
+            "3000": 2,
+            "31054": 3
+          },
+          {
+            "3000": 2,
+            "3002": 20,
+            "31074": 4
+          },
+          {
+            "3000": 2,
+            "3001": 8,
+            "31014": 5
+          }
+        ]
+      }
+    },
+    {
+      "code": "II12",
+      "name": {
+        "ja": "ホームバウンド",
+        "en": "Homebound",
+        "ch": "旅骨"
+      },
+      "charId": null,
+      "rarity": "☆5",
+      "sex": 0,
+      "class": 7,
+      "subClass": 8,
+      "race": 8,
+      "faction": [
+        29
+      ],
+      "place": 20,
+      "freeGrowth": false,
+      "welfare": false,
+      "limited": false,
+      "addDate": {
+        "china": "2026/10/09"
+      },
+      "paradox": null,
+      "moduleAddDates": {
+        "X": {
+          "china": "2026/10/09"
+        }
+      },
+      "alternates": null,
+      "page": 8728,
+      "elite": [
+        {
+          "3281": 4,
+          "30012": 7,
+          "30062": 2
+        },
+        {
+          "3283": 3,
+          "31073": 13,
+          "31074": 7
+        }
+      ],
+      "skill": [
+        {
+          "3301": 4
+        },
+        {
+          "3301": 4,
+          "30031": 7
+        },
+        {
+          "3302": 6,
+          "30042": 3
+        },
+        {
+          "3302": 6,
+          "30052": 4
+        },
+        {
+          "3302": 6,
+          "31053": 4
+        },
+        {
+          "3303": 6,
+          "31023": 2,
+          "31103": 3
+        }
+      ],
+      "skillMastery": {
+        "1": [
+          {
+            "3303": 5,
+            "31073": 2,
+            "31084": 3
+          },
+          {
+            "3303": 6,
+            "30044": 5,
+            "31024": 3
+          },
+          {
+            "3303": 10,
+            "30155": 4,
+            "31094": 1
+          }
+        ],
+        "2": [
+          {
+            "3303": 5,
+            "30043": 4,
+            "31044": 3
+          },
+          {
+            "3303": 6,
+            "30054": 3,
+            "31104": 5
+          },
+          {
+            "3303": 10,
+            "30014": 1,
+            "30145": 4
+          }
+        ]
+      },
+      "modules": {
+        "X": [
+          {
+            "3000": 2,
+            "31094": 3
+          },
+          {
+            "3000": 2,
+            "3002": 20,
+            "31114": 4
+          },
+          {
+            "3000": 2,
+            "3001": 8,
+            "30014": 5
           }
         ]
       }
@@ -55545,7 +55989,8 @@
       },
       "paradox": {
         "1": {
-          "china": "2026/04/07"
+          "china": "2026/04/07",
+          "global": "2026/09/16"
         }
       },
       "moduleAddDates": {
@@ -57173,7 +57618,7 @@
       "code": "KZ15",
       "name": {
         "ja": "ジャスティスナイト",
-        "en": "Justice Knight",
+        "en": "\"Justice Knight\"",
         "ch": "正义骑士号"
       },
       "charId": "char_4000_jnight",
@@ -57388,7 +57833,8 @@
       "welfare": false,
       "limited": false,
       "addDate": {
-        "china": "2026/05/01"
+        "china": "2026/05/01",
+        "global": "2026/10/14"
       },
       "paradox": null,
       "moduleAddDates": null,
@@ -57438,7 +57884,7 @@
         "en": "Koromaru",
         "ch": "虎狼丸"
       },
-      "charId": null,
+      "charId": "char_4220_kormr",
       "rarity": "☆1",
       "sex": 3,
       "class": 1,
@@ -57457,7 +57903,7 @@
       "paradox": null,
       "moduleAddDates": null,
       "alternates": null,
-      "page": null,
+      "page": 8712,
       "elite": [],
       "skill": [],
       "skillMastery": {},
