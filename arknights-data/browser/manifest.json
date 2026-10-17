@@ -1,5 +1,5 @@
 {
-  "releaseId": "cf47dfdd5298d14acc8fba84d3455679c49990a2c2ac88da6277c09b873be897",
+  "releaseId": "3063c814624a255c25b6f7027ecfe42e4dac5f68b209eb849b44aa730de4273b",
   "files": {
     "operator": {
       "url": "https://data.memoria-ll.link/arknights-data/master/operator_master_data_20261013_2158_3b679938.json",
@@ -7,9 +7,9 @@
       "size": 1042637
     },
     "material": {
-      "url": "https://data.memoria-ll.link/arknights-data/master/material_master_data_20260730_2349_31ead0fc.json",
-      "sha256": "31ead0fc1acef5e30855c7d3ef706c77f35279eecd9970b0434c63e03169d068",
-      "size": 27143
+      "url": "https://data.memoria-ll.link/arknights-data/master/material_master_data_20261018_0147_4737ed5d.json",
+      "sha256": "4737ed5df5bd51ac85148eab5ddf86be8bcdfc60e99b1678d8bd23bbf3747985",
+      "size": 27348
     },
     "gamedata": {
       "url": "https://data.memoria-ll.link/arknights-data/master/game_data_master_20260907_0106_a53ea089.json",
@@ -17,7 +17,7 @@
       "size": 33311
     },
     "stage": {
-      "url": "https://data.memoria-ll.link/arknights-data/browser/releases/cf47dfdd5298d14acc8fba84d3455679c49990a2c2ac88da6277c09b873be897/stage.json",
+      "url": "https://data.memoria-ll.link/arknights-data/browser/releases/3063c814624a255c25b6f7027ecfe42e4dac5f68b209eb849b44aa730de4273b/stage.json",
       "sha256": "5b81edad8b6d27830f6be693dd6cef0e23da3c0bc38fd1729d19d0f8c621d37d",
       "size": 19475
     }

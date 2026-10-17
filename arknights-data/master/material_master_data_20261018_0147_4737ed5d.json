@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "materials": [
     {
-      "id": "1",
+      "id": "2004",
       "name": {
         "ja": "上級作戦記録",
         "en": "Strategic B.R.",
@@ -12,7 +12,7 @@
       "recipe": null
     },
     {
-      "id": "2",
+      "id": "2003",
       "name": {
         "ja": "中級作戦記録",
         "en": "Tactical B.R.",
@@ -22,7 +22,7 @@
       "recipe": null
     },
     {
-      "id": "3",
+      "id": "2002",
       "name": {
         "ja": "初級作戦記録",
         "en": "Frontline B.R.",
@@ -32,7 +32,7 @@
       "recipe": null
     },
     {
-      "id": "4",
+      "id": "2001",
       "name": {
         "ja": "入門作戦記録",
         "en": "Drill B.R.",
@@ -62,7 +62,7 @@
       "recipe": null
     },
     {
-      "id": "13",
+      "id": "3303",
       "name": {
         "ja": "アーツ学3",
         "en": "Skill Summary 3",
@@ -71,13 +71,13 @@
       "rarity": 3,
       "recipe": [
         {
-          "materialId": "12",
+          "materialId": "3302",
           "count": 3
         }
       ]
     },
     {
-      "id": "12",
+      "id": "3302",
       "name": {
         "ja": "アーツ学2",
         "en": "Skill Summary 2",
@@ -86,13 +86,13 @@
       "rarity": 2,
       "recipe": [
         {
-          "materialId": "11",
+          "materialId": "3301",
           "count": 3
         }
       ]
     },
     {
-      "id": "11",
+      "id": "3301",
       "name": {
         "ja": "アーツ学1",
         "en": "Skill Summary 1",
@@ -268,8 +268,8 @@
     {
       "id": "31114",
       "name": {
-        "ja": "",
-        "en": "",
+        "ja": "集エネルギー動力ユニット",
+        "en": "Energy Accumulation Motor Unit",
         "ch": "聚能动力单元"
       },
       "rarity": 3,
@@ -291,8 +291,8 @@
     {
       "id": "31113",
       "name": {
-        "ja": "",
-        "en": "",
+        "ja": "電極ユニット",
+        "en": "Electrode Unit",
         "ch": "电极单元"
       },
       "rarity": 2,
@@ -301,8 +301,8 @@
     {
       "id": "31104",
       "name": {
-        "ja": "",
-        "en": "",
+        "ja": "液化エーテル凝縮剤",
+        "en": "Liquefied Ether Adsorbent",
         "ch": "液化醚吸聚体"
       },
       "rarity": 3,
@@ -324,8 +324,8 @@
     {
       "id": "31103",
       "name": {
-        "ja": "",
-        "en": "",
+        "ja": "液化高エネルギーガス",
+        "en": "Liquefied High-Energy Gas",
         "ch": "液化高能气体"
       },
       "rarity": 2,
@@ -1156,7 +1156,7 @@
       ]
     },
     {
-      "id": "39",
+      "id": "3213",
       "name": {
         "ja": "上級先鋒SoC",
         "en": "Vang. Dual Chip",
@@ -1169,13 +1169,13 @@
           "count": 1
         },
         {
-          "materialId": "38",
+          "materialId": "3212",
           "count": 2
         }
       ]
     },
     {
-      "id": "24",
+      "id": "3223",
       "name": {
         "ja": "上級前衛SoC",
         "en": "Guard Dual Chip",
@@ -1188,13 +1188,13 @@
           "count": 1
         },
         {
-          "materialId": "23",
+          "materialId": "3222",
           "count": 2
         }
       ]
     },
     {
-      "id": "36",
+      "id": "3233",
       "name": {
         "ja": "上級重装SoC",
         "en": "Def. Dual Chip",
@@ -1207,13 +1207,13 @@
           "count": 1
         },
         {
-          "materialId": "35",
+          "materialId": "3232",
           "count": 2
         }
       ]
     },
     {
-      "id": "27",
+      "id": "3243",
       "name": {
         "ja": "上級狙撃SoC",
         "en": "Sniper Dual Chip",
@@ -1226,13 +1226,13 @@
           "count": 1
         },
         {
-          "materialId": "26",
+          "materialId": "3242",
           "count": 2
         }
       ]
     },
     {
-      "id": "30",
+      "id": "3253",
       "name": {
         "ja": "上級術師SoC",
         "en": "Caster Dual Chip",
@@ -1245,13 +1245,13 @@
           "count": 1
         },
         {
-          "materialId": "29",
+          "materialId": "3252",
           "count": 2
         }
       ]
     },
     {
-      "id": "33",
+      "id": "3263",
       "name": {
         "ja": "上級医療SoC",
         "en": "Medic Dual Chip",
@@ -1264,13 +1264,13 @@
           "count": 1
         },
         {
-          "materialId": "32",
+          "materialId": "3262",
           "count": 2
         }
       ]
     },
     {
-      "id": "42",
+      "id": "3273",
       "name": {
         "ja": "上級補助SoC",
         "en": "Sup. Dual Chip",
@@ -1283,13 +1283,13 @@
           "count": 1
         },
         {
-          "materialId": "41",
+          "materialId": "3272",
           "count": 2
         }
       ]
     },
     {
-      "id": "45",
+      "id": "3283",
       "name": {
         "ja": "上級特殊SoC",
         "en": "Spec. Dual Chip",
@@ -1302,13 +1302,13 @@
           "count": 1
         },
         {
-          "materialId": "44",
+          "materialId": "3282",
           "count": 2
         }
       ]
     },
     {
-      "id": "38",
+      "id": "3212",
       "name": {
         "ja": "中級先鋒SoC",
         "en": "Vang. Chip Pack",
@@ -1318,7 +1318,7 @@
       "recipe": null
     },
     {
-      "id": "23",
+      "id": "3222",
       "name": {
         "ja": "中級前衛SoC",
         "en": "Guard Chip Pack",
@@ -1328,7 +1328,7 @@
       "recipe": null
     },
     {
-      "id": "35",
+      "id": "3232",
       "name": {
         "ja": "中級重装SoC",
         "en": "Def. Chip Pack",
@@ -1338,7 +1338,7 @@
       "recipe": null
     },
     {
-      "id": "26",
+      "id": "3242",
       "name": {
         "ja": "中級狙撃SoC",
         "en": "Sniper Chip Pack",
@@ -1348,7 +1348,7 @@
       "recipe": null
     },
     {
-      "id": "29",
+      "id": "3252",
       "name": {
         "ja": "中級術師SoC",
         "en": "Caster Chip Pack",
@@ -1358,7 +1358,7 @@
       "recipe": null
     },
     {
-      "id": "32",
+      "id": "3262",
       "name": {
         "ja": "中級医療SoC",
         "en": "Medic Chip Pack",
@@ -1368,7 +1368,7 @@
       "recipe": null
     },
     {
-      "id": "41",
+      "id": "3272",
       "name": {
         "ja": "中級補助SoC",
         "en": "Sup. Chip Pack",
@@ -1378,7 +1378,7 @@
       "recipe": null
     },
     {
-      "id": "44",
+      "id": "3282",
       "name": {
         "ja": "中級特殊SoC",
         "en": "Spec. Chip Pack",
@@ -1388,7 +1388,7 @@
       "recipe": null
     },
     {
-      "id": "37",
+      "id": "3211",
       "name": {
         "ja": "初級先鋒SoC",
         "en": "Vanguard Chip",
@@ -1398,7 +1398,7 @@
       "recipe": null
     },
     {
-      "id": "22",
+      "id": "3221",
       "name": {
         "ja": "初級前衛SoC",
         "en": "Guard Chip",
@@ -1408,7 +1408,7 @@
       "recipe": null
     },
     {
-      "id": "34",
+      "id": "3231",
       "name": {
         "ja": "初級重装SoC",
         "en": "Defender Chip",
@@ -1418,7 +1418,7 @@
       "recipe": null
     },
     {
-      "id": "25",
+      "id": "3241",
       "name": {
         "ja": "初級狙撃SoC",
         "en": "Sniper Chip",
@@ -1428,7 +1428,7 @@
       "recipe": null
     },
     {
-      "id": "28",
+      "id": "3251",
       "name": {
         "ja": "初級術師SoC",
         "en": "Caster Chip",
@@ -1438,7 +1438,7 @@
       "recipe": null
     },
     {
-      "id": "31",
+      "id": "3261",
       "name": {
         "ja": "初級医療SoC",
         "en": "Medic Chip",
@@ -1448,7 +1448,7 @@
       "recipe": null
     },
     {
-      "id": "40",
+      "id": "3271",
       "name": {
         "ja": "初級補助SoC",
         "en": "Supporter Chip",
@@ -1458,7 +1458,7 @@
       "recipe": null
     },
     {
-      "id": "43",
+      "id": "3281",
       "name": {
         "ja": "初級特殊SoC",
         "en": "Specialist Chip",
