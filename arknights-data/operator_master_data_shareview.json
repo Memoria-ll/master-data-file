@@ -672,7 +672,8 @@
       "rarity": "☆6",
       "modules": {
         "X": true,
-        "Y": true
+        "Y": true,
+        "A": true
       }
     },
     "II07": {
@@ -902,7 +903,8 @@
       "rarity": "☆6",
       "modules": {
         "X": true,
-        "Y": true
+        "Y": true,
+        "D": true
       }
     },
     "CB88": {
@@ -1436,7 +1438,9 @@
         "ch": "凛御银灰"
       },
       "rarity": "☆6",
-      "modules": {}
+      "modules": {
+        "X": true
+      }
     },
     "KJ02": {
       "name": {
@@ -1457,6 +1461,7 @@
       },
       "rarity": "☆6",
       "modules": {
+        "X": true,
         "Y": true
       }
     },
@@ -1629,6 +1634,35 @@
       },
       "rarity": "☆6",
       "modules": {}
+    },
+    "US00": {
+      "name": {
+        "ja": "タルラ",
+        "en": "Talulah",
+        "ch": "塔露拉"
+      },
+      "rarity": "☆6",
+      "modules": {}
+    },
+    "US50": {
+      "name": {
+        "ja": "トスカ",
+        "en": "Toska",
+        "ch": "冻河"
+      },
+      "rarity": "☆6",
+      "modules": {}
+    },
+    "SPCE": {
+      "name": {
+        "ja": "チリトーリヤ",
+        "en": "Territoriya",
+        "ch": "国度"
+      },
+      "rarity": "☆6",
+      "modules": {
+        "X": true
+      }
     },
     "RB01": {
       "name": {
@@ -3558,7 +3592,9 @@
         "ch": "松桐"
       },
       "rarity": "☆5",
-      "modules": {}
+      "modules": {
+        "X": true
+      }
     },
     "AM02": {
       "name": {
@@ -3821,6 +3857,28 @@
         "ja": "ホームバウンド",
         "en": "Homebound",
         "ch": "旅骨"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "X": true
+      }
+    },
+    "US52": {
+      "name": {
+        "ja": "オリガ",
+        "en": "Olga",
+        "ch": "奥尔佳"
+      },
+      "rarity": "☆5",
+      "modules": {
+        "X": true
+      }
+    },
+    "R186": {
+      "name": {
+        "ja": "カレイド",
+        "en": "Caleido",
+        "ch": "镜匠"
       },
       "rarity": "☆5",
       "modules": {
@@ -4495,6 +4553,15 @@
       "modules": {
         "X": true
       }
+    },
+    "MN10": {
+      "name": {
+        "ja": "ハードベル",
+        "en": "Herdbells",
+        "ch": "行铃"
+      },
+      "rarity": "☆4",
+      "modules": {}
     },
     "PA11": {
       "name": {

@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "gameData": {
     "sex": [
       {
@@ -445,6 +445,14 @@
           "en": "Bang Dream",
           "ch": "Bang Dream"
         }
+      },
+      {
+        "id": 106,
+        "name": {
+          "ja": "ペルソナ",
+          "en": "Persona",
+          "ch": "Persona"
+        }
       }
     ],
     "faction": [
@@ -454,7 +462,10 @@
           "ja": "ウルサス",
           "en": "Ursus",
           "ch": "Ursus"
-        }
+        },
+        "subFactions": [
+          1
+        ]
       },
       {
         "id": 1,
@@ -462,7 +473,8 @@
           "ja": "ウルサス学生自治団",
           "en": "Ursus Student Self-Gover. Gr.",
           "ch": "Ursus Student Self-Gover. Gr."
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 2,
@@ -470,7 +482,12 @@
           "ja": "龍門",
           "en": "Lungmen",
           "ch": "Lungmen"
-        }
+        },
+        "subFactions": [
+          3,
+          5,
+          4
+        ]
       },
       {
         "id": 3,
@@ -478,7 +495,8 @@
           "ja": "龍門近衛局",
           "en": "Lungmen Guard Department",
           "ch": "Lungmen Guard Department"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 4,
@@ -486,7 +504,8 @@
           "ja": "リー探偵事務所",
           "en": "Lee's Detective Agency",
           "ch": "Lee's Detective Agency"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 5,
@@ -494,7 +513,8 @@
           "ja": "ペンギン急便",
           "en": "Penguin Logistics",
           "ch": "Penguin Logistics"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 6,
@@ -502,7 +522,14 @@
           "ja": "炎国",
           "en": "Yan",
           "ch": "Yan"
-        }
+        },
+        "subFactions": [
+          2,
+          7,
+          3,
+          5,
+          4
+        ]
       },
       {
         "id": 7,
@@ -510,7 +537,8 @@
           "ja": "歳",
           "en": "Sui",
           "ch": "Sui"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 8,
@@ -518,7 +546,8 @@
           "ja": "極東",
           "en": "Higashi",
           "ch": "Higashi"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 9,
@@ -526,7 +555,8 @@
           "ja": "ラテラーノ",
           "en": "Laterano",
           "ch": "Laterano"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 10,
@@ -534,7 +564,8 @@
           "ja": "リターニア",
           "en": "Leithania",
           "ch": "Leithania"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 11,
@@ -542,7 +573,8 @@
           "ja": "カランド貿易",
           "en": "Karlan Trade",
           "ch": "Karlan Trade"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 12,
@@ -550,7 +582,11 @@
           "ja": "ヴィクトリア",
           "en": "Victoria",
           "ch": "Victoria"
-        }
+        },
+        "subFactions": [
+          13,
+          40
+        ]
       },
       {
         "id": 13,
@@ -558,7 +594,8 @@
           "ja": "グラスゴー",
           "en": "Glasgow",
           "ch": "Glasgow"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 14,
@@ -566,7 +603,8 @@
           "ja": "レム・ビリトン",
           "en": "Rim Billiton",
           "ch": "Rim Billiton"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 15,
@@ -574,7 +612,10 @@
           "ja": "カジミエーシュ",
           "en": "Kazimierz",
           "ch": "Kazimierz"
-        }
+        },
+        "subFactions": [
+          16
+        ]
       },
       {
         "id": 16,
@@ -582,7 +623,8 @@
           "ja": "レッドパイン騎士団",
           "en": "Pinus Sylvestris",
           "ch": "Pinus Sylvestris"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 17,
@@ -590,7 +632,10 @@
           "ja": "シラクーザ",
           "en": "Siracusa",
           "ch": "Siracusa"
-        }
+        },
+        "subFactions": [
+          18
+        ]
       },
       {
         "id": 18,
@@ -598,7 +643,8 @@
           "ja": "キアーベ一味",
           "en": "Chiave's Gang",
           "ch": "Chiave's Gang"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 19,
@@ -606,7 +652,12 @@
           "ja": "クルビア",
           "en": "Columbia",
           "ch": "Columbia"
-        }
+        },
+        "subFactions": [
+          21,
+          20,
+          24
+        ]
       },
       {
         "id": 20,
@@ -614,7 +665,8 @@
           "ja": "BSW",
           "en": "BSW",
           "ch": "BSW"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 21,
@@ -622,7 +674,8 @@
           "ja": "ライン生命",
           "en": "Rhine Lab",
           "ch": "Rhine Lab"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 22,
@@ -630,7 +683,8 @@
           "ja": "サルゴン",
           "en": "Sargon",
           "ch": "Sargon"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 23,
@@ -638,7 +692,8 @@
           "ja": "サーミ",
           "en": "Sami",
           "ch": "Sami"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 24,
@@ -646,7 +701,8 @@
           "ja": "シエスタ",
           "en": "Siesta",
           "ch": "Siesta"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 25,
@@ -654,7 +710,8 @@
           "ja": "ボリバル",
           "en": "Bolívar",
           "ch": "Bolívar"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 26,
@@ -662,7 +719,8 @@
           "ja": "ミノス",
           "en": "Minos",
           "ch": "Minos"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 27,
@@ -670,7 +728,10 @@
           "ja": "エーギル",
           "en": "Aegir",
           "ch": "Aegir"
-        }
+        },
+        "subFactions": [
+          28
+        ]
       },
       {
         "id": 28,
@@ -678,7 +739,8 @@
           "ja": "アビサル",
           "en": "Abyssal",
           "ch": "Abyssal"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 29,
@@ -686,7 +748,8 @@
           "ja": "イベリア",
           "en": "Iberia",
           "ch": "Iberia"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 30,
@@ -694,7 +757,15 @@
           "ja": "ロドス・アイランド",
           "en": "Rhodes Island",
           "ch": "Rhodes Island"
-        }
+        },
+        "subFactions": [
+          36,
+          37,
+          34,
+          31,
+          32,
+          33
+        ]
       },
       {
         "id": 31,
@@ -702,7 +773,8 @@
           "ja": "行動予備隊A1",
           "en": "Op Reserve A1",
           "ch": "Op Reserve A1"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 32,
@@ -710,7 +782,8 @@
           "ja": "行動予備隊A4",
           "en": "Op Reserve A4",
           "ch": "Op Reserve A4"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 33,
@@ -718,7 +791,8 @@
           "ja": "行動予備隊A6",
           "en": "Op Reserve A6",
           "ch": "Op Reserve A6"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 34,
@@ -726,7 +800,8 @@
           "ja": "行動隊A4",
           "en": "Op A4",
           "ch": "Op A4"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 35,
@@ -734,7 +809,8 @@
           "ja": "使徒",
           "en": "Followers",
           "ch": "Followers"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 36,
@@ -742,7 +818,8 @@
           "ja": "エリートオペレーター",
           "en": "Elite Op",
           "ch": "Elite Op"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 37,
@@ -750,7 +827,8 @@
           "ja": "S.W.E.E.P.",
           "en": "S.W.E.E.P.",
           "ch": "S.W.E.E.P."
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 38,
@@ -758,7 +836,8 @@
           "ja": "バベル",
           "en": "Babel",
           "ch": "Babel"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 39,
@@ -766,7 +845,8 @@
           "ja": "レインボー小隊",
           "en": "Team Rainbow",
           "ch": "Team Rainbow"
-        }
+        },
+        "subFactions": []
       },
       {
         "id": 40,
@@ -774,7 +854,19 @@
           "ja": "ターラー",
           "en": "Tara",
           "ch": "Tara"
-        }
+        },
+        "subFactions": []
+      },
+      {
+        "id": 41,
+        "name": {
+          "ja": "イェラグ",
+          "en": "Kjerag",
+          "ch": "Kjerag"
+        },
+        "subFactions": [
+          11
+        ]
       }
     ],
     "place": [
@@ -1017,6 +1109,14 @@
           "en": "Bang Dream",
           "ch": "Bang Dream"
         }
+      },
+      {
+        "id": 106,
+        "name": {
+          "ja": "ペルソナ",
+          "en": "Persona",
+          "ch": "Persona"
+        }
       }
     ],
     "subClass": {
@@ -1170,7 +1270,7 @@
         {
           "id": 12,
           "name": {
-            "ja": "本源前衛",
+            "ja": "本源戦士",
             "en": "Primal Guard",
             "ch": "本源近卫"
           }
@@ -1326,7 +1426,7 @@
         {
           "id": 9,
           "name": {
-            "ja": "裂空砲手",
+            "ja": "翔空射手",
             "en": "Skybreaker ",
             "ch": "裂空炮手"
           }
@@ -1458,7 +1558,7 @@
         {
           "id": 6,
           "name": {
-            "ja": "守望者",
+            "ja": "空癒師",
             "en": "Watchman",
             "ch": "守望者"
           }
@@ -1519,6 +1619,14 @@
             "ja": "祭儀師",
             "en": "Ritualist",
             "ch": "巫役"
+          }
+        },
+        {
+          "id": 7,
+          "name": {
+            "ja": "",
+            "en": "",
+            "ch": "游击手"
           }
         }
       ],
@@ -1602,8 +1710,23 @@
             "en": "Sky Ranger",
             "ch": "巡空者"
           }
+        },
+        {
+          "id": 10,
+          "name": {
+            "ja": "",
+            "en": "",
+            "ch": "调度者"
+          }
         }
       ]
-    }
+    },
+    "module": [
+      "X",
+      "Y",
+      "D",
+      "A",
+      "B"
+    ]
   }
 }
